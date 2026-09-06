@@ -1,12 +1,21 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Viterbo, alla scoperta della Città dei Papi: il mio viaggio nel centro medievale più grande d’Europa (con tanto di piscine termali gratuite)",
+      "link": "https://www.greenme.it/viaggi/italia/viterbo-alla-scoperta-della-citta-dei-papi-il-mio-viaggio-nel-centro-medievale-piu-grande-deuropa-con-tanto-di-piscine-termali-gratuite/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/07/Viterbo-4-copertina.jpg",
+      "data": "06/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un viaggio emozionante nel cuore della Tuscia: esploriamo Viterbo con il centro medievale più grande d'Europa, le incredibili storie del Palazzo dei Papi e i..."
+    },
     {
       "titolo": "Gli scienziati scoprono un'enorme anomalia di calore nel profondo di Marte",
       "link": "https://www.sciencedaily.com/releases/2026/08/260828082336.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "30/08/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Marte ha un divario di temperatura nascosto, con il suo interno meridionale potenzialmente centinaia di gradi più caldo del nord e parzialmente fuso. La scoperta co..."
