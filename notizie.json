@@ -1,12 +1,30 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "Con le piume ricoperte di nero e incapace di volare: il cigno salvato dallo sversamento di idrocarburi nel Naviglio Grande lotta per la vita",
+      "link": "https://www.greenme.it/animali/animali-selvatici/sversamento-naviglio-grande-cigno-reale-imbrattato/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Cigno-reale-sversamento.jpg",
+      "data": "07/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Sversamento di idrocarburi nel Naviglio: un cigno imbrattato è stato salvato e lotta al centro Lipu La Fagiana con il piumaggio tutto ricoperto di idrocarburi"
+    },
+    {
+      "titolo": "Batterie scariche, non buttarle: Ripartono ‘Trova l’intruso’ e l’impegno per il riciclo",
+      "link": "https://www.greenme.it/esg/batterie-scariche-non-buttarle-ripartono-trova-lintruso-e-limpegno-per-il-riciclo/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/pile-esauste_campagna.jpg",
+      "data": "07/09/2026",
+      "categoria": "Società",
+      "sommario": "Il Centro di Coordinamento Batterie rinnova la campagna 'Trova l'intruso', puntando a trasformare la consapevolezza sullo smaltimento delle batterie esauste ..."
+    },
     {
       "titolo": "Florida Teens Design Charity App per aiutare la generosa gente del posto a consegnare \"Pizza for a Purpose\"",
       "link": "https://www.goodnewsnetwork.org/florida-teens-design-charity-app-to-help-generous-locals-deliver-pizza-for-a-purpose/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "31/08/2026",
       "categoria": "Mondo",
       "sommario": "Due adolescenti del sud della Florida con un debole per il volontariato hanno usato le loro competenze informatiche per costruire un'app che facilita la donazione di pizze dal ristorante locale..."
@@ -15,7 +33,7 @@
       "titolo": "I piedi fossili possono fuorviare gli scienziati sull'evoluzione umana",
       "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "31/08/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Le scimmie selvatiche nell'Africa occidentale possono arrampicarsi sui tronchi d'albero verticali usando la flessibilità del piede che gli scienziati non si rendevano conto di possedere. La scoperta sfida una chiave a..."
