@@ -1,7 +1,34 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Florida Teens Design Charity App per aiutare la generosa gente del posto a consegnare \"Pizza for a Purpose\"",
+      "link": "https://www.goodnewsnetwork.org/florida-teens-design-charity-app-to-help-generous-locals-deliver-pizza-for-a-purpose/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "31/08/2026",
+      "categoria": "Mondo",
+      "sommario": "Due adolescenti del sud della Florida con un debole per il volontariato hanno usato le loro competenze informatiche per costruire un'app che facilita la donazione di pizze dal ristorante locale..."
+    },
+    {
+      "titolo": "I piedi fossili possono fuorviare gli scienziati sull'evoluzione umana",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "31/08/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Le scimmie selvatiche nell'Africa occidentale possono arrampicarsi sui tronchi d'albero verticali usando la flessibilità del piede che gli scienziati non si rendevano conto di possedere. La scoperta sfida una chiave a..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono che i diamanti possono generare elettricità",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "31/08/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Si pensava che il diamante non fosse in grado di produrre elettricità attraverso la deformazione meccanica, ma le membrane diamantate flessibili ultrasottili hanno ora mostrato una forte..."
+    },
     {
       "titolo": "Viterbo, alla scoperta della Città dei Papi: il mio viaggio nel centro medievale più grande d’Europa (con tanto di piscine termali gratuite)",
       "link": "https://www.greenme.it/viaggi/italia/viterbo-alla-scoperta-della-citta-dei-papi-il-mio-viaggio-nel-centro-medievale-piu-grande-deuropa-con-tanto-di-piscine-termali-gratuite/",
@@ -181,51 +208,6 @@
       "data": "01/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Circa 348 GW di potenza fotovoltaica nel mondo sono gestiti tramite contratti di O&M affidati a fornitori specializzati esterni\nL'articolo Mercato O&M fotovo..."
-    },
-    {
-      "titolo": "Allo zoo di Napoli è nata Parthenope, un’adorabile cucciola di giaguaro (ma vivrà per sempre lontana dal suo habitat)",
-      "link": "https://www.greenme.it/animali/animali-selvatici/nata-parthenope-giaguaro-zoo-napoli/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/08/Giaguaro-zoo-Napoli.jpg",
-      "data": "31/08/2026",
-      "categoria": "Animali",
-      "sommario": "Nata Parthenope allo Zoo di Napoli, figlia di Ananga e Ares. È il terzo cucciolo dell’unica coppia riproduttiva in Italia, ma purtroppo vivrà per sempre in c..."
-    },
-    {
-      "titolo": "Florida Teens Design Charity App per aiutare la generosa gente del posto a consegnare \"Pizza for a Purpose\"",
-      "link": "https://www.goodnewsnetwork.org/florida-teens-design-charity-app-to-help-generous-locals-deliver-pizza-for-a-purpose/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "31/08/2026",
-      "categoria": "Mondo",
-      "sommario": "Due adolescenti del sud della Florida con un debole per il volontariato hanno usato le loro competenze informatiche per costruire un'app che facilita la donazione di pizze dal ristorante locale..."
-    },
-    {
-      "titolo": "I piedi fossili possono fuorviare gli scienziati sull'evoluzione umana",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "31/08/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Le scimmie selvatiche nell'Africa occidentale possono arrampicarsi sui tronchi d'albero verticali usando la flessibilità del piede che gli scienziati non si rendevano conto di possedere. La scoperta sfida una chiave a..."
-    },
-    {
-      "titolo": "Perù autentico: alla scoperta delle Ande con l’esperienza di Evaneos",
-      "link": "https://www.greenme.it/viaggi/mondo/peru-autentico-alla-scoperta-delle-ande-con-lesperienza-di-evaneos/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/08/peru.jpg",
-      "data": "31/08/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Esiste un Perù che va oltre le classiche rotte turistiche e affolate, fatto di vette maestose, valli sacre e comunità che custodiscono silenziosamente tradiz..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono che i diamanti possono generare elettricità",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "31/08/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Si pensava che il diamante non fosse in grado di produrre elettricità attraverso la deformazione meccanica, ma le membrane diamantate flessibili ultrasottili hanno ora mostrato una forte..."
     }
   ]
 }
