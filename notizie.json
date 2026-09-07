@@ -1,12 +1,12 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
     {
       "titolo": "Florida Teens Design Charity App per aiutare la generosa gente del posto a consegnare \"Pizza for a Purpose\"",
       "link": "https://www.goodnewsnetwork.org/florida-teens-design-charity-app-to-help-generous-locals-deliver-pizza-for-a-purpose/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
       "data": "31/08/2026",
       "categoria": "Mondo",
       "sommario": "Due adolescenti del sud della Florida con un debole per il volontariato hanno usato le loro competenze informatiche per costruire un'app che facilita la donazione di pizze dal ristorante locale..."
@@ -15,19 +15,10 @@
       "titolo": "I piedi fossili possono fuorviare gli scienziati sull'evoluzione umana",
       "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "31/08/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Le scimmie selvatiche nell'Africa occidentale possono arrampicarsi sui tronchi d'albero verticali usando la flessibilità del piede che gli scienziati non si rendevano conto di possedere. La scoperta sfida una chiave a..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono che i diamanti possono generare elettricità",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
-      "fonte": "Science Daily",
       "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
       "data": "31/08/2026",
       "categoria": "Scienza & Tech",
-      "sommario": "Si pensava che il diamante non fosse in grado di produrre elettricità attraverso la deformazione meccanica, ma le membrane diamantate flessibili ultrasottili hanno ora mostrato una forte..."
+      "sommario": "Le scimmie selvatiche nell'Africa occidentale possono arrampicarsi sui tronchi d'albero verticali usando la flessibilità del piede che gli scienziati non si rendevano conto di possedere. La scoperta sfida una chiave a..."
     },
     {
       "titolo": "Viterbo, alla scoperta della Città dei Papi: il mio viaggio nel centro medievale più grande d’Europa (con tanto di piscine termali gratuite)",
