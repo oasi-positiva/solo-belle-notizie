@@ -1,7 +1,43 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Una mamma orango e il suo cucciolo salvati dagli incendi nel Borneo: le emozionanti immagini del loro rilascio in un santuario",
+      "link": "https://www.greenme.it/animali/animali-selvatici/mamma-orango-cucciolo-salvati-incendi-borneo/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Salvataggio-oranghi.jpg",
+      "data": "07/09/2026",
+      "categoria": "Animali",
+      "sommario": "Le squadre di emergenza hanno salvato due oranghi dagli incendi nel Borneo: una mamma e il suo cucciolo trasferiti nel Santuario Lamandau. Ora sono stati tra..."
+    },
+    {
+      "titolo": "Dopo l’addio a Gennarino, “Affari Tuoi” cambia mascotte: al fianco di Stefano De Martino arriva Tommasino",
+      "link": "https://www.greenme.it/pet/cani/affari-tuoi-gennarino-tommasino/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Affari-Tuoi.jpg",
+      "data": "07/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Passaggio di consegne ad Affari Tuoi: il celebre cane Gennarino va in pensione a 13 anni e lascia il posto al nipote Tommasino, il giovane cucciolo pronto ad..."
+    },
+    {
+      "titolo": "L'azienda acquista la centrale a carbone del Texas per sfruttare le sue connessioni alla rete per il nuovo massiccio progetto solare",
+      "link": "https://www.goodnewsnetwork.org/firm-buys-texas-coal-plant-to-leverage-its-grid-connections-for-new-massive-solar-project/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "07/09/2026",
+      "categoria": "Mondo",
+      "sommario": "L'energia da carbone ha ancora un ruolo enorme da svolgere nel mix energetico americano, trasformando la sua consistente infrastruttura di rete in progetti di energia rinnovabile. Energia ..."
+    },
+    {
+      "titolo": "Il pubblico ha chiesto di esprimere la propria opinione sulla proposta di una nuova società di energia rinnovabile",
+      "link": "https://www.bbc.co.uk/news/articles/c780n702pp4o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "07/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "I piani proposti mirano a ridurre il costo dell'energia a lungo termine, ma non saranno in grado di stabilire le bollette."
+    },
     {
       "titolo": "Con le piume ricoperte di nero e incapace di volare: il cigno salvato dallo sversamento di idrocarburi nel Naviglio Grande lotta per la vita",
       "link": "https://www.greenme.it/animali/animali-selvatici/sversamento-naviglio-grande-cigno-reale-imbrattato/",
@@ -19,24 +55,6 @@
       "data": "07/09/2026",
       "categoria": "Società",
       "sommario": "Il Centro di Coordinamento Batterie rinnova la campagna 'Trova l'intruso', puntando a trasformare la consapevolezza sullo smaltimento delle batterie esauste ..."
-    },
-    {
-      "titolo": "Florida Teens Design Charity App per aiutare la generosa gente del posto a consegnare \"Pizza for a Purpose\"",
-      "link": "https://www.goodnewsnetwork.org/florida-teens-design-charity-app-to-help-generous-locals-deliver-pizza-for-a-purpose/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "31/08/2026",
-      "categoria": "Mondo",
-      "sommario": "Due adolescenti del sud della Florida con un debole per il volontariato hanno usato le loro competenze informatiche per costruire un'app che facilita la donazione di pizze dal ristorante locale..."
-    },
-    {
-      "titolo": "I piedi fossili possono fuorviare gli scienziati sull'evoluzione umana",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "31/08/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Le scimmie selvatiche nell'Africa occidentale possono arrampicarsi sui tronchi d'albero verticali usando la flessibilità del piede che gli scienziati non si rendevano conto di possedere. La scoperta sfida una chiave a..."
     },
     {
       "titolo": "Viterbo, alla scoperta della Città dei Papi: il mio viaggio nel centro medievale più grande d’Europa (con tanto di piscine termali gratuite)",
