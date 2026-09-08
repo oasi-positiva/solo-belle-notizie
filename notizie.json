@@ -1,7 +1,16 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "A massive plume deep beneath Africa is pulling the continent apart",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831015210.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "01/09/2026",
+      "categoria": "Mondo",
+      "sommario": "A vast plume rising from deep inside Earth may be responsible for mysterious movements along the East African Rift. The discovery reveals how forces deep in ..."
+    },
     {
       "titolo": "Una mamma orango e il suo cucciolo salvati dagli incendi nel Borneo: le emozionanti immagini del loro rilascio in un santuario",
       "link": "https://www.greenme.it/animali/animali-selvatici/mamma-orango-cucciolo-salvati-incendi-borneo/",
@@ -190,51 +199,6 @@
       "data": "02/09/2026",
       "categoria": "Animali",
       "sommario": "L'ippopotama Camilla ha partorito il suo quindicesimo cucciolo a 55 anni al Parco Natura Viva di Bussolengo. Un evento straordinario che però non può non far..."
-    },
-    {
-      "titolo": "Un enorme pennacchio in profondità sotto l'Africa sta separando il continente",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260831015210.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "01/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Un vasto pennacchio che sale dal profondo della Terra potrebbe essere responsabile di movimenti misteriosi lungo la spaccatura dell'Africa orientale. La scoperta rivela come le forze nel profondo..."
-    },
-    {
-      "titolo": "Se lavori in ufficio queste sono le 15 cose che devi assolutamente avere per il tuo rientro a lavoro",
-      "link": "https://www.greenme.it/lifestyle/lavoro-e-ufficio/5-cose-che-devi-assolutamente-avere-per-il-tuo-rientro-a-lavoro/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2025/09/lavoro-da-ufficio.jpg",
-      "data": "01/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Scopriamo i 15 accessori indispensabili per affrontare al meglio il rientro in ufficio: dal lunchbox eco-sostenibile agli auricolari noise cancelling, tutto ..."
-    },
-    {
-      "titolo": "Questo preside eroe ha salvato 900 studenti dall’alluvione in Nepal evacuando la scuola (che poi è stata sommersa)",
-      "link": "https://www.greenme.it/lifestyle/costume-e-societa/preside-salvato-900-studenti-alluvione-nepal/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Preside-Nepal.jpg",
-      "data": "01/09/2026",
-      "categoria": "Mondo",
-      "sommario": "In Nepal il preside Rajendra Dawadi ha evacuato la scuola Tribhuvan Trishuli pochi minuti prima dell'alluvione, salvando 900 studenti prima che il fiume trav..."
-    },
-    {
-      "titolo": "Idrogeno verde, successo per il progetto Sirius: validata la tecnologia AEMWE senza metalli rari",
-      "link": "https://www.rinnovabili.it/mercato/le-aziende-informano/idrogeno-verde-progetto-sirius-valida-tecnologia-aemwe/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "01/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "La collaborazione tra le società Inrete e Hyter, insieme a MatRes e al Dipartimento di Scienze Chimiche dell’Università degli Studi di Padova, ha consentito ..."
-    },
-    {
-      "titolo": "Mercato O&M fotovoltaico tra consolidamento, innovazione digitale e crescita globale",
-      "link": "https://www.rinnovabili.it/energia/fotovoltaico/mercato-om-fotovoltaico-fornitori/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "01/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Circa 348 GW di potenza fotovoltaica nel mondo sono gestiti tramite contratti di O&M affidati a fornitori specializzati esterni\nL'articolo Mercato O&M fotovo..."
     }
   ]
 }
