@@ -1,7 +1,34 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "A 100 anni David Attenborough vince il premio come miglior conduttore: “Ora la natura ha bisogno di noi”",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/a-100-anni-david-attenborough-vince-il-premio-come-miglior-conduttore-ora-la-natura-ha-bisogno-di-noi/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/David-Attenborough-3.jpg",
+      "data": "09/09/2026",
+      "categoria": "Animali",
+      "sommario": "Il naturalista britannico festeggia il traguardo con un riconoscimento ai National Television Awards. Nel discorso letto in sua assenza, l'appello a protegge..."
+    },
+    {
+      "titolo": "Hanno provato a ucciderla 6 volte perché difende l’Amazzonia: il film prodotto da DiCaprio su Juma Xipaia da vedere (gratis)",
+      "link": "https://www.greenme.it/ambiente/hanno-provato-a-ucciderla-6-volte-perche-difende-lamazzonia-il-film-prodotto-da-dicaprio-su-juma-xipaia-da-vedere-gratis1001/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/film_dicaprio.jpg",
+      "data": "09/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Una storia di resistenza, amore e difesa della foresta amazzonica: “Yanuni”, il documentario diretto da Richard Ladkani e prodotto, tra gli altri, da Leonard..."
+    },
+    {
+      "titolo": "Miliardario si sposa in Sardegna e col marito dona 1,6 milioni in beneficenza (per i bambini in terapia intensiva e animali)",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/miliardario-si-sposa-dona-16-milioni/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Donazione-matrimonio.jpg",
+      "data": "09/09/2026",
+      "categoria": "Animali",
+      "sommario": "Brendan Blumer e Salvatore Spano donano 1,6 milioni per le nozze in Sardegna: fondi al Brotzu, alla ricerca Ebri e alla Lida. Niente regali, ai 300 invitati ..."
+    },
     {
       "titolo": "Oltre il negozio dell'usato: dove le tue donazioni fanno più bene",
       "link": "https://www.optimistdaily.com/2026/09/beyond-the-thrift-store-where-your-donations-do-more-good/",
