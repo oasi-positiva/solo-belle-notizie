@@ -1,7 +1,25 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
   "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Oltre il negozio dell'usato: dove le tue donazioni fanno più bene",
+      "link": "https://www.optimistdaily.com/2026/09/beyond-the-thrift-store-where-your-donations-do-more-good/",
+      "fonte": "Optimist Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "09/09/2026",
+      "categoria": "Mondo",
+      "sommario": "IL TEAM EDITORIALE QUOTIDIANO OTTIMISTA Quando fai il decluttering, il negozio dell'usato è la prima mossa ovvia. Lasciala ed è fatta. Ma molte delle cose che la gente ..."
+    },
+    {
+      "titolo": "Douglas Head ha designato un'area di conservazione",
+      "link": "https://www.bbc.co.uk/news/articles/ckg0jmpv31jo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "09/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Douglas Head è stato formalmente designato come Area di Conservazione, ma cosa significa in realtà?"
+    },
     {
       "titolo": "Cane massacrato di botte e strangolato nel Beneventano: Giotto rischia la vita (dopo essere stato salvato da una passante)",
       "link": "https://www.greenme.it/pet/cani/cane-massacrato-botte-zampa-tagliata/",
