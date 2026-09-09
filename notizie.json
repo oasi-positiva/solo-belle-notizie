@@ -1,7 +1,43 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
   "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Frecce del Diavolo: antichi costruttori hanno trainato pietre da 55.000 libbre per 11 miglia per la fila di pietre più alta della Gran Bretagna",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "09/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Le imponenti frecce del diavolo della Gran Bretagna sono state costruite con pietre da 25 tonnellate trasportate ad almeno 18 chilometri da Brimham Rocks circa 4.000 anni fa. La scoperta rivela..."
+    },
+    {
+      "titolo": "Gli scienziati cinesi trovano una struttura atomica nascosta che sblocca il metano",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "09/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto che una minuscola struttura atomica che si forma sull'ossido di nichel durante la conversione del metano è più efficace del nichel metallico a lungo..."
+    },
+    {
+      "titolo": "La \"scienza dei paracadute\" sta fallendo ai tropici, sede di oltre l'80% delle specie di insetti",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "09/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli insetti tengono tranquillamente insieme gran parte del mondo naturale, ma gli sforzi di conservazione stanno trascurando le regioni tropicali dove oltre l'80% degli insetti..."
+    },
+    {
+      "titolo": "La caffeina può capovolgere un antico interruttore cellulare legato a un invecchiamento più lento",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "09/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno scoperto che la caffeina attiva un antico sistema energetico cellulare coinvolto nella resistenza allo stress, nella riparazione del DNA e nella crescita. La scoperta potrebbe aiutare ex..."
+    },
     {
       "titolo": "A 100 anni David Attenborough vince il premio come miglior conduttore: “Ora la natura ha bisogno di noi”",
       "link": "https://www.greenme.it/lifestyle/costume-e-societa/a-100-anni-david-attenborough-vince-il-premio-come-miglior-conduttore-ora-la-natura-ha-bisogno-di-noi/",
