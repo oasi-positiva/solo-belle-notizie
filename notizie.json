@@ -1,7 +1,16 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "\"La mia pausa di carriera che mi ha cambiato la vita è avvenuta perché indossavo un cappotto di seconda mano\"",
+      "link": "https://www.positive.news/society/richard-e-grant-fronts-second-hand-september-as-britons-try-to-buy-fewer-clothes/",
+      "fonte": "Positive News",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "03/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Richard E Grant ha vinto l'oro in un negozio di beneficenza – ora è di fronte a un campeggio per ispirare gli altri a fare lo stesso \nIL post ‘My life changing career break happene..."
+    },
     {
       "titolo": "Frecce del Diavolo: antichi costruttori hanno trainato pietre da 55.000 libbre per 11 miglia per la fila di pietre più alta della Gran Bretagna",
       "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
@@ -237,15 +246,6 @@
       "sommario": "Un cielo rosso intenso prima della tempesta: la scena spettacolare ripresa a Changzhou"
     },
     {
-      "titolo": "\"La mia pausa di carriera che mi ha cambiato la vita è avvenuta perché indossavo un cappotto di seconda mano\"",
-      "link": "https://www.positive.news/society/richard-e-grant-fronts-second-hand-september-as-britons-try-to-buy-fewer-clothes/",
-      "fonte": "Positive News",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "03/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Richard E Grant ha vinto l'oro in un negozio di beneficenza – ora è di fronte a un campeggio per ispirare gli altri a fare lo stesso \nIL post ‘My life changing career break happene..."
-    },
-    {
       "titolo": "L'energia rinnovabile in NI raggiunge un livello record",
       "link": "https://www.bbc.co.uk/news/articles/ce3rql5rzx4o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Science",
@@ -253,24 +253,6 @@
       "data": "04/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "E per la prima volta da gennaio la produzione da fonti rinnovabili ha costantemente superato quella da fonti non rinnovabili."
-    },
-    {
-      "titolo": "Cumuli di rifiuti e disordine alla Capanna Carrel sul Cervino: l’amara scoperta delle Guide Alpine sull’inciviltà ad alta quota",
-      "link": "https://www.greenme.it/ambiente/rifiuti-e-riciclaggio/cumuli-rifiuti-incuria-capanna-carrel/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Capanna-Carrel.jpg",
-      "data": "03/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Lo storico bivacco a 3.835 metri Capanna Carrel sul Cervino ritrovato sommerso dai rifiuti dopo la sospensione temporanea delle ascensioni. L’appello delle G..."
-    },
-    {
-      "titolo": "Riciclo auto, dal 6% al 51%: la lezione del progetto Car2Car di BMW",
-      "link": "https://www.rinnovabili.it/mobilita/automotive/riciclo-auto-il-progetto-car2car-porta-i-materiali-dal-6-al-51/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "03/09/2026",
-      "categoria": "Società",
-      "sommario": "Dai test sull'acciaio alle sfide su vetro e plastica: i risultati della ricerca tedesca e le nuove regole dell'European ELV Regulation.\nL'articolo Riciclo au..."
     }
   ]
 }
