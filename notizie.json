@@ -1,15 +1,24 @@
 {
   "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
     {
-      "titolo": "\"La mia pausa di carriera che mi ha cambiato la vita è avvenuta perché indossavo un cappotto di seconda mano\"",
-      "link": "https://www.positive.news/society/richard-e-grant-fronts-second-hand-september-as-britons-try-to-buy-fewer-clothes/",
-      "fonte": "Positive News",
+      "titolo": "Packaging in cartone, la sfida del riciclo al 90%: Roma ospita il Congresso europeo ECMA",
+      "link": "https://www.greenme.it/ambiente/eventi-e-iniziative/packaging-in-cartone-la-sfida-del-riciclo-al-90-roma-ospita-il-congresso-europeo-ecma/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/cartone.jpg",
+      "data": "10/09/2026",
+      "categoria": "Società",
+      "sommario": "Roma si prepara a ospitare il 57° Congresso annuale ECMA, un evento chiave per l'industria europea del packaging in cartone e cartoncino. Al centro, la final..."
+    },
+    {
+      "titolo": "Buone notizie nella storia, 10 settembre",
+      "link": "https://www.goodnewsnetwork.org/events060910/",
+      "fonte": "Good News Network",
       "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "03/09/2026",
+      "data": "10/09/2026",
       "categoria": "Mondo",
-      "sommario": "Richard E Grant ha vinto l'oro in un negozio di beneficenza – ora è di fronte a un campeggio per ispirare gli altri a fare lo stesso \nIL post ‘My life changing career break happene..."
+      "sommario": "35 anni fa, il singolo dei Nirvana \"Smells Like Teen Spirit\" veniva pubblicato negli Stati Uniti. L'inaspettato successo della canzone della band di Seattle ha spinto il loro seco..."
     },
     {
       "titolo": "Frecce del Diavolo: antichi costruttori hanno trainato pietre da 55.000 libbre per 11 miglia per la fila di pietre più alta della Gran Bretagna",
