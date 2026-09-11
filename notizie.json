@@ -1,16 +1,7 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
-    {
-      "titolo": "Il rilevatore di materia oscura trova uno strano segnale che gli scienziati non possono ancora spiegare",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "04/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "L'esperimento LUX-ZEPLIN ha rilevato una rara interazione di particelle che sembra insolitamente difficile da spiegare come normale rumore di fondo ed è apparsa dove ..."
-    },
     {
       "titolo": "L'antica scoperta di arte rupestre suggerisce che i primi umani conosciuti in Irlanda arrivarono dal Galles",
       "link": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
