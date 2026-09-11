@@ -1,24 +1,15 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
     {
       "titolo": "Il rilevatore di materia oscura trova uno strano segnale che gli scienziati non possono ancora spiegare",
       "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
       "data": "04/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "L'esperimento LUX-ZEPLIN ha rilevato una rara interazione di particelle che sembra insolitamente difficile da spiegare come normale rumore di fondo ed è apparsa dove ..."
-    },
-    {
-      "titolo": "Nelle profondità di Marte, gli scienziati trovano un vasto sistema di magma nascosto",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "04/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Nelle profondità di Marte, gli scienziati hanno trovato prove di enormi sistemi magmatici che una volta si pensava richiedessero una tettonica a placche simile alla Terra. Le misure sismiche suggeriscono..."
     },
     {
       "titolo": "L'antica scoperta di arte rupestre suggerisce che i primi umani conosciuti in Irlanda arrivarono dal Galles",
