@@ -1,7 +1,34 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
   "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Al Gran Premio di Monza vincono la solidarietà e la lotta allo spreco: recuperate 3,6 tonnellate di cibo per le famiglie in difficoltà",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/gran-premio-monza-recuperate-36-tonnellate-cibo/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Cibo-recuperato-GP-Monza.jpg",
+      "data": "11/09/2026",
+      "categoria": "Società",
+      "sommario": "Al Gran Premio di Monza 2026 di Formula 1 recuperate 3,6 tonnellate di cibo donate poi alle famiglie in difficoltà. Un modello virtuoso di solidarietà e sost..."
+    },
+    {
+      "titolo": "Trovati cinque cuccioli di orango senza la mamma nella foresta in India: dietro la tenera scoperta c’è un terribile sospetto",
+      "link": "https://www.greenme.it/animali/animali-selvatici/trovati-cinque-cuccioli-orango/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Oranghi-trovati-foreste.jpg",
+      "data": "11/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Scoperti cinque piccoli oranghi in una foresta dell'Odisha in India, lontanissimi dal loro habitat. Scattano le indagini sul contrabbando internazionale di s..."
+    },
+    {
+      "titolo": "Gli archeologi trovano una tomba egizia di 3.000 anni prima che sia troppo tardi",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "10/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Mentre ripulivano i detriti per proteggere le antiche tombe egiziane dalle inondazioni improvvise, i ricercatori vicino a Luxor si sono imbattuti in una tomba sconosciuta di 3.000 anni fa. La sua notevole..."
+    },
     {
       "titolo": "L'antica scoperta di arte rupestre suggerisce che i primi umani conosciuti in Irlanda arrivarono dal Galles",
       "link": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
