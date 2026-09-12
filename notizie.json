@@ -1,7 +1,16 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Primo permesso per ripulire i vecchi rifiuti minerari rilasciato per lo Stato del WA ai sensi del \"Good Samaritan Act\" del 2024",
+      "link": "https://www.goodnewsnetwork.org/first-permit-to-clean-up-old-mine-waste-issued-for-wa-state-under-2024-good-samaritan-act/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "11/09/2026",
+      "categoria": "Mondo",
+      "sommario": "L'Agenzia per la protezione ambientale degli Stati Uniti ha approvato il primo permesso ai sensi della sua nuova legge \"Buon Samaritano\" per risanare le miniere abbandonate. Il permesso ..."
+    },
     {
       "titolo": "Al Gran Premio di Monza vincono la solidarietà e la lotta allo spreco: recuperate 3,6 tonnellate di cibo per le famiglie in difficoltà",
       "link": "https://www.greenme.it/lifestyle/costume-e-societa/gran-premio-monza-recuperate-36-tonnellate-cibo/",
@@ -28,15 +37,6 @@
       "data": "10/09/2026",
       "categoria": "Mondo",
       "sommario": "Mentre ripulivano i detriti per proteggere le antiche tombe egiziane dalle inondazioni improvvise, i ricercatori vicino a Luxor si sono imbattuti in una tomba sconosciuta di 3.000 anni fa. La sua notevole..."
-    },
-    {
-      "titolo": "L'antica scoperta di arte rupestre suggerisce che i primi umani conosciuti in Irlanda arrivarono dal Galles",
-      "link": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "05/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Durante la più recente era glaciale, i ricercatori ritengono che ci fosse un \"ponte di terra perduto\" tra il Galles e l'Irlanda."
     },
     {
       "titolo": "Packaging in cartone, la sfida del riciclo al 90%: Roma ospita il Congresso europeo ECMA",
@@ -226,24 +226,6 @@
       "data": "06/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Un viaggio emozionante nel cuore della Tuscia: esploriamo Viterbo con il centro medievale più grande d'Europa, le incredibili storie del Palazzo dei Papi e i..."
-    },
-    {
-      "titolo": "Gli schienali di beneficenza richiedono una protezione della guarnizione di riposo",
-      "link": "https://www.bbc.co.uk/news/articles/c4g58ylj735o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "05/09/2026",
-      "categoria": "Società",
-      "sommario": "Il Seal Research Trust sostiene le richieste di considerare il disturbo intenzionale dei sigilli un reato."
-    },
-    {
-      "titolo": "Chiediamo di dare ai sigilli del Tamigi spazio per la sicurezza di tutti",
-      "link": "https://www.bbc.co.uk/news/articles/c624x0l9dvgo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "05/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Avvicinarsi troppo agli animali avvistati lungo il Tamigi può essere dannoso sia per loro che per il pubblico, afferma un ente di beneficenza."
     }
   ]
 }
