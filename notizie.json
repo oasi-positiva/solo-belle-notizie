@@ -1,7 +1,25 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Meravigliosa Val di Chiana! 3 borghi da visitare almeno una volta nella vita",
+      "link": "https://www.greenme.it/viaggi/italia/viaggio-val-di-chiana-aretina/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/06/Cortona-2-COPERTINA.jpg",
+      "data": "12/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Il mio viaggio nella Val di Chiana Aretina tra Cortona, Lucignano e Civitella in Val di Chiana alla scoperta di borghi medievali, panorami toscani, storia et..."
+    },
+    {
+      "titolo": "Il vento che rigenera l’Italia: anatomia dei parchi eolici di nuova generazione",
+      "link": "https://www.rinnovabili.it/energia/eolico/anatomia-nuovi-parchi-eolici-italia/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "12/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Da semplici impianti ad ecosistemi integrati: l'eolico italiano cambia volto. Tra sostenibilità circolare, turismo lento e tutela della biodiversità, ecco co..."
+    },
     {
       "titolo": "Primo permesso per ripulire i vecchi rifiuti minerari rilasciato per lo Stato del WA ai sensi del \"Good Samaritan Act\" del 2024",
       "link": "https://www.goodnewsnetwork.org/first-permit-to-clean-up-old-mine-waste-issued-for-wa-state-under-2024-good-samaritan-act/",
