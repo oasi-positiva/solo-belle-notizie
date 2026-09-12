@@ -1,7 +1,25 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "Il senzatetto è diventato famoso suonando il pianoforte in una chiesa: ora ha raccolto $50.000 per beneficenza",
+      "link": "https://www.goodnewsnetwork.org/homeless-guy-famous-for-playing-piano-in-church-raising-50k/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "12/09/2026",
+      "categoria": "Società",
+      "sommario": "Un senzatetto che è stato registrato mentre suonava il pianoforte in una chiesa in una fredda notte di gennaio dice che tutta la sua vita è cambiata, nei due anni trascorsi dalla sua performance..."
+    },
+    {
+      "titolo": "I ricercatori trovano una strategia Wordle che vince il 99% delle volte",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "12/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "I ricercatori della Binghamton University hanno sviluppato una strategia matematica in grado di risolvere Wordle con un tasso di successo del 99%. Invece di indovinare semplicemente le parole p..."
+    },
     {
       "titolo": "Meravigliosa Val di Chiana! 3 borghi da visitare almeno una volta nella vita",
       "link": "https://www.greenme.it/viaggi/italia/viaggio-val-di-chiana-aretina/",
