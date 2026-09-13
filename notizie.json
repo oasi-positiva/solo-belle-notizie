@@ -1,7 +1,25 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Arriva una splendida notizia dal Parco delle Madonie: dopo 70 anni, sono tornati i grifoni",
+      "link": "https://www.greenme.it/animali/animali-selvatici/parco-madonie-tornati-grifoni-70-anni/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/grifoni-parco-madonie-c1.jpg",
+      "data": "13/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Dopo 70 anni sono tornati i grifoni sulle Madonie: la conferma arriva dal Parco che annuncia il primo volo dei giovani nati da due coppie che avevano nidific..."
+    },
+    {
+      "titolo": "I ricercatori usano la matematica per garantire che un wordle vinca il 99% delle volte",
+      "link": "https://www.goodnewsnetwork.org/researchers-use-math-to-ensure-a-wordle-win-99-of-the-time/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "13/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Milioni di persone che giocano ai loro giochi quotidiani di Wordle saranno ansiosi di conoscere questa nuova ricerca. Utilizzando la teoria dell'informazione, il team di ricercatori di Bin..."
+    },
     {
       "titolo": "Magic mushrooms: scoperta in Africa nuova specie di fungo allucinogeno che riscrive la storia di questa sostanza psichedelica",
       "link": "https://www.greenme.it/ambiente/magic-mushrooms-scoperta-in-africa-nuova-specie-di-fungo-allucinogeno-che-riscrive-la-storia-di-questa-sostanza-psichedelica/",
