@@ -1,7 +1,16 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Magic mushrooms: scoperta in Africa nuova specie di fungo allucinogeno che riscrive la storia di questa sostanza psichedelica",
+      "link": "https://www.greenme.it/ambiente/magic-mushrooms-scoperta-in-africa-nuova-specie-di-fungo-allucinogeno-che-riscrive-la-storia-di-questa-sostanza-psichedelica/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2025/09/funghetti_allucinogeni.jpg",
+      "data": "13/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Una nuova specie africana riscrive la storia del Psilocybe cubensis e apre nuovi interrogativi sull’origine dei funghi psichedelici"
+    },
     {
       "titolo": "Impronte enormi rivelano la prima pista T Rex per adulti, una passeggiata di 66 milioni di anni attraverso il Dakota del Nord",
       "link": "https://www.goodnewsnetwork.org/massive-footprints-reveal-first-ever-adult-t-rex-trackway/",
