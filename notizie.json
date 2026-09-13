@@ -1,7 +1,16 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Impronte enormi rivelano la prima pista T Rex per adulti, una passeggiata di 66 milioni di anni attraverso il Dakota del Nord",
+      "link": "https://www.goodnewsnetwork.org/massive-footprints-reveal-first-ever-adult-t-rex-trackway/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "12/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno confermato la scoperta della prima traccia di T. rex adulto, fornendo nuove informazioni su come si muoveva questo predatore emblematico. Mentre una miriade di..."
+    },
     {
       "titolo": "Il senzatetto è diventato famoso suonando il pianoforte in una chiesa: ora ha raccolto $50.000 per beneficenza",
       "link": "https://www.goodnewsnetwork.org/homeless-guy-famous-for-playing-piano-in-church-raising-50k/",
@@ -253,15 +262,6 @@
       "data": "07/09/2026",
       "categoria": "Società",
       "sommario": "Il Centro di Coordinamento Batterie rinnova la campagna 'Trova l'intruso', puntando a trasformare la consapevolezza sullo smaltimento delle batterie esauste ..."
-    },
-    {
-      "titolo": "Viterbo, alla scoperta della Città dei Papi: il mio viaggio nel centro medievale più grande d’Europa (con tanto di piscine termali gratuite)",
-      "link": "https://www.greenme.it/viaggi/italia/viterbo-alla-scoperta-della-citta-dei-papi-il-mio-viaggio-nel-centro-medievale-piu-grande-deuropa-con-tanto-di-piscine-termali-gratuite/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/07/Viterbo-4-copertina.jpg",
-      "data": "06/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Un viaggio emozionante nel cuore della Tuscia: esploriamo Viterbo con il centro medievale più grande d'Europa, le incredibili storie del Palazzo dei Papi e i..."
     }
   ]
 }
