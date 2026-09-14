@@ -1,7 +1,16 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "I libri di testo di chimica sbagliano da quasi 100 anni",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260913082157.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "14/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Un concetto di chimica fondamentale che si trova nei libri di testo da quasi 100 anni potrebbe essere stato insegnato in modo errato. I ricercatori dicono che l'effetto induttivo in neutro mo..."
+    },
     {
       "titolo": "L'ex terreno industriale passa dalla discarica alla diversità e ospita il 64% degli svassi dal collo nero del Regno Unito",
       "link": "https://www.goodnewsnetwork.org/former-industrial-ground-goes-from-dump-to-diversity-and-hosts-64-of-uks-black-necked-grebes/",
@@ -10,15 +19,6 @@
       "data": "14/09/2026",
       "categoria": "Mondo",
       "sommario": "Un ente di beneficenza per la conservazione nel Regno Unito ha trasformato quella che una volta era una discarica per il materiale scavato durante il dragaggio del canale in un habitat di nidificazione per due terzi di..."
-    },
-    {
-      "titolo": "L'azienda acquista la centrale a carbone del Texas per sfruttare le sue connessioni alla rete per il nuovo massiccio progetto solare",
-      "link": "https://www.goodnewsnetwork.org/firm-buys-texas-coal-plant-to-leverage-its-grid-connections-for-new-massive-solar-project/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "07/09/2026",
-      "categoria": "Mondo",
-      "sommario": "L'energia da carbone ha ancora un ruolo enorme da svolgere nel mix energetico americano, trasformando la sua consistente infrastruttura di rete in progetti di energia rinnovabile. Energia ..."
     },
     {
       "titolo": "Laurea honoris causa 'sogno che diventa realtà' per gli ambientalisti",
