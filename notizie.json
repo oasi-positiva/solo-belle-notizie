@@ -1,15 +1,24 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
     {
       "titolo": "L'azienda acquista la centrale a carbone del Texas per sfruttare le sue connessioni alla rete per il nuovo massiccio progetto solare",
       "link": "https://www.goodnewsnetwork.org/firm-buys-texas-coal-plant-to-leverage-its-grid-connections-for-new-massive-solar-project/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
       "data": "07/09/2026",
       "categoria": "Mondo",
       "sommario": "L'energia da carbone ha ancora un ruolo enorme da svolgere nel mix energetico americano, trasformando la sua consistente infrastruttura di rete in progetti di energia rinnovabile. Energia ..."
+    },
+    {
+      "titolo": "Laurea honoris causa 'sogno che diventa realtà' per gli ambientalisti",
+      "link": "https://www.bbc.co.uk/news/articles/cy5z0v60910o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "14/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Tullis Matson, che ha istituito un ente di beneficenza per la conservazione della fauna selvatica, è una delle sette persone a ricevere il premio."
     },
     {
       "titolo": "Arriva una splendida notizia dal Parco delle Madonie: dopo 70 anni, sono tornati i grifoni",
