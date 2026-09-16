@@ -1,7 +1,43 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Frecce del Diavolo: antichi costruttori hanno trainato pietre da 55.000 libbre per 11 miglia per la fila di pietre più alta della Gran Bretagna",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "09/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Le imponenti frecce del diavolo della Gran Bretagna sono state costruite con pietre da 25 tonnellate trasportate ad almeno 18 chilometri da Brimham Rocks circa 4.000 anni fa. La scoperta rivela..."
+    },
+    {
+      "titolo": "Gli scienziati cinesi trovano una struttura atomica nascosta che sblocca il metano",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "09/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto che una minuscola struttura atomica che si forma sull'ossido di nichel durante la conversione del metano è più efficace del nichel metallico a lungo..."
+    },
+    {
+      "titolo": "La \"scienza dei paracadute\" sta fallendo ai tropici, sede di oltre l'80% delle specie di insetti",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "09/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli insetti tengono tranquillamente insieme gran parte del mondo naturale, ma gli sforzi di conservazione stanno trascurando le regioni tropicali dove oltre l'80% degli insetti..."
+    },
+    {
+      "titolo": "La caffeina può capovolgere un antico interruttore cellulare legato a un invecchiamento più lento",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "09/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno scoperto che la caffeina attiva un antico sistema energetico cellulare coinvolto nella resistenza allo stress, nella riparazione del DNA e nella crescita. La scoperta potrebbe aiutare ex..."
+    },
     {
       "titolo": "Banksy sbarca a Pisa (insieme a Haring e Obey): in arrivo una mostra imperdibile per chi ama la street art",
       "link": "https://www.greenme.it/lifestyle/arte-e-cultura/banksy-sbarca-a-pisa-insieme-a-haring-e-obey-in-arrivo-una-mostra-imperdibile-per-chi-ama-la-street-art/",
@@ -181,87 +217,6 @@
       "data": "10/09/2026",
       "categoria": "Mondo",
       "sommario": "35 anni fa, il singolo dei Nirvana \"Smells Like Teen Spirit\" veniva pubblicato negli Stati Uniti. L'inaspettato successo della canzone della band di Seattle ha spinto il loro seco..."
-    },
-    {
-      "titolo": "Frecce del Diavolo: antichi costruttori hanno trainato pietre da 55.000 libbre per 11 miglia per la fila di pietre più alta della Gran Bretagna",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "09/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Le imponenti frecce del diavolo della Gran Bretagna sono state costruite con pietre da 25 tonnellate trasportate ad almeno 18 chilometri da Brimham Rocks circa 4.000 anni fa. La scoperta rivela..."
-    },
-    {
-      "titolo": "Gli scienziati cinesi trovano una struttura atomica nascosta che sblocca il metano",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "09/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto che una minuscola struttura atomica che si forma sull'ossido di nichel durante la conversione del metano è più efficace del nichel metallico a lungo..."
-    },
-    {
-      "titolo": "La \"scienza dei paracadute\" sta fallendo ai tropici, sede di oltre l'80% delle specie di insetti",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "09/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli insetti tengono tranquillamente insieme gran parte del mondo naturale, ma gli sforzi di conservazione stanno trascurando le regioni tropicali dove oltre l'80% degli insetti..."
-    },
-    {
-      "titolo": "La caffeina può capovolgere un antico interruttore cellulare legato a un invecchiamento più lento",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "09/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno scoperto che la caffeina attiva un antico sistema energetico cellulare coinvolto nella resistenza allo stress, nella riparazione del DNA e nella crescita. La scoperta potrebbe aiutare ex..."
-    },
-    {
-      "titolo": "A 100 anni David Attenborough vince il premio come miglior conduttore: “Ora la natura ha bisogno di noi”",
-      "link": "https://www.greenme.it/lifestyle/costume-e-societa/a-100-anni-david-attenborough-vince-il-premio-come-miglior-conduttore-ora-la-natura-ha-bisogno-di-noi/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/David-Attenborough-3.jpg",
-      "data": "09/09/2026",
-      "categoria": "Animali",
-      "sommario": "Il naturalista britannico festeggia il traguardo con un riconoscimento ai National Television Awards. Nel discorso letto in sua assenza, l'appello a protegge..."
-    },
-    {
-      "titolo": "Hanno provato a ucciderla 6 volte perché difende l’Amazzonia: il film prodotto da DiCaprio su Juma Xipaia da vedere (gratis)",
-      "link": "https://www.greenme.it/ambiente/hanno-provato-a-ucciderla-6-volte-perche-difende-lamazzonia-il-film-prodotto-da-dicaprio-su-juma-xipaia-da-vedere-gratis1001/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/film_dicaprio.jpg",
-      "data": "09/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Una storia di resistenza, amore e difesa della foresta amazzonica: “Yanuni”, il documentario diretto da Richard Ladkani e prodotto, tra gli altri, da Leonard..."
-    },
-    {
-      "titolo": "Miliardario si sposa in Sardegna e col marito dona 1,6 milioni in beneficenza (per i bambini in terapia intensiva e animali)",
-      "link": "https://www.greenme.it/lifestyle/costume-e-societa/miliardario-si-sposa-dona-16-milioni/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Donazione-matrimonio.jpg",
-      "data": "09/09/2026",
-      "categoria": "Animali",
-      "sommario": "Brendan Blumer e Salvatore Spano donano 1,6 milioni per le nozze in Sardegna: fondi al Brotzu, alla ricerca Ebri e alla Lida. Niente regali, ai 300 invitati ..."
-    },
-    {
-      "titolo": "Oltre il negozio dell'usato: dove le tue donazioni fanno più bene",
-      "link": "https://www.optimistdaily.com/2026/09/beyond-the-thrift-store-where-your-donations-do-more-good/",
-      "fonte": "Optimist Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "09/09/2026",
-      "categoria": "Mondo",
-      "sommario": "IL TEAM EDITORIALE QUOTIDIANO OTTIMISTA Quando fai il decluttering, il negozio dell'usato è la prima mossa ovvia. Lasciala ed è fatta. Ma molte delle cose che la gente ..."
-    },
-    {
-      "titolo": "Douglas Head ha designato un'area di conservazione",
-      "link": "https://www.bbc.co.uk/news/articles/ckg0jmpv31jo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "09/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Douglas Head è stato formalmente designato come Area di Conservazione, ma cosa significa in realtà?"
     }
   ]
 }
