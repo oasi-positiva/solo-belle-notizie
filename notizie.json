@@ -1,24 +1,33 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
   "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
     {
-      "titolo": "Frecce del Diavolo: antichi costruttori hanno trainato pietre da 55.000 libbre per 11 miglia per la fila di pietre più alta della Gran Bretagna",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "09/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Le imponenti frecce del diavolo della Gran Bretagna sono state costruite con pietre da 25 tonnellate trasportate ad almeno 18 chilometri da Brimham Rocks circa 4.000 anni fa. La scoperta rivela..."
+      "titolo": "Addio a Marley, il cane eroe dei Vigili del Fuoco che ha salvato vite dalle macerie del sisma del 2016 e del ponte Morandi",
+      "link": "https://www.greenme.it/pet/cani/addio-a-marley-cane-eroe-vigili-fuoco/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Marley.jpg",
+      "data": "16/09/2026",
+      "categoria": "Animali",
+      "sommario": "Addio a Marley, il Labrador del nucleo cinofili dei vigili del fuoco che ha prestato servizio dal 2013 al 2023. Ha salvato vite tra le macerie del terremoto ..."
     },
     {
-      "titolo": "La \"scienza dei paracadute\" sta fallendo ai tropici, sede di oltre l'80% delle specie di insetti",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "09/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli insetti tengono tranquillamente insieme gran parte del mondo naturale, ma gli sforzi di conservazione stanno trascurando le regioni tropicali dove oltre l'80% degli insetti..."
+      "titolo": "Baked Bites: come gli studenti di Frisco hanno trasformato la passione per la pasticceria in una forza per il cambiamento della comunità",
+      "link": "https://www.optimistdaily.com/2026/09/baked-bites-how-frisco-students-turned-a-passion-for-baking-into-a-force-for-community-change/",
+      "fonte": "Optimist Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "16/09/2026",
+      "categoria": "Società",
+      "sommario": "Dal TEAM EDITORIALE OTTIMISTA QUOTIDIANO A un pop-up Baked Bites a Frisco, in Texas, la transazione sembra semplice: si effettua un pre-ordine, si ritira un co..."
+    },
+    {
+      "titolo": "Gli orsi lunari salvati arrivano a Suffolk per sempre a casa",
+      "link": "https://www.bbc.co.uk/news/articles/cx3051l0r636o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "16/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli orsi, salvati da una fattoria della bile, stanno iniziando la loro nuova vita in un parco faunistico"
     },
     {
       "titolo": "Banksy sbarca a Pisa (insieme a Haring e Obey): in arrivo una mostra imperdibile per chi ama la street art",
