@@ -1,7 +1,61 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "“FOMO – Fear Of Missing Out”: su RaiPlay la docu-serie che racconta l’ultimo anno di liceo (e le ansie di un’intera generazione)",
+      "link": "https://www.greenme.it/lifestyle/intrattenimento/fomo-fear-of-missing-out-su-raiplay/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Fomo-docuserie.jpg",
+      "data": "16/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Dal 17 settembre arriva su RaiPlay la docu-serie “FOMO - Fear Of Missing Out”: un viaggio in 12 episodi che racconta l'ultimo anno di liceo al Vittoria Colon..."
+    },
+    {
+      "titolo": "Quante specie vivono davvero lungo il Tevere? A Roma cittadini ed esperti provano a censirle",
+      "link": "https://www.greenme.it/ambiente/natura/quante-specie-vivono-davvero-lungo-il-tevere-a-roma-cittadini-ed-esperti-provano-a-censirle/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/biodiversita-del-Tevere.jpg",
+      "data": "16/09/2026",
+      "categoria": "Animali",
+      "sommario": "Per tre weekend Roma censisce la biodiversità del Tevere: otto aree sotto osservazione"
+    },
+    {
+      "titolo": "Gli scienziati determinano che i vasti deserti rossi dell'Australia potrebbero alimentare una rivoluzione energetica alimentata a idrogeno",
+      "link": "https://www.goodnewsnetwork.org/scientists-determine-australias-vast-red-deserts-could-fuel-a-hydrogen-powered-energy-revolution/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "16/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno rivelato che l'Australia potrebbe essere la chiave per generare ampia energia verde creando al contempo un'importante industria di esportazione, e che è sepolta sotto..."
+    },
+    {
+      "titolo": "Gli scienziati sono \"veramente stupiti\" dalla scoperta che mette in discussione la storia delle origini della Terra",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260915232132.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "16/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un nuovo studio suggerisce che la Terra si sia formata quasi interamente da materiale nel Sistema Solare interno, sfidando l'idea che materiale ricco di acqua proveniente da oltre Giove ..."
+    },
+    {
+      "titolo": "Gli scienziati hanno ricreato ciò che i topi hanno visto dalla sola attività cerebrale",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "16/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno ricostruito video dall'attività cerebrale dei topi, producendo clip di 10 secondi basate solo sui segnali dei neuroni nella corteccia visiva. La rottura..."
+    },
+    {
+      "titolo": "Cervello in parte umano e in parte topo sviluppato nella svolta scientifica",
+      "link": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "16/09/2026",
+      "categoria": "Mondo",
+      "sommario": "I ricercatori della Stanford University hanno modificato geneticamente i topi per essere in grado di ricevere e funzionare con le cellule cerebrali umane."
+    },
     {
       "titolo": "Addio a Marley, il cane eroe dei Vigili del Fuoco che ha salvato vite dalle macerie del sisma del 2016 e del ponte Morandi",
       "link": "https://www.greenme.it/pet/cani/addio-a-marley-cane-eroe-vigili-fuoco/",
