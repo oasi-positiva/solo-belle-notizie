@@ -3,22 +3,31 @@
   "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
     {
-      "titolo": "Buone notizie nella storia, 10 settembre",
-      "link": "https://www.goodnewsnetwork.org/events060910/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "10/09/2026",
-      "categoria": "Mondo",
-      "sommario": "35 anni fa, il singolo dei Nirvana \"Smells Like Teen Spirit\" veniva pubblicato negli Stati Uniti. L'inaspettato successo della canzone della band di Seattle ha spinto il loro seco..."
+      "titolo": "Spacciavano per biologico un riso coltivato con pesticidi: scoperta maxi-frode da 10 milioni di euro nel Pavese",
+      "link": "https://www.greenme.it/lifestyle/sai-cosa-compri/spacciavano-per-biologico-un-riso-coltivato-con-pesticidi-scoperta-maxi-frode-da-10-milioni-di-euro-nel-pavese/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/falso-riso-biologico.jpg",
+      "data": "17/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un'indagine della Guardia di Finanza e dell'ICQRF ha coinvolto 14 aziende del Pavese che avrebbero venduto riso come “bio” nonostante l'uso di fertilizzanti ..."
     },
     {
-      "titolo": "Gli archeologi trovano una tomba egizia di 3.000 anni prima che sia troppo tardi",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "10/09/2026",
+      "titolo": "Gli studenti vincono il James Dyson Award per il dispositivo che scherma gli studenti per le commozioni cerebrali in soli 60 secondi",
+      "link": "https://www.goodnewsnetwork.org/students-win-james-dyson-award-for-device-that-screens-students-for-concussions-in-just-60-seconds/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "17/09/2026",
       "categoria": "Mondo",
-      "sommario": "Mentre ripulivano i detriti per proteggere le antiche tombe egiziane dalle inondazioni improvvise, i ricercatori vicino a Luxor si sono imbattuti in una tomba sconosciuta di 3.000 anni fa. La sua notevole..."
+      "sommario": "Un trio di studenti dell'Università di Harvard ha inventato un auricolare a basso costo per il tracciamento degli occhi progettato per aiutare le scuole a schermare rapidamente gli atleti bambini per possibili..."
+    },
+    {
+      "titolo": "Buone notizie nella storia 17 settembre",
+      "link": "https://www.goodnewsnetwork.org/events060917/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "17/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Buon 41° compleanno a The Great 8, Alexander Ovechkin. Gioca a sinistra per i Washington Capitals dal 2004, è semplicemente tra i più grandi gol ..."
     },
     {
       "titolo": "Altro che da abbattere! I lupi aiutano le piante di mirtilli a germogliare prima e a diffondersi (contribuendo alla biodiversità)",
