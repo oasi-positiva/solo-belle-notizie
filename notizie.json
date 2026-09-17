@@ -1,7 +1,34 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Acquacoltura sostenibile: un nuovo report internazionale boccia la certificazione italiana sul benessere dei pesci",
+      "link": "https://www.greenme.it/animali/allevamenti/acquacoltura-sostenibile-un-nuovo-report-internazionale-boccia-la-certificazione-italiana-sul-benessere-dei-pesci/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/08/allevamento-pesce.jpg",
+      "data": "17/09/2026",
+      "categoria": "Salute",
+      "sommario": "Un nuovo report internazionale ha analizzato le principali certificazioni dell’acquacoltura, mettendo a confronto requisiti e criteri relativi al benessere d..."
+    },
+    {
+      "titolo": "Carburante sostenibile per gli aerei, aeroporti Ue superano quota minima obbligatoria",
+      "link": "https://www.rinnovabili.it/bozze/carburante-sostenibile-per-gli-aerei-aeroporti-ue-superano-quota-minima-obbligatoria/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "17/09/2026",
+      "categoria": "Società",
+      "sommario": "Aggiungi Rinnovabili tra i preferiti Carburante SAF, aeroporti europei virtuosi Gli aerei commerciali sono tenuti ad utilizzare una quota minima di carburant..."
+    },
+    {
+      "titolo": "Scienziati cinesi sviluppano un nuovo metodo di raffinazione del petrolio che riduce il consumo di energia del 90%",
+      "link": "https://www.goodnewsnetwork.org/chinese-scientists-develop-new-oil-refining-method-that-cuts-energy-use-by-90/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "17/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Piuttosto che portare il petrolio greggio al punto di ebollizione più e più volte come avviene nella tradizionale raffinazione di distillazione, gli scienziati cinesi hanno trovato un modo per..."
+    },
     {
       "titolo": "Spacciavano per biologico un riso coltivato con pesticidi: scoperta maxi-frode da 10 milioni di euro nel Pavese",
       "link": "https://www.greenme.it/lifestyle/sai-cosa-compri/spacciavano-per-biologico-un-riso-coltivato-con-pesticidi-scoperta-maxi-frode-da-10-milioni-di-euro-nel-pavese/",
