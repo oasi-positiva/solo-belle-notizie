@@ -1,16 +1,7 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
-    {
-      "titolo": "Altro che da abbattere! I lupi aiutano le piante di mirtilli a germogliare prima e a diffondersi (contribuendo alla biodiversità)",
-      "link": "https://www.greenme.it/animali/animali-selvatici/lupi-aiutano-piante-di-mirtilli-germogliare/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Lupi-mirtilli.jpg",
-      "data": "16/09/2026",
-      "categoria": "Animali",
-      "sommario": "Il ruolo insospettabile dei lupi del Minnesota: mangiano le bacche di mirtilli e aiutano semi e piante a germogliare prima e più lontano e diffondersi nell'e..."
-    },
     {
       "titolo": "Buone notizie nella storia, 10 settembre",
       "link": "https://www.goodnewsnetwork.org/events060910/",
@@ -24,10 +15,19 @@
       "titolo": "Gli archeologi trovano una tomba egizia di 3.000 anni prima che sia troppo tardi",
       "link": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "10/09/2026",
       "categoria": "Mondo",
       "sommario": "Mentre ripulivano i detriti per proteggere le antiche tombe egiziane dalle inondazioni improvvise, i ricercatori vicino a Luxor si sono imbattuti in una tomba sconosciuta di 3.000 anni fa. La sua notevole..."
+    },
+    {
+      "titolo": "Altro che da abbattere! I lupi aiutano le piante di mirtilli a germogliare prima e a diffondersi (contribuendo alla biodiversità)",
+      "link": "https://www.greenme.it/animali/animali-selvatici/lupi-aiutano-piante-di-mirtilli-germogliare/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Lupi-mirtilli.jpg",
+      "data": "16/09/2026",
+      "categoria": "Animali",
+      "sommario": "Il ruolo insospettabile dei lupi del Minnesota: mangiano le bacche di mirtilli e aiutano semi e piante a germogliare prima e più lontano e diffondersi nell'e..."
     },
     {
       "titolo": "“FOMO – Fear Of Missing Out”: su RaiPlay la docu-serie che racconta l’ultimo anno di liceo (e le ansie di un’intera generazione)",
