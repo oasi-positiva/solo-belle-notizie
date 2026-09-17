@@ -1,7 +1,34 @@
 {
   "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Altro che da abbattere! I lupi aiutano le piante di mirtilli a germogliare prima e a diffondersi (contribuendo alla biodiversità)",
+      "link": "https://www.greenme.it/animali/animali-selvatici/lupi-aiutano-piante-di-mirtilli-germogliare/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Lupi-mirtilli.jpg",
+      "data": "16/09/2026",
+      "categoria": "Animali",
+      "sommario": "Il ruolo insospettabile dei lupi del Minnesota: mangiano le bacche di mirtilli e aiutano semi e piante a germogliare prima e più lontano e diffondersi nell'e..."
+    },
+    {
+      "titolo": "Buone notizie nella storia, 10 settembre",
+      "link": "https://www.goodnewsnetwork.org/events060910/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "10/09/2026",
+      "categoria": "Mondo",
+      "sommario": "35 anni fa, il singolo dei Nirvana \"Smells Like Teen Spirit\" veniva pubblicato negli Stati Uniti. L'inaspettato successo della canzone della band di Seattle ha spinto il loro seco..."
+    },
+    {
+      "titolo": "Gli archeologi trovano una tomba egizia di 3.000 anni prima che sia troppo tardi",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "10/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Mentre ripulivano i detriti per proteggere le antiche tombe egiziane dalle inondazioni improvvise, i ricercatori vicino a Luxor si sono imbattuti in una tomba sconosciuta di 3.000 anni fa. La sua notevole..."
+    },
     {
       "titolo": "“FOMO – Fear Of Missing Out”: su RaiPlay la docu-serie che racconta l’ultimo anno di liceo (e le ansie di un’intera generazione)",
       "link": "https://www.greenme.it/lifestyle/intrattenimento/fomo-fear-of-missing-out-su-raiplay/",
@@ -235,33 +262,6 @@
       "data": "11/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Scoperti cinque piccoli oranghi in una foresta dell'Odisha in India, lontanissimi dal loro habitat. Scattano le indagini sul contrabbando internazionale di s..."
-    },
-    {
-      "titolo": "Gli archeologi trovano una tomba egizia di 3.000 anni prima che sia troppo tardi",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "10/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Mentre ripulivano i detriti per proteggere le antiche tombe egiziane dalle inondazioni improvvise, i ricercatori vicino a Luxor si sono imbattuti in una tomba sconosciuta di 3.000 anni fa. La sua notevole..."
-    },
-    {
-      "titolo": "Packaging in cartone, la sfida del riciclo al 90%: Roma ospita il Congresso europeo ECMA",
-      "link": "https://www.greenme.it/ambiente/eventi-e-iniziative/packaging-in-cartone-la-sfida-del-riciclo-al-90-roma-ospita-il-congresso-europeo-ecma/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/cartone.jpg",
-      "data": "10/09/2026",
-      "categoria": "Società",
-      "sommario": "Roma si prepara a ospitare il 57° Congresso annuale ECMA, un evento chiave per l'industria europea del packaging in cartone e cartoncino. Al centro, la final..."
-    },
-    {
-      "titolo": "Buone notizie nella storia, 10 settembre",
-      "link": "https://www.goodnewsnetwork.org/events060910/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "10/09/2026",
-      "categoria": "Mondo",
-      "sommario": "35 anni fa, il singolo dei Nirvana \"Smells Like Teen Spirit\" veniva pubblicato negli Stati Uniti. L'inaspettato successo della canzone della band di Seattle ha spinto il loro seco..."
     }
   ]
 }
