@@ -1,7 +1,16 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Primo permesso per ripulire i vecchi rifiuti minerari rilasciato per lo Stato del WA ai sensi del \"Good Samaritan Act\" del 2024",
+      "link": "https://www.goodnewsnetwork.org/first-permit-to-clean-up-old-mine-waste-issued-for-wa-state-under-2024-good-samaritan-act/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "11/09/2026",
+      "categoria": "Mondo",
+      "sommario": "L'Agenzia per la protezione ambientale degli Stati Uniti ha approvato il primo permesso ai sensi della sua nuova legge \"Buon Samaritano\" per risanare le miniere abbandonate. Il permesso ..."
+    },
     {
       "titolo": "Acquacoltura sostenibile: un nuovo report internazionale boccia la certificazione italiana sul benessere dei pesci",
       "link": "https://www.greenme.it/animali/allevamenti/acquacoltura-sostenibile-un-nuovo-report-internazionale-boccia-la-certificazione-italiana-sul-benessere-dei-pesci/",
@@ -271,33 +280,6 @@
       "data": "12/09/2026",
       "categoria": "Mondo",
       "sommario": "Da semplici impianti ad ecosistemi integrati: l'eolico italiano cambia volto. Tra sostenibilità circolare, turismo lento e tutela della biodiversità, ecco co..."
-    },
-    {
-      "titolo": "Primo permesso per ripulire i vecchi rifiuti minerari rilasciato per lo Stato del WA ai sensi del \"Good Samaritan Act\" del 2024",
-      "link": "https://www.goodnewsnetwork.org/first-permit-to-clean-up-old-mine-waste-issued-for-wa-state-under-2024-good-samaritan-act/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "11/09/2026",
-      "categoria": "Mondo",
-      "sommario": "L'Agenzia per la protezione ambientale degli Stati Uniti ha approvato il primo permesso ai sensi della sua nuova legge \"Buon Samaritano\" per risanare le miniere abbandonate. Il permesso ..."
-    },
-    {
-      "titolo": "Al Gran Premio di Monza vincono la solidarietà e la lotta allo spreco: recuperate 3,6 tonnellate di cibo per le famiglie in difficoltà",
-      "link": "https://www.greenme.it/lifestyle/costume-e-societa/gran-premio-monza-recuperate-36-tonnellate-cibo/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Cibo-recuperato-GP-Monza.jpg",
-      "data": "11/09/2026",
-      "categoria": "Società",
-      "sommario": "Al Gran Premio di Monza 2026 di Formula 1 recuperate 3,6 tonnellate di cibo donate poi alle famiglie in difficoltà. Un modello virtuoso di solidarietà e sost..."
-    },
-    {
-      "titolo": "Trovati cinque cuccioli di orango senza la mamma nella foresta in India: dietro la tenera scoperta c’è un terribile sospetto",
-      "link": "https://www.greenme.it/animali/animali-selvatici/trovati-cinque-cuccioli-orango/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Oranghi-trovati-foreste.jpg",
-      "data": "11/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Scoperti cinque piccoli oranghi in una foresta dell'Odisha in India, lontanissimi dal loro habitat. Scattano le indagini sul contrabbando internazionale di s..."
     }
   ]
 }
