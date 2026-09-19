@@ -1,12 +1,48 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Miracolo di San Gennaro: il sangue si è sciolto anche nel 2026. Cosa significa e perché è così importante per i napoletani",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/miracolo-di-san-gennaro-il-sangue-si-e-sciolto-anche-nel-2026-cosa-significa-e-perche-e-cosi-importante-per-i-napoletani/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2020/12/san-gennaro-sangue.jpg",
+      "data": "19/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Il sangue di San Gennaro si è sciolto anche il 19 settembre 2026. Ecco cosa significa il prodigio per Napoli e perché è così importante per i fedeli."
+    },
+    {
+      "titolo": "La creatina aumenta la massa magra anche senza palestra? Alle persone di questo piccolo studio è successo, ma c’è un “trucco”",
+      "link": "https://www.greenme.it/salute-e-alimentazione/integratori/la-creatina-aumenta-la-massa-magra-anche-senza-palestra-alle-persone-di-questo-piccolo-studio-e-successo-ma-ce-un-trucco/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/creatina.jpg",
+      "data": "19/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Uno studio su adulti sedentari tra 45 e 65 anni trova più massa magra e forza con creatina senza allenamento"
+    },
+    {
+      "titolo": "Porsche ricicla al 100% le sue batterie: l’esempio virtuoso",
+      "link": "https://www.rinnovabili.it/economia-circolare/riciclo/batteria-porsche-al-100-riciclata-esempio-da-seguire/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "18/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Dalla Germania la partnership tra Porsche ed una startup che ricicla le batterie a fine vita delle auto di lusso per crearne delle nuove. Ecco l'esperimento ..."
+    },
+    {
+      "titolo": "Carburante sostenibile per gli aerei, aeroporti Ue superano quota minima obbligatoria",
+      "link": "https://www.rinnovabili.it/mobilita/biocarburanti/carburante-sostenibile-per-gli-aerei-aeroporti-ue-superano-quota-minima-obbligatoria/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "17/09/2026",
+      "categoria": "Società",
+      "sommario": "Aggiungi Rinnovabili tra i preferiti Carburante SAF, aeroporti europei virtuosi Gli aerei commerciali sono tenuti ad utilizzare una quota minima di carburant..."
+    },
     {
       "titolo": "Impronte enormi rivelano la prima pista T Rex per adulti, una passeggiata di 66 milioni di anni attraverso il Dakota del Nord",
       "link": "https://www.goodnewsnetwork.org/massive-footprints-reveal-first-ever-adult-t-rex-trackway/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
       "data": "12/09/2026",
       "categoria": "Mondo",
       "sommario": "Gli scienziati hanno confermato la scoperta della prima traccia di T. rex adulto, fornendo nuove informazioni su come si muoveva questo predatore emblematico. Mentre una miriade di..."
@@ -15,7 +51,7 @@
       "titolo": "Il senzatetto è diventato famoso suonando il pianoforte in una chiesa: ora ha raccolto $50.000 per beneficenza",
       "link": "https://www.goodnewsnetwork.org/homeless-guy-famous-for-playing-piano-in-church-raising-50k/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
       "data": "12/09/2026",
       "categoria": "Società",
       "sommario": "Un senzatetto che è stato registrato mentre suonava il pianoforte in una chiesa in una fredda notte di gennaio dice che tutta la sua vita è cambiata, nei due anni trascorsi dalla sua performance..."
@@ -24,7 +60,7 @@
       "titolo": "I ricercatori trovano una strategia Wordle che vince il 99% delle volte",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
       "data": "12/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "I ricercatori della Binghamton University hanno sviluppato una strategia matematica in grado di risolvere Wordle con un tasso di successo del 99%. Invece di indovinare semplicemente le parole p..."
