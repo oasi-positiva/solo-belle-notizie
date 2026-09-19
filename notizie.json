@@ -1,7 +1,25 @@
 {
   "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Gli scienziati hanno scoperto un nuovo felino selvatico, non accadeva da oltre 100 anni (ma è già in via di estinzione)",
+      "link": "https://www.greenme.it/animali/animali-selvatici/nuovo-felino-selvatico-estinzione/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/nuovo-felino-bolivia-s.jpg",
+      "data": "19/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Dalla Bolivia arriva una notizia bellissima per la scienza e la biodiversità: gli scienziati hanno appena scoperto un nuovo felino selvatico, il Leopardus ti..."
+    },
+    {
+      "titolo": "Impronte enormi rivelano la prima pista T Rex per adulti, una passeggiata di 66 milioni di anni attraverso il Dakota del Nord",
+      "link": "https://www.goodnewsnetwork.org/massive-footprints-reveal-first-ever-adult-t-rex-trackway/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "12/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno confermato la scoperta della prima traccia di T. rex adulto, fornendo nuove informazioni su come si muoveva questo predatore emblematico. Mentre una miriade di..."
+    },
     {
       "titolo": "Miracolo di San Gennaro: il sangue si è sciolto anche nel 2026. Cosa significa e perché è così importante per i napoletani",
       "link": "https://www.greenme.it/lifestyle/costume-e-societa/miracolo-di-san-gennaro-il-sangue-si-e-sciolto-anche-nel-2026-cosa-significa-e-perche-e-cosi-importante-per-i-napoletani/",
@@ -37,33 +55,6 @@
       "data": "17/09/2026",
       "categoria": "Società",
       "sommario": "Aggiungi Rinnovabili tra i preferiti Carburante SAF, aeroporti europei virtuosi Gli aerei commerciali sono tenuti ad utilizzare una quota minima di carburant..."
-    },
-    {
-      "titolo": "Impronte enormi rivelano la prima pista T Rex per adulti, una passeggiata di 66 milioni di anni attraverso il Dakota del Nord",
-      "link": "https://www.goodnewsnetwork.org/massive-footprints-reveal-first-ever-adult-t-rex-trackway/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "12/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno confermato la scoperta della prima traccia di T. rex adulto, fornendo nuove informazioni su come si muoveva questo predatore emblematico. Mentre una miriade di..."
-    },
-    {
-      "titolo": "Il senzatetto è diventato famoso suonando il pianoforte in una chiesa: ora ha raccolto $50.000 per beneficenza",
-      "link": "https://www.goodnewsnetwork.org/homeless-guy-famous-for-playing-piano-in-church-raising-50k/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "12/09/2026",
-      "categoria": "Società",
-      "sommario": "Un senzatetto che è stato registrato mentre suonava il pianoforte in una chiesa in una fredda notte di gennaio dice che tutta la sua vita è cambiata, nei due anni trascorsi dalla sua performance..."
-    },
-    {
-      "titolo": "I ricercatori trovano una strategia Wordle che vince il 99% delle volte",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "12/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "I ricercatori della Binghamton University hanno sviluppato una strategia matematica in grado di risolvere Wordle con un tasso di successo del 99%. Invece di indovinare semplicemente le parole p..."
     },
     {
       "titolo": "Inaugurata la statua dedicata a Tsunami, il cane eroe che ha salvato oltre 100 vite fra le macerie del Venezuela",
