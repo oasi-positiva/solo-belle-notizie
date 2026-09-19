@@ -1,7 +1,34 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Impronte enormi rivelano la prima pista T Rex per adulti, una passeggiata di 66 milioni di anni attraverso il Dakota del Nord",
+      "link": "https://www.goodnewsnetwork.org/massive-footprints-reveal-first-ever-adult-t-rex-trackway/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "12/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno confermato la scoperta della prima traccia di T. rex adulto, fornendo nuove informazioni su come si muoveva questo predatore emblematico. Mentre una miriade di..."
+    },
+    {
+      "titolo": "Il senzatetto è diventato famoso suonando il pianoforte in una chiesa: ora ha raccolto $50.000 per beneficenza",
+      "link": "https://www.goodnewsnetwork.org/homeless-guy-famous-for-playing-piano-in-church-raising-50k/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "12/09/2026",
+      "categoria": "Società",
+      "sommario": "Un senzatetto che è stato registrato mentre suonava il pianoforte in una chiesa in una fredda notte di gennaio dice che tutta la sua vita è cambiata, nei due anni trascorsi dalla sua performance..."
+    },
+    {
+      "titolo": "I ricercatori trovano una strategia Wordle che vince il 99% delle volte",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "12/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "I ricercatori della Binghamton University hanno sviluppato una strategia matematica in grado di risolvere Wordle con un tasso di successo del 99%. Invece di indovinare semplicemente le parole p..."
+    },
     {
       "titolo": "Inaugurata la statua dedicata a Tsunami, il cane eroe che ha salvato oltre 100 vite fra le macerie del Venezuela",
       "link": "https://www.greenme.it/pet/cani/statua-dedicata-a-tsunami-cane-eroe-venezuela/",
@@ -19,15 +46,6 @@
       "data": "18/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "In Perù è stata scoperta una tomba incontaminata e sconosciuta contenente i resti di una società elitaria appartenente a un'importante civiltà andina. Situato nell'U..."
-    },
-    {
-      "titolo": "Primo permesso per ripulire i vecchi rifiuti minerari rilasciato per lo Stato del WA ai sensi del \"Good Samaritan Act\" del 2024",
-      "link": "https://www.goodnewsnetwork.org/first-permit-to-clean-up-old-mine-waste-issued-for-wa-state-under-2024-good-samaritan-act/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "11/09/2026",
-      "categoria": "Mondo",
-      "sommario": "L'Agenzia per la protezione ambientale degli Stati Uniti ha approvato il primo permesso ai sensi della sua nuova legge \"Buon Samaritano\" per risanare le miniere abbandonate. Il permesso ..."
     },
     {
       "titolo": "Il tubo di scoppio inonda il prato della fauna selvatica per la quarta volta",
@@ -262,51 +280,6 @@
       "data": "13/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Una nuova specie africana riscrive la storia del Psilocybe cubensis e apre nuovi interrogativi sull’origine dei funghi psichedelici"
-    },
-    {
-      "titolo": "Impronte enormi rivelano la prima pista T Rex per adulti, una passeggiata di 66 milioni di anni attraverso il Dakota del Nord",
-      "link": "https://www.goodnewsnetwork.org/massive-footprints-reveal-first-ever-adult-t-rex-trackway/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "12/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno confermato la scoperta della prima traccia di T. rex adulto, fornendo nuove informazioni su come si muoveva questo predatore emblematico. Mentre una miriade di..."
-    },
-    {
-      "titolo": "Il senzatetto è diventato famoso suonando il pianoforte in una chiesa: ora ha raccolto $50.000 per beneficenza",
-      "link": "https://www.goodnewsnetwork.org/homeless-guy-famous-for-playing-piano-in-church-raising-50k/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "12/09/2026",
-      "categoria": "Società",
-      "sommario": "Un senzatetto che è stato registrato mentre suonava il pianoforte in una chiesa in una fredda notte di gennaio dice che tutta la sua vita è cambiata, nei due anni trascorsi dalla sua performance..."
-    },
-    {
-      "titolo": "I ricercatori trovano una strategia Wordle che vince il 99% delle volte",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "12/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "I ricercatori della Binghamton University hanno sviluppato una strategia matematica in grado di risolvere Wordle con un tasso di successo del 99%. Invece di indovinare semplicemente le parole p..."
-    },
-    {
-      "titolo": "Meravigliosa Val di Chiana! 3 borghi da visitare almeno una volta nella vita",
-      "link": "https://www.greenme.it/viaggi/italia/viaggio-val-di-chiana-aretina/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/06/Cortona-2-COPERTINA.jpg",
-      "data": "12/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Il mio viaggio nella Val di Chiana Aretina tra Cortona, Lucignano e Civitella in Val di Chiana alla scoperta di borghi medievali, panorami toscani, storia et..."
-    },
-    {
-      "titolo": "Il vento che rigenera l’Italia: anatomia dei parchi eolici di nuova generazione",
-      "link": "https://www.rinnovabili.it/energia/eolico/anatomia-nuovi-parchi-eolici-italia/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "12/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Da semplici impianti ad ecosistemi integrati: l'eolico italiano cambia volto. Tra sostenibilità circolare, turismo lento e tutela della biodiversità, ecco co..."
     }
   ]
 }
