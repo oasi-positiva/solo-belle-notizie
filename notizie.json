@@ -1,15 +1,33 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
   "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
     {
       "titolo": "I ricercatori usano la matematica per garantire che un wordle vinca il 99% delle volte",
       "link": "https://www.goodnewsnetwork.org/researchers-use-math-to-ensure-a-wordle-win-99-of-the-time/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
       "data": "13/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Milioni di persone che giocano ai loro giochi quotidiani di Wordle saranno ansiosi di conoscere questa nuova ricerca. Utilizzando la teoria dell'informazione, il team di ricercatori di Bin..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono che i sistemi \"perfetti\" possono essere sorprendentemente fragili",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "19/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "I sistemi complessi possono funzionare meglio quando le loro parti non sono perfettamente uguali. I fisici del nord-ovest hanno scoperto che una variazione attentamente bilanciata, o \"disordine\", può..."
+    },
+    {
+      "titolo": "Gli scienziati risolvono un mistero di 50 anni e scoprono un nuovo gruppo sanguigno umano",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "19/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno identificato la causa genetica dietro il misterioso antigene del gruppo sanguigno AnWj, risolvendo un puzzle iniziato nel 1972 e stabilendo un nuovo sangue..."
     },
     {
       "titolo": "Gli scienziati hanno scoperto un nuovo felino selvatico, non accadeva da oltre 100 anni (ma è già in via di estinzione)",
