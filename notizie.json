@@ -1,7 +1,16 @@
 {
   "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "Buone notizie nella storia 20 settembre",
+      "link": "https://www.goodnewsnetwork.org/events060920/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "20/09/2026",
+      "categoria": "Mondo",
+      "sommario": "46 anni fa oggi, Blizzard of Ozz, l'album di debutto solista del grande e recentemente scomparso cantante metal Ozzy Osbourne, è stato pubblicato con recensioni moderate e s..."
+    },
     {
       "titolo": "Ti porto alla scoperta delle Marche più nascoste: 4 borghi senza tempo che ti lasceranno senza fiato",
       "link": "https://www.greenme.it/viaggi/italia/marche-quattro-borghi-senza-tempo/",
@@ -10,15 +19,6 @@
       "data": "20/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Il nostro viaggio tra i borghi più nascosti delle Marche: un itinerario alla scoperta di Mondavio, Cossignano, Offida e Montecassiano tra fortezze, architett..."
-    },
-    {
-      "titolo": "I ricercatori usano la matematica per garantire che un wordle vinca il 99% delle volte",
-      "link": "https://www.goodnewsnetwork.org/researchers-use-math-to-ensure-a-wordle-win-99-of-the-time/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "13/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Milioni di persone che giocano ai loro giochi quotidiani di Wordle saranno ansiosi di conoscere questa nuova ricerca. Utilizzando la teoria dell'informazione, il team di ricercatori di Bin..."
     },
     {
       "titolo": "Gli scienziati scoprono che i sistemi \"perfetti\" possono essere sorprendentemente fragili",
