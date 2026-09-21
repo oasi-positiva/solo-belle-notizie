@@ -1,21 +1,39 @@
 {
   "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
     {
-      "titolo": "L'ex terreno industriale passa dalla discarica alla diversità e ospita il 64% degli svassi dal collo nero del Regno Unito",
-      "link": "https://www.goodnewsnetwork.org/former-industrial-ground-goes-from-dump-to-diversity-and-hosts-64-of-uks-black-necked-grebes/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "14/09/2026",
+      "titolo": "“La Reserva” trionfa a Roma: ecco il film che ha conquistato la giuria di Cinema in Verde 2026",
+      "link": "https://www.greenme.it/lifestyle/intrattenimento/la-reserva-trionfa-a-roma-ecco-il-film-che-ha-conquistato-la-giuria-di-cinema-in-verde-2026/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/cinema-in-verde-1.jpg",
+      "data": "21/09/2026",
       "categoria": "Mondo",
-      "sommario": "Un ente di beneficenza per la conservazione nel Regno Unito ha trasformato quella che una volta era una discarica per il materiale scavato durante il dragaggio del canale in un habitat di nidificazione per due terzi di..."
+      "sommario": "Il festival internazionale Cinema In Verde 2026 si è concluso a Roma con un grande successo, registrando circa 4.000 presenze. Il Ginkgo d'Oro è stato assegn..."
+    },
+    {
+      "titolo": "Haiki+ e Igers inaugurano a Novara, un hub totalmente automatizzato e integrato per il riciclo del tessile",
+      "link": "https://www.rinnovabili.it/mercato/le-aziende-informano/riciclo-tessile-nuovo-impianto-igers-haiki-a-novara/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "21/09/2026",
+      "categoria": "Società",
+      "sommario": "L'efficienza complessiva dell'impianto garantisce un recupero del rifiuto tessile, post-consumo o invenduto, superiore al 96% Tecnologia proprietaria e all’a..."
+    },
+    {
+      "titolo": "Fibra di carbonio dagli scarti della carta: la svolta per auto più leggere e sostenibili",
+      "link": "https://www.rinnovabili.it/economia-circolare/riciclo/fibra-di-carbonio-dagli-scarti-della-carta-la-svolta-green/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "21/09/2026",
+      "categoria": "Società",
+      "sommario": "Il metodo potrebbe ridurre i costi di produzione del 25% e le emissioni. Per ora resta una possibilità da verificare su scala industriale, ma indica una stra..."
     },
     {
       "titolo": "I libri di testo di chimica sbagliano da quasi 100 anni",
       "link": "https://www.sciencedaily.com/releases/2026/09/260913082157.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
       "data": "14/09/2026",
       "categoria": "Mondo",
       "sommario": "Un concetto di chimica fondamentale che si trova nei libri di testo da quasi 100 anni potrebbe essere stato insegnato in modo errato. I ricercatori dicono che l'effetto induttivo in neutro mo..."
