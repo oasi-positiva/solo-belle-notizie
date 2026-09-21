@@ -1,16 +1,7 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
-    {
-      "titolo": "Coppia affitta 59 cani in pensione: \"Adoriamo farli uscire dai canili\"",
-      "link": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "20/09/2026",
-      "categoria": "Animali",
-      "sommario": "Incontra la coppia britannica che ha trascorso gli ultimi 15 anni ad allevare 59 cani, senza intenzione di fermarsi. Mentre lavora da casa e progetta elettronica, Nicole e..."
-    },
     {
       "titolo": "L'ex terreno industriale passa dalla discarica alla diversità e ospita il 64% degli svassi dal collo nero del Regno Unito",
       "link": "https://www.goodnewsnetwork.org/former-industrial-ground-goes-from-dump-to-diversity-and-hosts-64-of-uks-black-necked-grebes/",
@@ -24,10 +15,19 @@
       "titolo": "I libri di testo di chimica sbagliano da quasi 100 anni",
       "link": "https://www.sciencedaily.com/releases/2026/09/260913082157.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
       "data": "14/09/2026",
       "categoria": "Mondo",
       "sommario": "Un concetto di chimica fondamentale che si trova nei libri di testo da quasi 100 anni potrebbe essere stato insegnato in modo errato. I ricercatori dicono che l'effetto induttivo in neutro mo..."
+    },
+    {
+      "titolo": "Coppia affitta 59 cani in pensione: \"Adoriamo farli uscire dai canili\"",
+      "link": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "20/09/2026",
+      "categoria": "Animali",
+      "sommario": "Incontra la coppia britannica che ha trascorso gli ultimi 15 anni ad allevare 59 cani, senza intenzione di fermarsi. Mentre lavora da casa e progetta elettronica, Nicole e..."
     },
     {
       "titolo": "Buone notizie nella storia 20 settembre",
