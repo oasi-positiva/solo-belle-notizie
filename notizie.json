@@ -1,7 +1,34 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Coppia affitta 59 cani in pensione: \"Adoriamo farli uscire dai canili\"",
+      "link": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "20/09/2026",
+      "categoria": "Animali",
+      "sommario": "Incontra la coppia britannica che ha trascorso gli ultimi 15 anni ad allevare 59 cani, senza intenzione di fermarsi. Mentre lavora da casa e progetta elettronica, Nicole e..."
+    },
+    {
+      "titolo": "L'ex terreno industriale passa dalla discarica alla diversità e ospita il 64% degli svassi dal collo nero del Regno Unito",
+      "link": "https://www.goodnewsnetwork.org/former-industrial-ground-goes-from-dump-to-diversity-and-hosts-64-of-uks-black-necked-grebes/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "14/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Un ente di beneficenza per la conservazione nel Regno Unito ha trasformato quella che una volta era una discarica per il materiale scavato durante il dragaggio del canale in un habitat di nidificazione per due terzi di..."
+    },
+    {
+      "titolo": "I libri di testo di chimica sbagliano da quasi 100 anni",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260913082157.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "14/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Un concetto di chimica fondamentale che si trova nei libri di testo da quasi 100 anni potrebbe essere stato insegnato in modo errato. I ricercatori dicono che l'effetto induttivo in neutro mo..."
+    },
     {
       "titolo": "Buone notizie nella storia 20 settembre",
       "link": "https://www.goodnewsnetwork.org/events060920/",
@@ -280,33 +307,6 @@
       "data": "15/09/2026",
       "categoria": "Mondo",
       "sommario": "Una forma matematica famosa per rivestire una superficie senza mai ripetersi ha rivelato un'inaspettata capacità di attorcigliare la luce in insoliti pattern chirali. Il..."
-    },
-    {
-      "titolo": "I libri di testo di chimica sbagliano da quasi 100 anni",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260913082157.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "14/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Un concetto di chimica fondamentale che si trova nei libri di testo da quasi 100 anni potrebbe essere stato insegnato in modo errato. I ricercatori dicono che l'effetto induttivo in neutro mo..."
-    },
-    {
-      "titolo": "L'ex terreno industriale passa dalla discarica alla diversità e ospita il 64% degli svassi dal collo nero del Regno Unito",
-      "link": "https://www.goodnewsnetwork.org/former-industrial-ground-goes-from-dump-to-diversity-and-hosts-64-of-uks-black-necked-grebes/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "14/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Un ente di beneficenza per la conservazione nel Regno Unito ha trasformato quella che una volta era una discarica per il materiale scavato durante il dragaggio del canale in un habitat di nidificazione per due terzi di..."
-    },
-    {
-      "titolo": "Laurea honoris causa 'sogno che diventa realtà' per gli ambientalisti",
-      "link": "https://www.bbc.co.uk/news/articles/cy5z0v60910o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "14/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Tullis Matson, che ha istituito un ente di beneficenza per la conservazione della fauna selvatica, è una delle sette persone a ricevere il premio."
     }
   ]
 }
