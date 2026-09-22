@@ -1,7 +1,25 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Gettano un cagnolino di 4 mesi nel recinto dei Maremmani per farlo sbranare: il branco lo adotta e lo protegge",
+      "link": "https://www.greenme.it/pet/cani/gettano-cucciolo-di-4-mesi-recinto-maremmani/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Olbia-Pedro.jpg",
+      "data": "22/09/2026",
+      "categoria": "Mondo",
+      "sommario": "A Olbia un cucciolo di 4 mesi è stato gettato in un recinto di maremmani per farlo sbranare, ma i cani lo hanno protetto e salvato. Lida Olbia lancia un appe..."
+    },
+    {
+      "titolo": "FER e tutela del paesaggio: per il CdS i divieti assoluti sono illegittimi",
+      "link": "https://www.rinnovabili.it/energia/fotovoltaico/fer-tutela-del-paesaggio-divieti-assoluti-illegittimi/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "22/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Per i giudici di Palazzo Spada la tutela del paesaggio non può bloccare a priori gli impianti rinnovabili senza una motivazione rafforzata che ne bilanci l'i..."
+    },
     {
       "titolo": "La forma dietro il problema di Einstein ha appena rivelato una strana nuova fisica",
       "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
