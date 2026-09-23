@@ -1,7 +1,16 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Pensioni, si andrà ancora più tardi: la Ragioneria sposta di nuovo il traguardo a 67 anni e 6 mesi nel 2029",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/pensioni-si-andra-ancora-piu-tardi-la-ragioneria-sposta-di-nuovo-il-traguardo-67-anni-e-6-mesi-nel-2029/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/04/pensione.jpg",
+      "data": "23/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Le proiezioni della Ragioneria dello Stato: pensione di vecchiaia a 67 anni e 6 mesi nel 2029 e a 67 e 8 mesi nel 2031. Spesa al 17,1% del Pil nel 2041."
+    },
     {
       "titolo": "Dopo oltre 40 anni tra circo e zoo, l’elefante Sandro è finalmente libero (e la sua felicità è contagiosa)",
       "link": "https://www.greenme.it/animali/animali-selvatici/elefante-sandro-libero-santuario-brasiliano/",
@@ -30,15 +39,6 @@
       "sommario": "Un programma di ripristino su scala ecosistemica brasiliana è stato premiato in una recente conferenza delle Nazioni Unite come uno dei 3 più ambiziosi e di grande impatto attualmente in corso..."
     },
     {
-      "titolo": "Gli scienziati determinano che i vasti deserti rossi dell'Australia potrebbero alimentare una rivoluzione energetica alimentata a idrogeno",
-      "link": "https://www.goodnewsnetwork.org/scientists-determine-australias-vast-red-deserts-could-fuel-a-hydrogen-powered-energy-revolution/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "16/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno rivelato che l'Australia potrebbe essere la chiave per generare ampia energia verde creando al contempo un'importante industria di esportazione, e che è sepolta sotto..."
-    },
-    {
       "titolo": "Galleria: le foto vincitrici del premio Bird Photographer of the Year",
       "link": "https://www.positive.news/environment/winners-of-bird-photographer-of-the-year-announced/",
       "fonte": "Positive News",
@@ -46,15 +46,6 @@
       "data": "22/09/2026",
       "categoria": "Mondo",
       "sommario": "Uno scatto suggestivo di una sula che vola attraverso l'acqua è tra i vincitori del premio di quest' anno \nThe post Gallery: foto vincitrici di Bird Photographer di ..."
-    },
-    {
-      "titolo": "Gli scienziati hanno ricreato ciò che i topi hanno visto dalla sola attività cerebrale",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "16/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno ricostruito video dall'attività cerebrale dei topi, producendo clip di 10 secondi basate solo sui segnali dei neuroni nella corteccia visiva. La rottura..."
     },
     {
       "titolo": "Questo curioso uccello non era mai stato visto prima e la sua scoperta cambiò l'Ecuador, forse per sempre",
