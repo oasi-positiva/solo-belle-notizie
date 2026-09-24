@@ -1,21 +1,12 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
   "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
-    {
-      "titolo": "Per la prima volta in assoluto, le biciclette superano in numero le auto sulla rotta dell'ora di punta scozzese",
-      "link": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "23/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Una combinazione di noleggio di e-bike e piste ciclabili segregate ha potenziato il ciclismo nella capitale scozzese al punto che le biciclette hanno superato in numero le auto durante un mese di maggio..."
-    },
     {
       "titolo": "Scienziati cinesi sviluppano un nuovo metodo di raffinazione del petrolio che riduce il consumo di energia del 90%",
       "link": "https://www.goodnewsnetwork.org/chinese-scientists-develop-new-oil-refining-method-that-cuts-energy-use-by-90/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
       "data": "17/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Piuttosto che portare il petrolio greggio al punto di ebollizione più e più volte come avviene nella tradizionale raffinazione di distillazione, gli scienziati cinesi hanno trovato un modo per..."
@@ -33,10 +24,28 @@
       "titolo": "Buone notizie nella storia 17 settembre",
       "link": "https://www.goodnewsnetwork.org/events060917/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
       "data": "17/09/2026",
       "categoria": "Mondo",
       "sommario": "Buon 41° compleanno a The Great 8, Alexander Ovechkin. Gioca a sinistra per i Washington Capitals dal 2004, è semplicemente tra i più grandi gol ..."
+    },
+    {
+      "titolo": "Una costola rotta del più grande T. rex del mondo nasconde un segreto di 66 milioni di anni",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005709.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "24/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Una costola rotta di Scotty, il più grande scheletro di T. rex conosciuto, contiene una straordinaria rete fossilizzata di vasi sanguigni formatisi mentre il dinosauro guariva..."
+    },
+    {
+      "titolo": "Per la prima volta in assoluto, le biciclette superano in numero le auto sulla rotta dell'ora di punta scozzese",
+      "link": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "23/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Una combinazione di noleggio di e-bike e piste ciclabili segregate ha potenziato il ciclismo nella capitale scozzese al punto che le biciclette hanno superato in numero le auto durante un mese di maggio..."
     },
     {
       "titolo": "Pensioni, si andrà ancora più tardi: la Ragioneria sposta di nuovo il traguardo a 67 anni e 6 mesi nel 2029",
