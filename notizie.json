@@ -1,7 +1,43 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Per la prima volta in assoluto, le biciclette superano in numero le auto sulla rotta dell'ora di punta scozzese",
+      "link": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "23/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Una combinazione di noleggio di e-bike e piste ciclabili segregate ha potenziato il ciclismo nella capitale scozzese al punto che le biciclette hanno superato in numero le auto durante un mese di maggio..."
+    },
+    {
+      "titolo": "Scienziati cinesi sviluppano un nuovo metodo di raffinazione del petrolio che riduce il consumo di energia del 90%",
+      "link": "https://www.goodnewsnetwork.org/chinese-scientists-develop-new-oil-refining-method-that-cuts-energy-use-by-90/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "17/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Piuttosto che portare il petrolio greggio al punto di ebollizione più e più volte come avviene nella tradizionale raffinazione di distillazione, gli scienziati cinesi hanno trovato un modo per..."
+    },
+    {
+      "titolo": "Gli studenti vincono il James Dyson Award per il dispositivo che scherma gli studenti per le commozioni cerebrali in soli 60 secondi",
+      "link": "https://www.goodnewsnetwork.org/students-win-james-dyson-award-for-device-that-screens-students-for-concussions-in-just-60-seconds/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "17/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Un trio di studenti dell'Università di Harvard ha inventato un auricolare a basso costo per il tracciamento degli occhi progettato per aiutare le scuole a schermare rapidamente gli atleti bambini per possibili..."
+    },
+    {
+      "titolo": "Buone notizie nella storia 17 settembre",
+      "link": "https://www.goodnewsnetwork.org/events060917/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "17/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Buon 41° compleanno a The Great 8, Alexander Ovechkin. Gioca a sinistra per i Washington Capitals dal 2004, è semplicemente tra i più grandi gol ..."
+    },
     {
       "titolo": "Pensioni, si andrà ancora più tardi: la Ragioneria sposta di nuovo il traguardo a 67 anni e 6 mesi nel 2029",
       "link": "https://www.greenme.it/lifestyle/costume-e-societa/pensioni-si-andra-ancora-piu-tardi-la-ragioneria-sposta-di-nuovo-il-traguardo-67-anni-e-6-mesi-nel-2029/",
@@ -192,15 +228,6 @@
       "sommario": "Dalla Germania la partnership tra Porsche ed una startup che ricicla le batterie a fine vita delle auto di lusso per crearne delle nuove. Ecco l'esperimento ..."
     },
     {
-      "titolo": "Carburante sostenibile per gli aerei, aeroporti Ue superano quota minima obbligatoria",
-      "link": "https://www.rinnovabili.it/mobilita/biocarburanti/carburante-sostenibile-per-gli-aerei-aeroporti-ue-superano-quota-minima-obbligatoria/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "17/09/2026",
-      "categoria": "Società",
-      "sommario": "Aggiungi Rinnovabili tra i preferiti Carburante SAF, aeroporti europei virtuosi Gli aerei commerciali sono tenuti ad utilizzare una quota minima di carburant..."
-    },
-    {
       "titolo": "Inaugurata la statua dedicata a Tsunami, il cane eroe che ha salvato oltre 100 vite fra le macerie del Venezuela",
       "link": "https://www.greenme.it/pet/cani/statua-dedicata-a-tsunami-cane-eroe-venezuela/",
       "fonte": "GreenMe",
@@ -226,60 +253,6 @@
       "data": "18/09/2026",
       "categoria": "Animali",
       "sommario": "Le ripetute inondazioni di un importante sito di conservazione nell'Oxfordshire lasciano frustrata un'organizzazione benefica."
-    },
-    {
-      "titolo": "Acquacoltura sostenibile: un nuovo report internazionale boccia la certificazione italiana sul benessere dei pesci",
-      "link": "https://www.greenme.it/animali/allevamenti/acquacoltura-sostenibile-un-nuovo-report-internazionale-boccia-la-certificazione-italiana-sul-benessere-dei-pesci/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/08/allevamento-pesce.jpg",
-      "data": "17/09/2026",
-      "categoria": "Salute",
-      "sommario": "Un nuovo report internazionale ha analizzato le principali certificazioni dell’acquacoltura, mettendo a confronto requisiti e criteri relativi al benessere d..."
-    },
-    {
-      "titolo": "Carburante sostenibile per gli aerei, aeroporti Ue superano quota minima obbligatoria",
-      "link": "https://www.rinnovabili.it/bozze/carburante-sostenibile-per-gli-aerei-aeroporti-ue-superano-quota-minima-obbligatoria/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "17/09/2026",
-      "categoria": "Società",
-      "sommario": "Aggiungi Rinnovabili tra i preferiti Carburante SAF, aeroporti europei virtuosi Gli aerei commerciali sono tenuti ad utilizzare una quota minima di carburant..."
-    },
-    {
-      "titolo": "Scienziati cinesi sviluppano un nuovo metodo di raffinazione del petrolio che riduce il consumo di energia del 90%",
-      "link": "https://www.goodnewsnetwork.org/chinese-scientists-develop-new-oil-refining-method-that-cuts-energy-use-by-90/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "17/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Piuttosto che portare il petrolio greggio al punto di ebollizione più e più volte come avviene nella tradizionale raffinazione di distillazione, gli scienziati cinesi hanno trovato un modo per..."
-    },
-    {
-      "titolo": "Spacciavano per biologico un riso coltivato con pesticidi: scoperta maxi-frode da 10 milioni di euro nel Pavese",
-      "link": "https://www.greenme.it/lifestyle/sai-cosa-compri/spacciavano-per-biologico-un-riso-coltivato-con-pesticidi-scoperta-maxi-frode-da-10-milioni-di-euro-nel-pavese/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/falso-riso-biologico.jpg",
-      "data": "17/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Un'indagine della Guardia di Finanza e dell'ICQRF ha coinvolto 14 aziende del Pavese che avrebbero venduto riso come “bio” nonostante l'uso di fertilizzanti ..."
-    },
-    {
-      "titolo": "Gli studenti vincono il James Dyson Award per il dispositivo che scherma gli studenti per le commozioni cerebrali in soli 60 secondi",
-      "link": "https://www.goodnewsnetwork.org/students-win-james-dyson-award-for-device-that-screens-students-for-concussions-in-just-60-seconds/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "17/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Un trio di studenti dell'Università di Harvard ha inventato un auricolare a basso costo per il tracciamento degli occhi progettato per aiutare le scuole a schermare rapidamente gli atleti bambini per possibili..."
-    },
-    {
-      "titolo": "Buone notizie nella storia 17 settembre",
-      "link": "https://www.goodnewsnetwork.org/events060917/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "17/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Buon 41° compleanno a The Great 8, Alexander Ovechkin. Gioca a sinistra per i Washington Capitals dal 2004, è semplicemente tra i più grandi gol ..."
     }
   ]
 }
