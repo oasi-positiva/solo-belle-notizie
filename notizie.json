@@ -1,7 +1,43 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Lavanderie sociali, energia condivisa e telemedicina: cosa prevede il nuovo Distretto dell’Innovazione Sociale del Mediterraneo",
+      "link": "https://www.greenme.it/esg/lavanderie-sociali-energia-condivisa-e-telemedicina-cosa-prevede-il-nuovo-distretto-dellinnovazione-sociale-del-mediterraneo/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Yunus-Foqus-by-Fabiana-Privitera.jpg",
+      "data": "25/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Napoli, Palermo e Potenza uniscono competenze e progetti: entro il 2029 nasceranno 14 imprese sociali ispirate al modello di Yunus"
+    },
+    {
+      "titolo": "Con $1 miliardo, il fondatore di Nike Phil Knight effettua la più grande donazione singola a un'università pubblica",
+      "link": "https://www.goodnewsnetwork.org/with-1-billion-nike-founder-phil-knight-makes-largest-single-donation-to-a-public-university/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "25/09/2026",
+      "categoria": "Società",
+      "sommario": "Phil Knight, fondatore di Nike, non è estraneo ai grandi doni filantropici e l'Università dell'Oregon non è estranea a riceverli. Tuttavia, quando il signor Knig..."
+    },
+    {
+      "titolo": "La Terra si sta lacerando sotto il Pacifico nord-occidentale",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "25/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno catturato una zona di subduzione al largo dell'isola di Vancouver nel processo di autodistruzione, rivelando che questi enormi sistemi tettonici potrebbero morire..."
+    },
+    {
+      "titolo": "La strategia salvaguarderà la natura per generazioni",
+      "link": "https://www.bbc.co.uk/news/articles/c6d9452qx4x0o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "25/09/2026",
+      "categoria": "Animali",
+      "sommario": "La strategia di recupero della natura locale è approvata per una delle \"aree più impoverite della natura\" dell'Inghilterra."
+    },
     {
       "titolo": "Antiche meteoriti rivelano una potente forza che ha contribuito a costruire il Sistema Solare",
       "link": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
