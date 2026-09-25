@@ -1,7 +1,16 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Abbandonato e denutrito, questo cagnolino è stato adottato dai poliziotti di Viareggio (e il suo nome ti farà sorridere)",
+      "link": "https://www.greenme.it/pet/cani/cane-manetta-mascotte-commissariato-viareggio/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Manetta-mascotte-Livorno.jpg",
+      "data": "25/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Salvato da una pattuglia della polizia dopo un difficile recupero, il Maltese Manetta ha trovato una nuova famiglia e una divisa ufficiale tra le mura del co..."
+    },
     {
       "titolo": "Lavanderie sociali, energia condivisa e telemedicina: cosa prevede il nuovo Distretto dell’Innovazione Sociale del Mediterraneo",
       "link": "https://www.greenme.it/esg/lavanderie-sociali-energia-condivisa-e-telemedicina-cosa-prevede-il-nuovo-distretto-dellinnovazione-sociale-del-mediterraneo/",
