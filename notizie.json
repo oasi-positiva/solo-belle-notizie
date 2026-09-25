@@ -1,7 +1,16 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Aperta per la prima volta, questa tomba da 600 yo in Perù è stata appena dichiarata la \"scoperta del decennio\"",
+      "link": "https://www.goodnewsnetwork.org/unsealed-for-the-first-time-this-600-yo-tomb-in-peru-was-just-declared-the-discovery-of-the-decade/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "18/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "In Perù è stata scoperta una tomba incontaminata e sconosciuta contenente i resti di una società elitaria appartenente a un'importante civiltà andina. Situato nell'U..."
+    },
     {
       "titolo": "“Senza la cura della biodiversità l’uomo può distruggersi”: le parole di Mattarella che tutti dovremmo ascoltare",
       "link": "https://www.greenme.it/ambiente/senza-la-cura-della-biodiversita-luomo-puo-distruggersi-le-parole-di-mattarella-che-tutti-dovremmo-ascoltare/",
@@ -226,42 +235,6 @@
       "data": "19/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Uno studio su adulti sedentari tra 45 e 65 anni trova più massa magra e forza con creatina senza allenamento"
-    },
-    {
-      "titolo": "Porsche ricicla al 100% le sue batterie: l’esempio virtuoso",
-      "link": "https://www.rinnovabili.it/economia-circolare/riciclo/batteria-porsche-al-100-riciclata-esempio-da-seguire/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "18/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Dalla Germania la partnership tra Porsche ed una startup che ricicla le batterie a fine vita delle auto di lusso per crearne delle nuove. Ecco l'esperimento ..."
-    },
-    {
-      "titolo": "Inaugurata la statua dedicata a Tsunami, il cane eroe che ha salvato oltre 100 vite fra le macerie del Venezuela",
-      "link": "https://www.greenme.it/pet/cani/statua-dedicata-a-tsunami-cane-eroe-venezuela/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Tsunami-statua.jpg",
-      "data": "18/09/2026",
-      "categoria": "Animali",
-      "sommario": "A Maracaibo inaugurata una statua per Tsunami, il Border Collie eroe del terremoto in Venezuela che ha salvato oltre 100 vite dopo un passato di maltrattamen..."
-    },
-    {
-      "titolo": "Aperta per la prima volta, questa tomba da 600 yo in Perù è stata appena dichiarata la \"scoperta del decennio\"",
-      "link": "https://www.goodnewsnetwork.org/unsealed-for-the-first-time-this-600-yo-tomb-in-peru-was-just-declared-the-discovery-of-the-decade/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "18/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "In Perù è stata scoperta una tomba incontaminata e sconosciuta contenente i resti di una società elitaria appartenente a un'importante civiltà andina. Situato nell'U..."
-    },
-    {
-      "titolo": "Il tubo di scoppio inonda il prato della fauna selvatica per la quarta volta",
-      "link": "https://www.bbc.co.uk/news/articles/cjp302kq62elo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "18/09/2026",
-      "categoria": "Animali",
-      "sommario": "Le ripetute inondazioni di un importante sito di conservazione nell'Oxfordshire lasciano frustrata un'organizzazione benefica."
     }
   ]
 }
