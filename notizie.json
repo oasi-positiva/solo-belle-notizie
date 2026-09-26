@@ -1,15 +1,33 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
   "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
     {
-      "titolo": "Gli scienziati scoprono che i sistemi \"perfetti\" possono essere sorprendentemente fragili",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
+      "titolo": "Cisco, l’ex voce dei Modena City Ramblers: “Ho rinunciato al successo. Ma ho guadagnato la libertà”",
+      "link": "https://www.greenme.it/lifestyle/arte-e-cultura/cisco-lex-voce-dei-modena-city-ramblers-ho-rinunciato-al-successo-ma-ho-guadagnato-la-liberta/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Cisco-MEI-2.jpg",
+      "data": "26/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Intervista a Cisco Bellotti alla vigilia del premio vinto nei 30 anni del MEI: dall’addio ai Modena City Ramblers alla musica indipendente, il racconto di un..."
+    },
+    {
+      "titolo": "Gli scienziati potrebbero aver frainteso un indizio di 2 miliardi di anni fa sulla Terra",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
       "fonte": "Science Daily",
       "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "19/09/2026",
+      "data": "26/09/2026",
       "categoria": "Scienza & Tech",
-      "sommario": "I sistemi complessi possono funzionare meglio quando le loro parti non sono perfettamente uguali. I fisici del nord-ovest hanno scoperto che una variazione attentamente bilanciata, o \"disordine\", può..."
+      "sommario": "Gli scienziati hanno scoperto che una famosa firma chimica di 2 miliardi di anni fa, una volta pensata per registrare un massiccio cambiamento globale nel ciclo del carbonio della Terra, potrebbe causare..."
+    },
+    {
+      "titolo": "Il computer quantistico simula la materia \"che viene all'esistenza\"",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "26/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno ricreato un processo di formazione delle particelle legato alla fisica estrema dell'universo primordiale utilizzando un simulatore quantistico a 13 ioni. La svolta suggerisce..."
     },
     {
       "titolo": "Habitat di cavallucci marini 'curativi' grazie agli ormeggi ecologici",
