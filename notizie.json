@@ -1,24 +1,24 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
     {
       "titolo": "Gli scienziati scoprono che i sistemi \"perfetti\" possono essere sorprendentemente fragili",
       "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "19/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "I sistemi complessi possono funzionare meglio quando le loro parti non sono perfettamente uguali. I fisici del nord-ovest hanno scoperto che una variazione attentamente bilanciata, o \"disordine\", può..."
     },
     {
-      "titolo": "Gli scienziati risolvono un mistero di 50 anni e scoprono un nuovo gruppo sanguigno umano",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "19/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno identificato la causa genetica dietro il misterioso antigene del gruppo sanguigno AnWj, risolvendo un puzzle iniziato nel 1972 e stabilendo un nuovo sangue..."
+      "titolo": "Habitat di cavallucci marini 'curativi' grazie agli ormeggi ecologici",
+      "link": "https://www.bbc.co.uk/news/articles/cqrm90n3m90po?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "26/09/2026",
+      "categoria": "Salute",
+      "sommario": "Secondo uno studio, le cicatrici nei prati di praterie marine di Studland Bay, causate dalle catene di ancoraggio delle barche, stanno guarendo."
     },
     {
       "titolo": "Abbandonato e denutrito, questo cagnolino è stato adottato dai poliziotti di Viareggio (e il suo nome ti farà sorridere)",
