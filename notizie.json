@@ -1,7 +1,25 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
   "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Gli scienziati scoprono che i sistemi \"perfetti\" possono essere sorprendentemente fragili",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "19/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "I sistemi complessi possono funzionare meglio quando le loro parti non sono perfettamente uguali. I fisici del nord-ovest hanno scoperto che una variazione attentamente bilanciata, o \"disordine\", può..."
+    },
+    {
+      "titolo": "Gli scienziati risolvono un mistero di 50 anni e scoprono un nuovo gruppo sanguigno umano",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "19/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno identificato la causa genetica dietro il misterioso antigene del gruppo sanguigno AnWj, risolvendo un puzzle iniziato nel 1972 e stabilendo un nuovo sangue..."
+    },
     {
       "titolo": "Abbandonato e denutrito, questo cagnolino è stato adottato dai poliziotti di Viareggio (e il suo nome ti farà sorridere)",
       "link": "https://www.greenme.it/pet/cani/cane-manetta-mascotte-commissariato-viareggio/",
@@ -235,51 +253,6 @@
       "data": "20/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Il nostro viaggio tra i borghi più nascosti delle Marche: un itinerario alla scoperta di Mondavio, Cossignano, Offida e Montecassiano tra fortezze, architett..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono che i sistemi \"perfetti\" possono essere sorprendentemente fragili",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "19/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "I sistemi complessi possono funzionare meglio quando le loro parti non sono perfettamente uguali. I fisici del nord-ovest hanno scoperto che una variazione attentamente bilanciata, o \"disordine\", può..."
-    },
-    {
-      "titolo": "Gli scienziati risolvono un mistero di 50 anni e scoprono un nuovo gruppo sanguigno umano",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "19/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno identificato la causa genetica dietro il misterioso antigene del gruppo sanguigno AnWj, risolvendo un puzzle iniziato nel 1972 e stabilendo un nuovo sangue..."
-    },
-    {
-      "titolo": "Gli scienziati hanno scoperto un nuovo felino selvatico, non accadeva da oltre 100 anni (ma è già in via di estinzione)",
-      "link": "https://www.greenme.it/animali/animali-selvatici/nuovo-felino-selvatico-estinzione/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/nuovo-felino-bolivia-s.jpg",
-      "data": "19/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Dalla Bolivia arriva una notizia bellissima per la scienza e la biodiversità: gli scienziati hanno appena scoperto un nuovo felino selvatico, il Leopardus ti..."
-    },
-    {
-      "titolo": "Miracolo di San Gennaro: il sangue si è sciolto anche nel 2026. Cosa significa e perché è così importante per i napoletani",
-      "link": "https://www.greenme.it/lifestyle/costume-e-societa/miracolo-di-san-gennaro-il-sangue-si-e-sciolto-anche-nel-2026-cosa-significa-e-perche-e-cosi-importante-per-i-napoletani/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2020/12/san-gennaro-sangue.jpg",
-      "data": "19/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Il sangue di San Gennaro si è sciolto anche il 19 settembre 2026. Ecco cosa significa il prodigio per Napoli e perché è così importante per i fedeli."
-    },
-    {
-      "titolo": "La creatina aumenta la massa magra anche senza palestra? Alle persone di questo piccolo studio è successo, ma c’è un “trucco”",
-      "link": "https://www.greenme.it/salute-e-alimentazione/integratori/la-creatina-aumenta-la-massa-magra-anche-senza-palestra-alle-persone-di-questo-piccolo-studio-e-successo-ma-ce-un-trucco/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/creatina.jpg",
-      "data": "19/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Uno studio su adulti sedentari tra 45 e 65 anni trova più massa magra e forza con creatina senza allenamento"
     }
   ]
 }
