@@ -1,7 +1,25 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Perché da Action compri sempre più cose di quelle che avevi in mente: il trucco della “caccia al tesoro”",
+      "link": "https://www.greenme.it/lifestyle/perche-da-action-compri-sempre-piu-cose-di-quelle-che-avevi-in-mente-il-trucco-della-caccia-al-tesoro/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2025/06/action.jpg",
+      "data": "26/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Perché Action piace così tanto? Dietro il successo della catena low cost c’è il meccanismo della “caccia al tesoro” e il desiderio di trovare occasioni."
+    },
+    {
+      "titolo": "Buone notizie nella storia 26 settembre",
+      "link": "https://www.goodnewsnetwork.org/events060926/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "26/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Buon 81° compleanno al cantautore Bryan Ferry il cui \"croon elegante e seducente\" e lo stile Mod hanno influenzato una generazione di glam art rock negli anni '70. H..."
+    },
     {
       "titolo": "Cisco, l’ex voce dei Modena City Ramblers: “Ho rinunciato al successo. Ma ho guadagnato la libertà”",
       "link": "https://www.greenme.it/lifestyle/arte-e-cultura/cisco-lex-voce-dei-modena-city-ramblers-ho-rinunciato-al-successo-ma-ho-guadagnato-la-liberta/",
