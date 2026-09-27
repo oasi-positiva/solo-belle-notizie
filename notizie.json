@@ -1,7 +1,16 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Coppia affitta 59 cani in pensione: \"Adoriamo farli uscire dai canili\"",
+      "link": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "20/09/2026",
+      "categoria": "Animali",
+      "sommario": "Incontra la coppia britannica che ha trascorso gli ultimi 15 anni ad allevare 59 cani, senza intenzione di fermarsi. Mentre lavora da casa e progetta elettronica, Nicole e..."
+    },
     {
       "titolo": "Il fondatore di Nike Phil Knight dona un miliardo di dollari: la più grande donazione singola a un'università pubblica",
       "link": "https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
@@ -10,24 +19,6 @@
       "data": "26/09/2026",
       "categoria": "Società",
       "sommario": "Phil Knight, che ha co-fondato Nike insieme al suo ex allenatore di atletica all'Università dell'Oregon (Bill Bowerman), è tornato alla sua alma mater con un abbraccio..."
-    },
-    {
-      "titolo": "Coppia affitta 59 cani in pensione: \"Adoriamo farli uscire dai canili\"",
-      "link": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "20/09/2026",
-      "categoria": "Animali",
-      "sommario": "Incontra la coppia britannica che ha trascorso gli ultimi 15 anni ad allevare 59 cani, senza intenzione di fermarsi. Mentre lavora da casa e progetta elettronica, Nicole e..."
-    },
-    {
-      "titolo": "Buone notizie nella storia 20 settembre",
-      "link": "https://www.goodnewsnetwork.org/events060920/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "20/09/2026",
-      "categoria": "Mondo",
-      "sommario": "46 anni fa oggi, Blizzard of Ozz, l'album di debutto solista del grande e recentemente scomparso cantante metal Ozzy Osbourne, è stato pubblicato con recensioni moderate e s..."
     },
     {
       "titolo": "Perché da Action compri sempre più cose di quelle che avevi in mente: il trucco della “caccia al tesoro”",
