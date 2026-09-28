@@ -1,7 +1,25 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Il Vietnam protegge rapidamente le foreste contenenti l'ultima scimmia più a rischio del mondo",
+      "link": "https://www.goodnewsnetwork.org/vietnam-swiftly-protects-forests-containing-the-last-of-the-worlds-most-endangered-monkey/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "28/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Alcuni dei migliori paesaggi forestali e montani che il Vietnam ha da offrire ora includeranno una speciale riserva protetta per proteggere uno dei luoghi più pericolosi del mondo..."
+    },
+    {
+      "titolo": "Ripristinare l'orologio biologico potrebbe aiutare il cervello a riprendersi dopo l'ictus",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020407.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "28/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Rafforzare i ritmi quotidiani naturali del corpo ha aiutato i topi a riprendersi dopo l'ictus migliorando il sistema di eliminazione dei rifiuti del cervello e riducendo l'infiammazione persistente..."
+    },
     {
       "titolo": "Buone notizie nella storia 28 settembre",
       "link": "https://www.goodnewsnetwork.org/events060928/",
