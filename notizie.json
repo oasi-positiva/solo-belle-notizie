@@ -1,7 +1,16 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "I ricercatori della CA identificano gli odori che respingono le api dai pesticidi",
+      "link": "https://www.goodnewsnetwork.org/ca-researchers-identify-odors-that-repel-honeybees-from-pesticides/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "27/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "In una vittoria per la conservazione degli impollinatori, i ricercatori dell'Università della California, a Riverside, hanno identificato composti chimici che possono respingere tranquillamente il miele ..."
+    },
     {
       "titolo": "Gli archeologi hanno rischiato la vita per salvare 30.000 tesori dai terroristi dell'ISIS: un nuovo studio mostra come",
       "link": "https://www.goodnewsnetwork.org/archaeologists-risked-their-lives-to-save-thousands-of-treasures-from-isis-terrorists/",
@@ -10,15 +19,6 @@
       "data": "27/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Un nuovo studio rivela come gli archeologi hanno rischiato la vita per salvare migliaia di tesori storici dall'imminente distruzione da parte dei terroristi dello Stato Islamico. Essi..."
-    },
-    {
-      "titolo": "Coppia affitta 59 cani in pensione: \"Adoriamo farli uscire dai canili\"",
-      "link": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "20/09/2026",
-      "categoria": "Animali",
-      "sommario": "Incontra la coppia britannica che ha trascorso gli ultimi 15 anni ad allevare 59 cani, senza intenzione di fermarsi. Mentre lavora da casa e progetta elettronica, Nicole e..."
     },
     {
       "titolo": "Il fondatore di Nike Phil Knight dona un miliardo di dollari: la più grande donazione singola a un'università pubblica",
@@ -262,33 +262,6 @@
       "data": "22/09/2026",
       "categoria": "Mondo",
       "sommario": "Per i giudici di Palazzo Spada la tutela del paesaggio non può bloccare a priori gli impianti rinnovabili senza una motivazione rafforzata che ne bilanci l'i..."
-    },
-    {
-      "titolo": "“La Reserva” trionfa a Roma: ecco il film che ha conquistato la giuria di Cinema in Verde 2026",
-      "link": "https://www.greenme.it/lifestyle/intrattenimento/la-reserva-trionfa-a-roma-ecco-il-film-che-ha-conquistato-la-giuria-di-cinema-in-verde-2026/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/cinema-in-verde-1.jpg",
-      "data": "21/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Il festival internazionale Cinema In Verde 2026 si è concluso a Roma con un grande successo, registrando circa 4.000 presenze. Il Ginkgo d'Oro è stato assegn..."
-    },
-    {
-      "titolo": "Haiki+ e Igers inaugurano a Novara, un hub totalmente automatizzato e integrato per il riciclo del tessile",
-      "link": "https://www.rinnovabili.it/mercato/le-aziende-informano/riciclo-tessile-nuovo-impianto-igers-haiki-a-novara/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "21/09/2026",
-      "categoria": "Società",
-      "sommario": "L'efficienza complessiva dell'impianto garantisce un recupero del rifiuto tessile, post-consumo o invenduto, superiore al 96% Tecnologia proprietaria e all’a..."
-    },
-    {
-      "titolo": "Fibra di carbonio dagli scarti della carta: la svolta per auto più leggere e sostenibili",
-      "link": "https://www.rinnovabili.it/economia-circolare/riciclo/fibra-di-carbonio-dagli-scarti-della-carta-la-svolta-green/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "21/09/2026",
-      "categoria": "Società",
-      "sommario": "Il metodo potrebbe ridurre i costi di produzione del 25% e le emissioni. Per ora resta una possibilità da verificare su scala industriale, ma indica una stra..."
     }
   ]
 }
