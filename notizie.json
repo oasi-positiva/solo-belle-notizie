@@ -1,7 +1,16 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Buone notizie nella storia 28 settembre",
+      "link": "https://www.goodnewsnetwork.org/events060928/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "28/09/2026",
+      "categoria": "Mondo",
+      "sommario": "39 anni fa oggi, Star Trek: The Next Generation ha debuttato in televisione. Con 178 episodi in sette stagioni, ha interpretato l'attore inglese Patrick Stewa..."
+    },
     {
       "titolo": "I ricercatori della CA identificano gli odori che respingono le api dai pesticidi",
       "link": "https://www.goodnewsnetwork.org/ca-researchers-identify-odors-that-repel-honeybees-from-pesticides/",
