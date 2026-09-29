@@ -1,24 +1,33 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
   "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
     {
-      "titolo": "Questo curioso uccello non era mai stato visto prima e la sua scoperta cambiò l'Ecuador, forse per sempre",
-      "link": "https://www.goodnewsnetwork.org/this-curious-bird-had-never-been-seen-before-and-its-discovery-changed-ecuador-perhaps-forever/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "22/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Alla fine degli anni '90, un gruppo di scienziati stava osservando gli uccelli in una remota foresta in Ecuador quando sentirono un richiamo come nessun altro. Seguendo il misterioso aviario..."
+      "titolo": "“Tutto l’amore che resta”, debutta stasera la serie tv con Raoul Bova che racconta la disabilità senza stereotipi",
+      "link": "https://www.greenme.it/lifestyle/intrattenimento/tutto-lamore-che-resta-serie-tv/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Tutto-lamore-che-resta.jpg",
+      "data": "29/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Al debutto su Rai 1 “Tutto l'amore che resta”, la nuova serie tv con Raoul Bova che porta l'inclusione scolastica e la disabilità in tv senza retorica né ste..."
     },
     {
-      "titolo": "Per la prima volta, gli scienziati guardano il suono saltare tra gli stati quantici",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "22/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "I ricercatori di Stanford hanno registrato i primi salti quantici in tempo reale del suono, osservando singoli fononi svanire bruscamente da uno stato energetico all'altro. Il ..."
+      "titolo": "Tutti pazzi per l’Ube, il “nuovo matcha”, ma le Filippine ne fermano l’export",
+      "link": "https://www.greenme.it/lifestyle/sai-cosa-compri/tutti-pazzi-per-lube-il-nuovo-matcha-ma-le-filippine-ne-fermano-lexport/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/ube.jpg",
+      "data": "29/09/2026",
+      "categoria": "Mondo",
+      "sommario": "È viola, fotogenico e sta conquistando caffetterie e pasticcerie di mezzo mondo. Parliamo dell'ube, il nuovo ingrediente di tendenza già paragonato al matcha..."
+    },
+    {
+      "titolo": "Una strategia di denaro in cambio di foto trasforma i cacciatori di animali in protettori degli animali in Indonesia",
+      "link": "https://www.goodnewsnetwork.org/a-strategy-of-cash-for-photos-turns-animal-hunters-into-animal-protectors-in-indonesia/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "29/09/2026",
+      "categoria": "Animali",
+      "sommario": "Da quell' isola magica chiamata Borneo arriva la storia di un programma bottom-up, pay-per-pic che sta avendo un impatto significativo per la conservazione dell'endange..."
     },
     {
       "titolo": "Il Vietnam protegge rapidamente le foreste contenenti l'ultima scimmia più a rischio del mondo",
