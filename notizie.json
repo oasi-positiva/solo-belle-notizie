@@ -1,7 +1,61 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Scoperta dopo più di 100 anni una nuova specie di pinguino (che rischia già l’estinzione)",
+      "link": "https://www.greenme.it/animali/animali-selvatici/scoperta-antartide-nuova-specie-pinguino/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Nuova-specie-pinguini.jpg",
+      "data": "30/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Scoperto il pinguino delle Isole della Desolazione: il Pygoscelis kerguelensis è la prima nuova specie identificata dal 1921. Purtroppo però è già a rischio ..."
+    },
+    {
+      "titolo": "Le 5 abitudini della felicità che possono aiutarci a vivere meglio (e anche più a lungo)",
+      "link": "https://www.greenme.it/salute-e-alimentazione/psicologia/consigli-per-essere-felici/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/03/felicita-risata.jpg",
+      "data": "30/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Bastano piccoli cambiamenti nel nostro stile di vita per garantirci una felicità che duri nel tempo e che ci porti una vita piena"
+    },
+    {
+      "titolo": "Energie rinnovabili e agricoltura: così la transizione ecologica aiuta a far crescere le aziende in Italia",
+      "link": "https://www.rinnovabili.it/agrifood/agricoltura/agroalimentare-transizione-energetica/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "30/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Dal convegno promosso da RSE e CREA emerge un messaggio chiaro: ricerca ed innovazione per spingere su sostenibilità e competitività\nL'articolo Energie rinno..."
+    },
+    {
+      "titolo": "Per la prima volta in assoluto, le biciclette superano in numero le auto sulla rotta dell'ora di punta scozzese",
+      "link": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "23/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Una combinazione di noleggio di e-bike e piste ciclabili segregate ha potenziato il ciclismo nella capitale scozzese al punto che le biciclette hanno superato in numero le auto durante un mese di maggio..."
+    },
+    {
+      "titolo": "Innovazione del teletrasporto quantistico: gli scienziati affrontano una sfida di 25 anni",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "29/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno sviluppato e dimostrato sperimentalmente un metodo a lungo cercato per identificare gli stati W, un'importante forma di entangleme quantistico multi-fotonico..."
+    },
+    {
+      "titolo": "Questo fossile di 245 milioni di anni ha ancora lo stomaco e l'intestino",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927225036.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "29/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Un fossile di rettile marino di 245 milioni di anni conserva una quantità sorprendente di dettagli, tra cui stomaco, fegato e intestino. La scoperta rivela t..."
+    },
     {
       "titolo": "Hai 18 anni? Approfittane! L’Europa ti regala un pass per viaggiare in treno gratis: ecco come candidarti",
       "link": "https://www.greenme.it/viaggi/europa/hai-18-anni-approfittane-leuropa-ti-regala-un-pass-per-viaggiare-in-treno-gratis-ecco-come-candidarti/",
@@ -19,15 +73,6 @@
       "data": "30/09/2026",
       "categoria": "Mondo",
       "sommario": "163 anni fa, la famosa opera di George Bizet Les Pêcheurs de Perles, The Pearl Fishermen, debuttò al Théâtre Lyrique di Parigi. Ambientato in tempi antichi sul ..."
-    },
-    {
-      "titolo": "Per la prima volta in assoluto, le biciclette superano in numero le auto sulla rotta dell'ora di punta scozzese",
-      "link": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "23/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Una combinazione di noleggio di e-bike e piste ciclabili segregate ha potenziato il ciclismo nella capitale scozzese al punto che le biciclette hanno superato in numero le auto durante un mese di maggio..."
     },
     {
       "titolo": "“Tutto l’amore che resta”, debutta stasera la serie tv con Raoul Bova che racconta la disabilità senza stereotipi",
