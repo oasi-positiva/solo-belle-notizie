@@ -1,7 +1,25 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
   "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Per la prima volta in assoluto, le biciclette superano in numero le auto sulla rotta dell'ora di punta scozzese",
+      "link": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "23/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Una combinazione di noleggio di e-bike e piste ciclabili segregate ha potenziato il ciclismo nella capitale scozzese al punto che le biciclette hanno superato in numero le auto durante un mese di maggio..."
+    },
+    {
+      "titolo": "Progetto di restauro di punta nella savana brasiliana di Cerrado al lavoro per ripristinare 4,4 milioni di acri",
+      "link": "https://www.goodnewsnetwork.org/flagship-restoration-project-in-brazils-cerrado-savannah-working-to-restore-4-4-million-acres/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "23/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Un programma di ripristino su scala ecosistemica brasiliana è stato premiato in una recente conferenza delle Nazioni Unite come uno dei 3 più ambiziosi e di grande impatto attualmente in corso..."
+    },
     {
       "titolo": "“Tutto l’amore che resta”, debutta stasera la serie tv con Raoul Bova che racconta la disabilità senza stereotipi",
       "link": "https://www.greenme.it/lifestyle/intrattenimento/tutto-lamore-che-resta-serie-tv/",
@@ -226,51 +244,6 @@
       "data": "24/09/2026",
       "categoria": "Mondo",
       "sommario": "Una costola rotta di Scotty, il più grande scheletro di T. rex conosciuto, contiene una straordinaria rete fossilizzata di vasi sanguigni formatisi mentre il dinosauro guariva..."
-    },
-    {
-      "titolo": "Per la prima volta in assoluto, le biciclette superano in numero le auto sulla rotta dell'ora di punta scozzese",
-      "link": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "23/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Una combinazione di noleggio di e-bike e piste ciclabili segregate ha potenziato il ciclismo nella capitale scozzese al punto che le biciclette hanno superato in numero le auto durante un mese di maggio..."
-    },
-    {
-      "titolo": "Pensioni, si andrà ancora più tardi: la Ragioneria sposta di nuovo il traguardo a 67 anni e 6 mesi nel 2029",
-      "link": "https://www.greenme.it/lifestyle/costume-e-societa/pensioni-si-andra-ancora-piu-tardi-la-ragioneria-sposta-di-nuovo-il-traguardo-67-anni-e-6-mesi-nel-2029/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/04/pensione.jpg",
-      "data": "23/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Le proiezioni della Ragioneria dello Stato: pensione di vecchiaia a 67 anni e 6 mesi nel 2029 e a 67 e 8 mesi nel 2031. Spesa al 17,1% del Pil nel 2041."
-    },
-    {
-      "titolo": "Dopo oltre 40 anni tra circo e zoo, l’elefante Sandro è finalmente libero (e la sua felicità è contagiosa)",
-      "link": "https://www.greenme.it/animali/animali-selvatici/elefante-sandro-libero-santuario-brasiliano/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Sandro-elefante.jpg",
-      "data": "23/09/2026",
-      "categoria": "Mondo",
-      "sommario": "A 54 anni l'elefante Sandro lascia lo zoo brasiliano di Sorocaba dopo 40 anni di cattività per iniziare una nuova vita nel santuario brasiliano del Mato Grosso"
-    },
-    {
-      "titolo": "Auto elettrica, l’Europa cambia le regole. Ma la vera svolta sarà renderla semplice per tutti",
-      "link": "https://www.rinnovabili.it/mobilita/automotive/auto-elettrica-europa-cambia-regole/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "23/09/2026",
-      "categoria": "Mondo",
-      "sommario": "L’Europa ridisegna le regole della ricarica: più colonnine sulle grandi strade, pagamenti semplici, niente abbonamenti obbligatori e prezzi trasparenti. È un..."
-    },
-    {
-      "titolo": "Progetto di restauro di punta nella savana brasiliana di Cerrado al lavoro per ripristinare 4,4 milioni di acri",
-      "link": "https://www.goodnewsnetwork.org/flagship-restoration-project-in-brazils-cerrado-savannah-working-to-restore-4-4-million-acres/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "23/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Un programma di ripristino su scala ecosistemica brasiliana è stato premiato in una recente conferenza delle Nazioni Unite come uno dei 3 più ambiziosi e di grande impatto attualmente in corso..."
     }
   ]
 }
