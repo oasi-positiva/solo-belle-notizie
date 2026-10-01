@@ -1,7 +1,16 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "I cristalli temporali distanti possono in qualche modo cadere nello stesso ritmo",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "24/09/2026",
+      "categoria": "Mondo",
+      "sommario": "I ricercatori hanno dimostrato che più cristalli temporali all'interno di un semiconduttore possono sincronizzare le loro oscillazioni, proprio come gli orologi a pendolo che cadono gradualmente..."
+    },
     {
       "titolo": "Scoperta dopo più di 100 anni una nuova specie di pinguino (che rischia già l’estinzione)",
       "link": "https://www.greenme.it/animali/animali-selvatici/scoperta-antartide-nuova-specie-pinguino/",
@@ -253,42 +262,6 @@
       "data": "25/09/2026",
       "categoria": "Mondo",
       "sommario": "I grani antichi all'interno di una delle più antiche meteoriti conosciute rivelano che un campo magnetico sorprendentemente forte esisteva durante i primi 200.000 anni del sistema solare..."
-    },
-    {
-      "titolo": "“Senza la cura della biodiversità l’uomo può distruggersi”: le parole di Mattarella che tutti dovremmo ascoltare",
-      "link": "https://www.greenme.it/ambiente/senza-la-cura-della-biodiversita-luomo-puo-distruggersi-le-parole-di-mattarella-che-tutti-dovremmo-ascoltare/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/mattarella_terramadre.jpg",
-      "data": "24/09/2026",
-      "categoria": "Animali",
-      "sommario": "Dal palco di Terra Madre Salone del Gusto a Torino il Presidente della Repubblica lancia un messaggio chiaro: la varietà della vita sulla Terra è condizione ..."
-    },
-    {
-      "titolo": "I cristalli temporali distanti possono in qualche modo cadere nello stesso ritmo",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "24/09/2026",
-      "categoria": "Mondo",
-      "sommario": "I ricercatori hanno dimostrato che più cristalli temporali all'interno di un semiconduttore possono sincronizzare le loro oscillazioni, proprio come gli orologi a pendolo che cadono gradualmente..."
-    },
-    {
-      "titolo": "Trovata una rarissima (e minuscola) tartaruga diamantina a due teste: straordinaria scoperta in Massachusetts",
-      "link": "https://www.greenme.it/animali/animali-selvatici/trovata-tartaruga-diamantina-a-due-teste/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Tartaruga-a-due-teste.jpg",
-      "data": "24/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "A Cape Cod una tartaruga diamantina appena nata di 5,2 grammi stupisce gli esperti. Affetta da bicefalia, ha due teste ed è ora curata al Cape Wildlife Center"
-    },
-    {
-      "titolo": "Una costola rotta del più grande T. rex del mondo nasconde un segreto di 66 milioni di anni",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005709.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "24/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Una costola rotta di Scotty, il più grande scheletro di T. rex conosciuto, contiene una straordinaria rete fossilizzata di vasi sanguigni formatisi mentre il dinosauro guariva..."
     }
   ]
 }
