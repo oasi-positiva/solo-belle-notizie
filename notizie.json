@@ -1,12 +1,30 @@
 {
   "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Backpack trionfa alla Fat Bear Week: habemus l’orso più grasso dell’Alaska 2026, la sua storia ha già conquistato tutti",
+      "link": "https://www.greenme.it/animali/animali-selvatici/backpack-trionfa-alla-fat-bear-week-2026/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Fat-Bear-Week.jpg",
+      "data": "01/10/2026",
+      "categoria": "Mondo",
+      "sommario": "L'orso Backpack trionfa alla Fat Bear Week 2026 in Alaska: dalla zampa ferita da cucciolo quando veniva trasportato dalla madre Holly alla vittoria nel torne..."
+    },
+    {
+      "titolo": "Mucca si perde e cade nella piscina di un hotel benessere in Val Venosta: l’insolito salvataggio dei Vigili del Fuoco",
+      "link": "https://www.greenme.it/animali/mucca-cade-piscina-hotel-benessere/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Mucca-centro-benessere.jpg",
+      "data": "01/10/2026",
+      "categoria": "Salute",
+      "sommario": "Un fuori programma surreale a Tubre: una mucca che si era persa ha sfondato la copertura di una struttura wellness ed è precipitata in una piscina. L’animale..."
+    },
     {
       "titolo": "I cristalli temporali distanti possono in qualche modo cadere nello stesso ritmo",
       "link": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
       "data": "24/09/2026",
       "categoria": "Mondo",
       "sommario": "I ricercatori hanno dimostrato che più cristalli temporali all'interno di un semiconduttore possono sincronizzare le loro oscillazioni, proprio come gli orologi a pendolo che cadono gradualmente..."
