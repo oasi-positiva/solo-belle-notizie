@@ -1,7 +1,43 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
   "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Ti porto con me sul Lago delle Fate alla scoperta di Macugnaga, l’incantevole borgo del Monte Rosa con l’iconico tiglio secolare",
+      "link": "https://www.greenme.it/viaggi/italia/macugnaga-perla-del-monte-rosa/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Macugnaga-8-copertina.jpg",
+      "data": "01/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Siamo stati ai piedi del Monte Rosa alla scoperta di Macugnaga con il suo Dorf che sembra essere rimasto fermo nel tempo e le acque color smeraldo del Lago d..."
+    },
+    {
+      "titolo": "Hanno trasformato un campo da golf in una gigantesca riserva naturale costiera, paradiso per uccelli e biodiversità",
+      "link": "https://www.greenme.it/ambiente/natura/hanno-trasformato-un-campo-da-golf-in-una-gigantesca-riserva-naturale-costiera-paradiso-per-uccelli-e-biodiversita/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/campo_golf.jpg",
+      "data": "01/10/2026",
+      "categoria": "Animali",
+      "sommario": "Un ex campo da golf sulla costa del Lincolnshire, nel Regno Unito, è stato trasformato in una riserva naturale umida, creando un importante nuovo habitat per..."
+    },
+    {
+      "titolo": "Questo gigantesco insetto stecco ha ingannato gli scienziati per decenni",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "01/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno identificato due nuove specie di grandi insetti australiani, tra cui una che depone straordinarie uova \"coperte\" mai registrate prima in Australia."
+    },
+    {
+      "titolo": "Questo nuovo qubit potrebbe essere 100 volte meno soggetto a errori nella svolta dei computer quantistici superfluidi",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "01/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Un qubit proposto realizzato con elio superfluido potrebbe ridurre i tassi di errore di calcolo quantistico di circa 100 volte proteggendo le informazioni quantistiche da forme comuni di..."
+    },
     {
       "titolo": "Backpack trionfa alla Fat Bear Week: habemus l’orso più grasso dell’Alaska 2026, la sua storia ha già conquistato tutti",
       "link": "https://www.greenme.it/animali/animali-selvatici/backpack-trionfa-alla-fat-bear-week-2026/",
@@ -19,15 +55,6 @@
       "data": "01/10/2026",
       "categoria": "Salute",
       "sommario": "Un fuori programma surreale a Tubre: una mucca che si era persa ha sfondato la copertura di una struttura wellness ed è precipitata in una piscina. L’animale..."
-    },
-    {
-      "titolo": "I cristalli temporali distanti possono in qualche modo cadere nello stesso ritmo",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "24/09/2026",
-      "categoria": "Mondo",
-      "sommario": "I ricercatori hanno dimostrato che più cristalli temporali all'interno di un semiconduttore possono sincronizzare le loro oscillazioni, proprio come gli orologi a pendolo che cadono gradualmente..."
     },
     {
       "titolo": "Scoperta dopo più di 100 anni una nuova specie di pinguino (che rischia già l’estinzione)",
