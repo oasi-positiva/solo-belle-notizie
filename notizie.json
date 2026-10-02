@@ -1,12 +1,39 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "Treni gratis da Roma verso i borghi più suggestivi del Lazio: prenota ora uno dei 18 viaggi alla scoperta degli antichi cammini d’Italia",
+      "link": "https://www.greenme.it/viaggi/turismo-slow/treni-gratis-da-roma-verso-viterbo-e-cassino/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Treni-gratis.jpg",
+      "data": "02/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Treni gratuiti da Roma verso Viterbo e Cassino grazie al progetto Caput Mundi – Antichi cammini d'Italia: 18 corse turistiche con bus inclusi fino al 10 dice..."
+    },
+    {
+      "titolo": "30 anni di lavoro di pulizia e monitoraggio nella miniera di rame chiusa vincono gli onori per il miglior minatore del mondo",
+      "link": "https://www.goodnewsnetwork.org/30-years-of-clean-up-and-monitoring-work-at-closed-copper-mine-wins-honors-for-worlds-top-miner/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "02/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Nella Columbia Britannica, si è tenuta una piccola cerimonia di premiazione per elogiare gli operatori minerari che continuano a monitorare e spendere per la bonifica delle miniere, anni dopo il piccone..."
+    },
+    {
+      "titolo": "Cosa è andato bene questa settimana: la buona notizia che conta",
+      "link": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
+      "fonte": "Positive News",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "02/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Il \"premio Nobel alternativo\", il progresso globale sull'ageismo e una spinta per i gorilla, e altro ancora \nIl post Cosa è andato bene questa settimana: la buona notizia che conta..."
+    },
     {
       "titolo": "La Terra si sta lacerando sotto il Pacifico nord-occidentale",
       "link": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
       "data": "25/09/2026",
       "categoria": "Mondo",
       "sommario": "Gli scienziati hanno catturato una zona di subduzione al largo dell'isola di Vancouver nel processo di autodistruzione, rivelando che questi enormi sistemi tettonici potrebbero morire..."
