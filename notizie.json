@@ -1,30 +1,30 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Siamo stati a Lucca e ti spiego perché vale la pena visitare la città delle cento chiese e camminare sulle sue mura storiche",
+      "link": "https://www.greenme.it/viaggi/italia/lucca-citta-cento-chiese/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Lucca-4-copertina.jpg",
+      "data": "03/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Il nostro viaggio nel cuore di Lucca tra le storiche mura, la leggendaria Torre Guinigi e i segreti del Duomo alla scoperta della Toscana più autentica e nas..."
+    },
     {
       "titolo": "Il fondatore di Nike Phil Knight dona un miliardo di dollari: la più grande donazione singola a un'università pubblica",
       "link": "https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
       "data": "26/09/2026",
       "categoria": "Società",
       "sommario": "Phil Knight, che ha co-fondato Nike insieme al suo ex allenatore di atletica all'Università dell'Oregon (Bill Bowerman), è tornato alla sua alma mater con un abbraccio..."
     },
     {
-      "titolo": "Buone notizie nella storia 26 settembre",
-      "link": "https://www.goodnewsnetwork.org/events060926/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "26/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Buon 81° compleanno al cantautore Bryan Ferry il cui \"croon elegante e seducente\" e lo stile Mod hanno influenzato una generazione di glam art rock negli anni '70. H..."
-    },
-    {
       "titolo": "Gli scienziati potrebbero aver frainteso un indizio di 2 miliardi di anni fa sulla Terra",
       "link": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "26/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Gli scienziati hanno scoperto che una famosa firma chimica di 2 miliardi di anni fa, una volta pensata per registrare un massiccio cambiamento globale nel ciclo del carbonio della Terra, potrebbe causare..."
@@ -33,7 +33,7 @@
       "titolo": "Il computer quantistico simula la materia \"che viene all'esistenza\"",
       "link": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "26/09/2026",
       "categoria": "Mondo",
       "sommario": "Gli scienziati hanno ricreato un processo di formazione delle particelle legato alla fisica estrema dell'universo primordiale utilizzando un simulatore quantistico a 13 ioni. La svolta suggerisce..."
