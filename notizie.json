@@ -1,7 +1,34 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Il fondatore di Nike Phil Knight dona un miliardo di dollari: la più grande donazione singola a un'università pubblica",
+      "link": "https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "26/09/2026",
+      "categoria": "Società",
+      "sommario": "Phil Knight, che ha co-fondato Nike insieme al suo ex allenatore di atletica all'Università dell'Oregon (Bill Bowerman), è tornato alla sua alma mater con un abbraccio..."
+    },
+    {
+      "titolo": "Gli scienziati hanno appena reso più forte un superconduttore usando lo \"spazio vuoto\"",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "03/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "I ricercatori hanno dimostrato che le fluttuazioni quantistiche in uno spazio apparentemente vuoto possono rafforzare la superconduttività, aumentando la temperatura di transizione di un ..."
+    },
+    {
+      "titolo": "L'universo primordiale non era così incontaminato come pensavano gli scienziati",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225443.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "02/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Il JWST ha rivelato che le galassie stavano diffondendo carbonio, ossigeno e altri elementi pesanti nello spazio solo 500 milioni di anni dopo il Big Bang. La sorpresa..."
+    },
     {
       "titolo": "Siamo stati a Lucca e ti spiego perché vale la pena visitare la città delle cento chiese e camminare sulle sue mura storiche",
       "link": "https://www.greenme.it/viaggi/italia/lucca-citta-cento-chiese/",
@@ -10,33 +37,6 @@
       "data": "03/10/2026",
       "categoria": "Mondo",
       "sommario": "Il nostro viaggio nel cuore di Lucca tra le storiche mura, la leggendaria Torre Guinigi e i segreti del Duomo alla scoperta della Toscana più autentica e nas..."
-    },
-    {
-      "titolo": "Il fondatore di Nike Phil Knight dona un miliardo di dollari: la più grande donazione singola a un'università pubblica",
-      "link": "https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "26/09/2026",
-      "categoria": "Società",
-      "sommario": "Phil Knight, che ha co-fondato Nike insieme al suo ex allenatore di atletica all'Università dell'Oregon (Bill Bowerman), è tornato alla sua alma mater con un abbraccio..."
-    },
-    {
-      "titolo": "Gli scienziati potrebbero aver frainteso un indizio di 2 miliardi di anni fa sulla Terra",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "26/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto che una famosa firma chimica di 2 miliardi di anni fa, una volta pensata per registrare un massiccio cambiamento globale nel ciclo del carbonio della Terra, potrebbe causare..."
-    },
-    {
-      "titolo": "Il computer quantistico simula la materia \"che viene all'esistenza\"",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "26/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno ricreato un processo di formazione delle particelle legato alla fisica estrema dell'universo primordiale utilizzando un simulatore quantistico a 13 ioni. La svolta suggerisce..."
     },
     {
       "titolo": "Treni gratis da Roma verso i borghi più suggestivi del Lazio: prenota ora uno dei 18 viaggi alla scoperta degli antichi cammini d’Italia",
