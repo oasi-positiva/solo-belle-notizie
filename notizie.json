@@ -1,7 +1,16 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
   "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Lo strano (e affascinante) caso delle tartarughe marine che non vogliono lasciare le isole Galápagos",
+      "link": "https://www.greenme.it/ambiente/natura/tartarughe-marine-isole-galapagos-migrazione/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/tartarughe-galapagos_no-migrazione-c.jpg",
+      "data": "03/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Cade (forse) un’altra certezza: non tutte le tartarughe marine intraprendono straordinari viaggi migratori attraverso l’oceano. Un gruppo di ricerca guidato ..."
+    },
     {
       "titolo": "Il fondatore di Nike Phil Knight dona un miliardo di dollari: la più grande donazione singola a un'università pubblica",
       "link": "https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
