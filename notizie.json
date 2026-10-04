@@ -1,7 +1,25 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "I ricercatori della CA identificano gli odori che respingono le api dai pesticidi",
+      "link": "https://www.goodnewsnetwork.org/ca-researchers-identify-odors-that-repel-honeybees-from-pesticides/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "27/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "In una vittoria per la conservazione degli impollinatori, i ricercatori dell'Università della California, a Riverside, hanno identificato composti chimici che possono respingere tranquillamente il miele ..."
+    },
+    {
+      "titolo": "Gli archeologi hanno rischiato la vita per salvare 30.000 tesori dai terroristi dell'ISIS: un nuovo studio mostra come",
+      "link": "https://www.goodnewsnetwork.org/archaeologists-risked-their-lives-to-save-thousands-of-treasures-from-isis-terrorists/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "27/09/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un nuovo studio rivela come gli archeologi hanno rischiato la vita per salvare migliaia di tesori storici dall'imminente distruzione da parte dei terroristi dello Stato Islamico. Essi..."
+    },
     {
       "titolo": "Lo strano (e affascinante) caso delle tartarughe marine che non vogliono lasciare le isole Galápagos",
       "link": "https://www.greenme.it/ambiente/natura/tartarughe-marine-isole-galapagos-migrazione/",
@@ -10,15 +28,6 @@
       "data": "03/10/2026",
       "categoria": "Mondo",
       "sommario": "Cade (forse) un’altra certezza: non tutte le tartarughe marine intraprendono straordinari viaggi migratori attraverso l’oceano. Un gruppo di ricerca guidato ..."
-    },
-    {
-      "titolo": "Il fondatore di Nike Phil Knight dona un miliardo di dollari: la più grande donazione singola a un'università pubblica",
-      "link": "https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "26/09/2026",
-      "categoria": "Società",
-      "sommario": "Phil Knight, che ha co-fondato Nike insieme al suo ex allenatore di atletica all'Università dell'Oregon (Bill Bowerman), è tornato alla sua alma mater con un abbraccio..."
     },
     {
       "titolo": "Gli scienziati hanno appena reso più forte un superconduttore usando lo \"spazio vuoto\"",
@@ -244,24 +253,6 @@
       "data": "28/09/2026",
       "categoria": "Mondo",
       "sommario": "39 anni fa oggi, Star Trek: The Next Generation ha debuttato in televisione. Con 178 episodi in sette stagioni, ha interpretato l'attore inglese Patrick Stewa..."
-    },
-    {
-      "titolo": "I ricercatori della CA identificano gli odori che respingono le api dai pesticidi",
-      "link": "https://www.goodnewsnetwork.org/ca-researchers-identify-odors-that-repel-honeybees-from-pesticides/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "27/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "In una vittoria per la conservazione degli impollinatori, i ricercatori dell'Università della California, a Riverside, hanno identificato composti chimici che possono respingere tranquillamente il miele ..."
-    },
-    {
-      "titolo": "Gli archeologi hanno rischiato la vita per salvare 30.000 tesori dai terroristi dell'ISIS: un nuovo studio mostra come",
-      "link": "https://www.goodnewsnetwork.org/archaeologists-risked-their-lives-to-save-thousands-of-treasures-from-isis-terrorists/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "27/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Un nuovo studio rivela come gli archeologi hanno rischiato la vita per salvare migliaia di tesori storici dall'imminente distruzione da parte dei terroristi dello Stato Islamico. Essi..."
     }
   ]
 }
