@@ -1,12 +1,21 @@
 {
   "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Il nostro viaggio nei borghi più belli del Cuneese: questi 4 li devi assolutamente visitare anche tu",
+      "link": "https://www.greenme.it/viaggi/italia/borghi-piu-belli-cuneese/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Bra-1-copertina.jpg",
+      "data": "04/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Il nostro itinerario alla scoperta delle meraviglie del Cuneese: un percorso tra i borghi medievali di Cherasco, Bra, Mondovì e Fossano dove la storia millen..."
+    },
     {
       "titolo": "I ricercatori della CA identificano gli odori che respingono le api dai pesticidi",
       "link": "https://www.goodnewsnetwork.org/ca-researchers-identify-odors-that-repel-honeybees-from-pesticides/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
       "data": "27/09/2026",
       "categoria": "Scienza & Tech",
       "sommario": "In una vittoria per la conservazione degli impollinatori, i ricercatori dell'Università della California, a Riverside, hanno identificato composti chimici che possono respingere tranquillamente il miele ..."
