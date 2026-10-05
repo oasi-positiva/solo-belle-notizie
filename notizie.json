@@ -1,7 +1,16 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Innovazione e rinnovabili: il Manifesto di RSE per il futuro del settore agroalimentare",
+      "link": "https://www.rinnovabili.it/agrifood/agricoltura/manifesto-rse-transizione-agroalimentare/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "05/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Energia, innovazione, sostenibilità economica e sociale: questi i quattro pilastri individuati da RSE per strutturare un concreto percorso di transizione nel..."
+    },
     {
       "titolo": "Investire in un elettrodomestico duraturo: la scelta sostenibile per la cura dei tessuti",
       "link": "https://www.greenme.it/casa-e-giardino/pulizie-ecologiche/investire-in-un-elettrodomestico-duraturo-la-scelta-sostenibile-per-la-cura-dei-tessuti/",
@@ -19,15 +28,6 @@
       "data": "05/10/2026",
       "categoria": "Mondo",
       "sommario": "Oggi, 20 anni fa, la rock star 60enne Jon Bon Jovi, che ha venduto 100 milioni di dischi, ha lanciato una fondazione di beneficenza per combattere problemi di povertà come il cibo ..."
-    },
-    {
-      "titolo": "Il Vietnam protegge rapidamente le foreste contenenti l'ultima scimmia più a rischio del mondo",
-      "link": "https://www.goodnewsnetwork.org/vietnam-swiftly-protects-forests-containing-the-last-of-the-worlds-most-endangered-monkey/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "28/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Alcuni dei migliori paesaggi forestali e montani che il Vietnam ha da offrire ora includeranno una speciale riserva protetta per proteggere uno dei luoghi più pericolosi del mondo..."
     },
     {
       "titolo": "Il nostro viaggio nei borghi più belli del Cuneese: questi 4 li devi assolutamente visitare anche tu",
