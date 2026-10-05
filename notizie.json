@@ -1,15 +1,24 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
     {
-      "titolo": "I ricercatori della CA identificano gli odori che respingono le api dai pesticidi",
-      "link": "https://www.goodnewsnetwork.org/ca-researchers-identify-odors-that-repel-honeybees-from-pesticides/",
+      "titolo": "Il Vietnam protegge rapidamente le foreste contenenti l'ultima scimmia più a rischio del mondo",
+      "link": "https://www.goodnewsnetwork.org/vietnam-swiftly-protects-forests-containing-the-last-of-the-worlds-most-endangered-monkey/",
       "fonte": "Good News Network",
       "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "27/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "In una vittoria per la conservazione degli impollinatori, i ricercatori dell'Università della California, a Riverside, hanno identificato composti chimici che possono respingere tranquillamente il miele ..."
+      "data": "28/09/2026",
+      "categoria": "Mondo",
+      "sommario": "Alcuni dei migliori paesaggi forestali e montani che il Vietnam ha da offrire ora includeranno una speciale riserva protetta per proteggere uno dei luoghi più pericolosi del mondo..."
+    },
+    {
+      "titolo": "Buone notizie nella storia 28 settembre",
+      "link": "https://www.goodnewsnetwork.org/events060928/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "28/09/2026",
+      "categoria": "Mondo",
+      "sommario": "39 anni fa oggi, Star Trek: The Next Generation ha debuttato in televisione. Con 178 episodi in sette stagioni, ha interpretato l'attore inglese Patrick Stewa..."
     },
     {
       "titolo": "Il nostro viaggio nei borghi più belli del Cuneese: questi 4 li devi assolutamente visitare anche tu",
@@ -226,33 +235,6 @@
       "data": "29/09/2026",
       "categoria": "Animali",
       "sommario": "Da quell' isola magica chiamata Borneo arriva la storia di un programma bottom-up, pay-per-pic che sta avendo un impatto significativo per la conservazione dell'endange..."
-    },
-    {
-      "titolo": "Il Vietnam protegge rapidamente le foreste contenenti l'ultima scimmia più a rischio del mondo",
-      "link": "https://www.goodnewsnetwork.org/vietnam-swiftly-protects-forests-containing-the-last-of-the-worlds-most-endangered-monkey/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "28/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Alcuni dei migliori paesaggi forestali e montani che il Vietnam ha da offrire ora includeranno una speciale riserva protetta per proteggere uno dei luoghi più pericolosi del mondo..."
-    },
-    {
-      "titolo": "Ripristinare l'orologio biologico potrebbe aiutare il cervello a riprendersi dopo l'ictus",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020407.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "28/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Rafforzare i ritmi quotidiani naturali del corpo ha aiutato i topi a riprendersi dopo l'ictus migliorando il sistema di eliminazione dei rifiuti del cervello e riducendo l'infiammazione persistente..."
-    },
-    {
-      "titolo": "Buone notizie nella storia 28 settembre",
-      "link": "https://www.goodnewsnetwork.org/events060928/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "28/09/2026",
-      "categoria": "Mondo",
-      "sommario": "39 anni fa oggi, Star Trek: The Next Generation ha debuttato in televisione. Con 178 episodi in sette stagioni, ha interpretato l'attore inglese Patrick Stewa..."
     }
   ]
 }
