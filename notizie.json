@@ -1,7 +1,43 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
   "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Dopo 50 anni ritrovato in Australia l’adorabile nabarlek, uno dei wallaby più piccoli del mondo (ma è a rischio estinzione)",
+      "link": "https://www.greenme.it/animali/animali-selvatici/ritrovato-dopo-50-anni-nabarlek-wallaby/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Wallaby.jpg",
+      "data": "06/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Il ritorno del nabarlek: uno dei wallaby più piccoli del mondo ricompare in Australia dopo oltre 50 anni di assenza. La scoperta grazie a fototrappole e anal..."
+    },
+    {
+      "titolo": "A Napoli arrivano le “cure sospese”: visite mediche ed esami gratis per chi non riesce più a permetterseli",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/a-napoli-arrivano-le-cure-sospese-visite-ed-esami-gratis-per-chi-non-riesce-piu-a-permetterseli/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Visita-medica.jpg",
+      "data": "06/10/2026",
+      "categoria": "Mondo",
+      "sommario": "A Napoli la solidarietà arriva fino agli ambulatori: visite ed esami gratuiti per chi non riesce più a permetterseli, mentre crescono anche le richieste agli..."
+    },
+    {
+      "titolo": "Manto stradale resistente alle buche: scorie d’acciaio nella malta. Meno costoso?",
+      "link": "https://www.rinnovabili.it/economia-circolare/riciclo/asfalto-anti-buche-con-scorie-dacciaio-lo-studio-del-mit/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "06/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Una ricerca internazionale propone una miscela epossidica riciclata: costa di più all'inizio, ma abbatte emissioni, incidenti e spese di manutenzione nel lun..."
+    },
+    {
+      "titolo": "Gli alberi tropicali costruivano case per le formiche. Le vespe se ne stanno impadronendo",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261004001832.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "06/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Le vespe predatrici stanno dirottando rifugi costruiti da alberi tropicali per i loro difensori delle formiche, interrompendo potenzialmente un'antica collaborazione che protegge la pianta..."
+    },
     {
       "titolo": "Francis Halzen vince il Premio Nobel per la Fisica 2026 per la rivoluzionaria scoperta dei neutrini cosmici",
       "link": "https://www.greenme.it/scienza-e-tecnologia/francis-halzen-premio-nobel-fisica/",
@@ -10,15 +46,6 @@
       "data": "06/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Il Premio Nobel per la Fisica 2026 è stato assegnato a Francis Halzen per IceCube e la scoperta dei neutrini ad alta energia di origine astrofisica."
-    },
-    {
-      "titolo": "Una strategia di denaro in cambio di foto trasforma i cacciatori di animali in protettori degli animali in Indonesia",
-      "link": "https://www.goodnewsnetwork.org/a-strategy-of-cash-for-photos-turns-animal-hunters-into-animal-protectors-in-indonesia/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "29/09/2026",
-      "categoria": "Animali",
-      "sommario": "Da quell' isola magica chiamata Borneo arriva la storia di un programma bottom-up, pay-per-pic che sta avendo un impatto significativo per la conservazione dell'endange..."
     },
     {
       "titolo": "Le donne che mettono la comunità al centro della conservazione degli elefanti",
