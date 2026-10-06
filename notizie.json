@@ -1,33 +1,33 @@
 {
   "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Francis Halzen vince il Premio Nobel per la Fisica 2026 per la rivoluzionaria scoperta dei neutrini cosmici",
+      "link": "https://www.greenme.it/scienza-e-tecnologia/francis-halzen-premio-nobel-fisica/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Nobel-fisica.jpg",
+      "data": "06/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Il Premio Nobel per la Fisica 2026 è stato assegnato a Francis Halzen per IceCube e la scoperta dei neutrini ad alta energia di origine astrofisica."
+    },
     {
       "titolo": "Una strategia di denaro in cambio di foto trasforma i cacciatori di animali in protettori degli animali in Indonesia",
       "link": "https://www.goodnewsnetwork.org/a-strategy-of-cash-for-photos-turns-animal-hunters-into-animal-protectors-in-indonesia/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "29/09/2026",
       "categoria": "Animali",
       "sommario": "Da quell' isola magica chiamata Borneo arriva la storia di un programma bottom-up, pay-per-pic che sta avendo un impatto significativo per la conservazione dell'endange..."
     },
     {
-      "titolo": "Innovazione del teletrasporto quantistico: gli scienziati affrontano una sfida di 25 anni",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "29/09/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno sviluppato e dimostrato sperimentalmente un metodo a lungo cercato per identificare gli stati W, un'importante forma di entangleme quantistico multi-fotonico..."
-    },
-    {
-      "titolo": "Questo fossile di 245 milioni di anni ha ancora lo stomaco e l'intestino",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260927225036.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "29/09/2026",
-      "categoria": "Mondo",
-      "sommario": "Un fossile di rettile marino di 245 milioni di anni conserva una quantità sorprendente di dettagli, tra cui stomaco, fegato e intestino. La scoperta rivela t..."
+      "titolo": "Le donne che mettono la comunità al centro della conservazione degli elefanti",
+      "link": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
+      "fonte": "Positive News",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "06/10/2026",
+      "categoria": "Società",
+      "sommario": "In tutta l'Africa, le donne stanno sfidando le vecchie ipotesi su chi è a favore della conservazione e su chi può guidarla\nIl post The women putting community at the hear..."
     },
     {
       "titolo": "Innovazione e rinnovabili: il Manifesto di RSE per il futuro del settore agroalimentare",
