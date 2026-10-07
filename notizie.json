@@ -1,7 +1,25 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Che cos’è l’occlusione dell’acquedotto di Silvio e a quali sintomi fare attenzione",
+      "link": "https://www.greenme.it/salute-e-alimentazione/salute/che-cose-locclusione-dellacquedotto-di-silvio-e-a-quali-sintomi-fare-attenzione/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/totti.jpg",
+      "data": "07/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Totti rivela l'occlusione dell'acquedotto di Silvio scoperta al figlio Cristian: cos'è, quali sintomi dà e come si interviene secondo i neurochirurghi."
+    },
+    {
+      "titolo": "Webb trova un'atmosfera sorprendente su un mondo di lava rovente",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "07/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Il James Webb Space Telescope ha trovato una forte evidenza che il mondo di lava rocciosa HD 3167 b ha un'atmosfera, nonostante cerchi la sua stella ogni 24 ore e..."
+    },
     {
       "titolo": "Seggiolini auto, allarme sicurezza per questi due modelli: nei crash test emergono gravi problemi",
       "link": "https://www.greenme.it/lifestyle/sai-cosa-compri/seggiolini-auto-allarme-sicurezza-per-questi-due-modelli-nei-crash-test-emergono-gravi-problemi/",
