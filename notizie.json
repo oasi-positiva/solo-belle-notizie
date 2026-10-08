@@ -1,7 +1,25 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Questo gigantesco insetto stecco ha ingannato gli scienziati per decenni",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "01/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno identificato due nuove specie di grandi insetti australiani, tra cui una che depone straordinarie uova \"coperte\" mai registrate prima in Australia."
+    },
+    {
+      "titolo": "Questo nuovo qubit potrebbe essere 100 volte meno soggetto a errori nella svolta dei computer quantistici superfluidi",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "01/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Un qubit proposto realizzato con elio superfluido potrebbe ridurre i tassi di errore di calcolo quantistico di circa 100 volte proteggendo le informazioni quantistiche da forme comuni di..."
+    },
     {
       "titolo": "Che cos’è l’occlusione dell’acquedotto di Silvio e a quali sintomi fare attenzione",
       "link": "https://www.greenme.it/salute-e-alimentazione/salute/che-cose-locclusione-dellacquedotto-di-silvio-e-a-quali-sintomi-fare-attenzione/",
@@ -181,60 +199,6 @@
       "data": "02/10/2026",
       "categoria": "Mondo",
       "sommario": "Il \"premio Nobel alternativo\", il progresso globale sull'ageismo e una spinta per i gorilla, e altro ancora \nIl post Cosa è andato bene questa settimana: la buona notizia che conta..."
-    },
-    {
-      "titolo": "Ti porto con me sul Lago delle Fate alla scoperta di Macugnaga, l’incantevole borgo del Monte Rosa con l’iconico tiglio secolare",
-      "link": "https://www.greenme.it/viaggi/italia/macugnaga-perla-del-monte-rosa/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Macugnaga-8-copertina.jpg",
-      "data": "01/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Siamo stati ai piedi del Monte Rosa alla scoperta di Macugnaga con il suo Dorf che sembra essere rimasto fermo nel tempo e le acque color smeraldo del Lago d..."
-    },
-    {
-      "titolo": "Hanno trasformato un campo da golf in una gigantesca riserva naturale costiera, paradiso per uccelli e biodiversità",
-      "link": "https://www.greenme.it/ambiente/natura/hanno-trasformato-un-campo-da-golf-in-una-gigantesca-riserva-naturale-costiera-paradiso-per-uccelli-e-biodiversita/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/campo_golf.jpg",
-      "data": "01/10/2026",
-      "categoria": "Animali",
-      "sommario": "Un ex campo da golf sulla costa del Lincolnshire, nel Regno Unito, è stato trasformato in una riserva naturale umida, creando un importante nuovo habitat per..."
-    },
-    {
-      "titolo": "Questo gigantesco insetto stecco ha ingannato gli scienziati per decenni",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "01/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno identificato due nuove specie di grandi insetti australiani, tra cui una che depone straordinarie uova \"coperte\" mai registrate prima in Australia."
-    },
-    {
-      "titolo": "Questo nuovo qubit potrebbe essere 100 volte meno soggetto a errori nella svolta dei computer quantistici superfluidi",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "01/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Un qubit proposto realizzato con elio superfluido potrebbe ridurre i tassi di errore di calcolo quantistico di circa 100 volte proteggendo le informazioni quantistiche da forme comuni di..."
-    },
-    {
-      "titolo": "Backpack trionfa alla Fat Bear Week: habemus l’orso più grasso dell’Alaska 2026, la sua storia ha già conquistato tutti",
-      "link": "https://www.greenme.it/animali/animali-selvatici/backpack-trionfa-alla-fat-bear-week-2026/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Fat-Bear-Week.jpg",
-      "data": "01/10/2026",
-      "categoria": "Mondo",
-      "sommario": "L'orso Backpack trionfa alla Fat Bear Week 2026 in Alaska: dalla zampa ferita da cucciolo quando veniva trasportato dalla madre Holly alla vittoria nel torne..."
-    },
-    {
-      "titolo": "Mucca si perde e cade nella piscina di un hotel benessere in Val Venosta: l’insolito salvataggio dei Vigili del Fuoco",
-      "link": "https://www.greenme.it/animali/mucca-cade-piscina-hotel-benessere/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Mucca-centro-benessere.jpg",
-      "data": "01/10/2026",
-      "categoria": "Salute",
-      "sommario": "Un fuori programma surreale a Tubre: una mucca che si era persa ha sfondato la copertura di una struttura wellness ed è precipitata in una piscina. L’animale..."
     }
   ]
 }
