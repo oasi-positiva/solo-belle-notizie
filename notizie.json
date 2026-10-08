@@ -1,7 +1,16 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Qual è la città più sostenibile d’Europa? Tra le 8 finaliste per la capitale verde d’Europa nessuna è italiana",
+      "link": "https://www.greenme.it/ambiente/smart-city/qual-e-la-citta-piu-sostenibile-deuropa-tra-le-8-finaliste-per-la-capitale-verde-deuropa-nessuna-e-italiana/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2025/10/Benidorm.jpg",
+      "data": "08/10/2026",
+      "categoria": "Società",
+      "sommario": "Otto città in finale per la Capitale verde europea 2028: tre spagnole, due portoghesi e nessuna italiana. I vincitori annunciati l'8 ottobre a Guimarães."
+    },
     {
       "titolo": "AcegasApsAmga e Siemens: oltre un secolo di innovazione al servizio della rete elettrica di Trieste",
       "link": "https://www.rinnovabili.it/mercato/le-aziende-informano/rete-elettrica-trieste/",
@@ -10,24 +19,6 @@
       "data": "08/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Il progetto ha previsto il rinnovo completo di 28 cabine secondarie della rete di distribuzione elettrica di Trieste e Gorizia, grazie all’installazione di t..."
-    },
-    {
-      "titolo": "Questo gigantesco insetto stecco ha ingannato gli scienziati per decenni",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "01/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno identificato due nuove specie di grandi insetti australiani, tra cui una che depone straordinarie uova \"coperte\" mai registrate prima in Australia."
-    },
-    {
-      "titolo": "Questo nuovo qubit potrebbe essere 100 volte meno soggetto a errori nella svolta dei computer quantistici superfluidi",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "01/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Un qubit proposto realizzato con elio superfluido potrebbe ridurre i tassi di errore di calcolo quantistico di circa 100 volte proteggendo le informazioni quantistiche da forme comuni di..."
     },
     {
       "titolo": "Che cos’è l’occlusione dell’acquedotto di Silvio e a quali sintomi fare attenzione",
