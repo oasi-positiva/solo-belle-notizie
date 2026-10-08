@@ -1,12 +1,21 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "AcegasApsAmga e Siemens: oltre un secolo di innovazione al servizio della rete elettrica di Trieste",
+      "link": "https://www.rinnovabili.it/mercato/le-aziende-informano/rete-elettrica-trieste/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "08/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Il progetto ha previsto il rinnovo completo di 28 cabine secondarie della rete di distribuzione elettrica di Trieste e Gorizia, grazie all’installazione di t..."
+    },
     {
       "titolo": "Questo gigantesco insetto stecco ha ingannato gli scienziati per decenni",
       "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
       "data": "01/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Gli scienziati hanno identificato due nuove specie di grandi insetti australiani, tra cui una che depone straordinarie uova \"coperte\" mai registrate prima in Australia."
@@ -15,7 +24,7 @@
       "titolo": "Questo nuovo qubit potrebbe essere 100 volte meno soggetto a errori nella svolta dei computer quantistici superfluidi",
       "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
       "data": "01/10/2026",
       "categoria": "Mondo",
       "sommario": "Un qubit proposto realizzato con elio superfluido potrebbe ridurre i tassi di errore di calcolo quantistico di circa 100 volte proteggendo le informazioni quantistiche da forme comuni di..."
