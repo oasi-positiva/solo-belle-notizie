@@ -1,7 +1,34 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "30 anni di lavoro di pulizia e monitoraggio nella miniera di rame chiusa vincono gli onori per il miglior minatore del mondo",
+      "link": "https://www.goodnewsnetwork.org/30-years-of-clean-up-and-monitoring-work-at-closed-copper-mine-wins-honors-for-worlds-top-miner/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "02/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Nella Columbia Britannica, si è tenuta una piccola cerimonia di premiazione per elogiare gli operatori minerari che continuano a monitorare e spendere per la bonifica delle miniere, anni dopo il piccone..."
+    },
+    {
+      "titolo": "Cosa è andato bene questa settimana: il \"premio Nobel alternativo\", e altro ancora",
+      "link": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
+      "fonte": "Positive News",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "02/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Il \"premio Nobel alternativo\", il progresso globale sull'ageismo e una spinta per i gorilla, e altro ancora \nIl post What went right this week: the ‘alternative Nobel pri..."
+    },
+    {
+      "titolo": "L'universo primordiale non era così incontaminato come pensavano gli scienziati",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225443.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "02/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Il JWST ha rivelato che le galassie stavano diffondendo carbonio, ossigeno e altri elementi pesanti nello spazio solo 500 milioni di anni dopo il Big Bang. La sorpresa..."
+    },
     {
       "titolo": "Qual è la città più sostenibile d’Europa? Tra le 8 finaliste per la capitale verde d’Europa nessuna è italiana",
       "link": "https://www.greenme.it/ambiente/smart-city/qual-e-la-citta-piu-sostenibile-deuropa-tra-le-8-finaliste-per-la-capitale-verde-deuropa-nessuna-e-italiana/",
@@ -156,15 +183,6 @@
       "sommario": "I ricercatori hanno dimostrato che le fluttuazioni quantistiche in uno spazio apparentemente vuoto possono rafforzare la superconduttività, aumentando la temperatura di transizione di un ..."
     },
     {
-      "titolo": "L'universo primordiale non era così incontaminato come pensavano gli scienziati",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930225443.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "02/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Il JWST ha rivelato che le galassie stavano diffondendo carbonio, ossigeno e altri elementi pesanti nello spazio solo 500 milioni di anni dopo il Big Bang. La sorpresa..."
-    },
-    {
       "titolo": "Siamo stati a Lucca e ti spiego perché vale la pena visitare la città delle cento chiese e camminare sulle sue mura storiche",
       "link": "https://www.greenme.it/viaggi/italia/lucca-citta-cento-chiese/",
       "fonte": "GreenMe",
@@ -172,33 +190,6 @@
       "data": "03/10/2026",
       "categoria": "Mondo",
       "sommario": "Il nostro viaggio nel cuore di Lucca tra le storiche mura, la leggendaria Torre Guinigi e i segreti del Duomo alla scoperta della Toscana più autentica e nas..."
-    },
-    {
-      "titolo": "Treni gratis da Roma verso i borghi più suggestivi del Lazio: prenota ora uno dei 18 viaggi alla scoperta degli antichi cammini d’Italia",
-      "link": "https://www.greenme.it/viaggi/turismo-slow/treni-gratis-da-roma-verso-viterbo-e-cassino/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Treni-gratis.jpg",
-      "data": "02/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Treni gratuiti da Roma verso Viterbo e Cassino grazie al progetto Caput Mundi – Antichi cammini d'Italia: 18 corse turistiche con bus inclusi fino al 10 dice..."
-    },
-    {
-      "titolo": "30 anni di lavoro di pulizia e monitoraggio nella miniera di rame chiusa vincono gli onori per il miglior minatore del mondo",
-      "link": "https://www.goodnewsnetwork.org/30-years-of-clean-up-and-monitoring-work-at-closed-copper-mine-wins-honors-for-worlds-top-miner/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "02/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Nella Columbia Britannica, si è tenuta una piccola cerimonia di premiazione per elogiare gli operatori minerari che continuano a monitorare e spendere per la bonifica delle miniere, anni dopo il piccone..."
-    },
-    {
-      "titolo": "Cosa è andato bene questa settimana: la buona notizia che conta",
-      "link": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
-      "fonte": "Positive News",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "02/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Il \"premio Nobel alternativo\", il progresso globale sull'ageismo e una spinta per i gorilla, e altro ancora \nIl post Cosa è andato bene questa settimana: la buona notizia che conta..."
     }
   ]
 }
