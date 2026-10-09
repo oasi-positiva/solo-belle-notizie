@@ -1,7 +1,25 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Giornate FAI d’Autunno 2026: da Nord a Sud, i tesori poco conosciuti da visitare nel weekend (c’è anche la fabbrica della felicità)",
+      "link": "https://www.greenme.it/viaggi/italia/giornate-fai-dautunno-2026-da-nord-a-sud-i-tesori-poco-conosciuti-da-visitare-nel-weekend-ce-anche-la-fabbrica-della-felicita/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/giornate-FAI-autunno-2026.jpg",
+      "data": "09/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Giornate FAI d’Autunno il 10 e 11 ottobre: 700 luoghi aperti in 350 città. Sei tappe da nord a sud tra botteghe, fabbriche storiche e il made in Italy. (151 ..."
+    },
+    {
+      "titolo": "Opinione locale e coinvolgimento trovati come determinanti chiave nelle storie di successo della conservazione del mondo",
+      "link": "https://www.goodnewsnetwork.org/local-opinion-and-involvement-found-as-key-determinant-in-worlds-conservation-success-stories/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "09/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati che cercano di capire perché alcuni animali o ecosistemi in via di estinzione prosperano mentre altri sono in declino hanno preso una decisione incoraggiante. Attraverso un wo..."
+    },
     {
       "titolo": "Salvata dai bracconieri e cresciuta da una mamma surrogata, questa gorilla orfana ha dato alla luce un cucciolo nella foresta del Congo",
       "link": "https://www.greenme.it/animali/animali-selvatici/gorilla-orfana-salvata-bracconaggio-partorito/",
