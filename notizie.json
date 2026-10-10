@@ -1,7 +1,16 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Gli scienziati hanno appena reso più forte un superconduttore usando lo \"spazio vuoto\"",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "03/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "I ricercatori hanno dimostrato che le fluttuazioni quantistiche in uno spazio apparentemente vuoto possono rafforzare la superconduttività, aumentando la temperatura di transizione di un ..."
+    },
     {
       "titolo": "Giornate FAI d’Autunno 2026: da Nord a Sud, i tesori poco conosciuti da visitare nel weekend (c’è anche la fabbrica della felicità)",
       "link": "https://www.greenme.it/viaggi/italia/giornate-fai-dautunno-2026-da-nord-a-sud-i-tesori-poco-conosciuti-da-visitare-nel-weekend-ce-anche-la-fabbrica-della-felicita/",
@@ -172,33 +181,6 @@
       "data": "04/10/2026",
       "categoria": "Mondo",
       "sommario": "Il nostro itinerario alla scoperta delle meraviglie del Cuneese: un percorso tra i borghi medievali di Cherasco, Bra, Mondovì e Fossano dove la storia millen..."
-    },
-    {
-      "titolo": "Lo strano (e affascinante) caso delle tartarughe marine che non vogliono lasciare le isole Galápagos",
-      "link": "https://www.greenme.it/ambiente/natura/tartarughe-marine-isole-galapagos-migrazione/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/tartarughe-galapagos_no-migrazione-c.jpg",
-      "data": "03/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Cade (forse) un’altra certezza: non tutte le tartarughe marine intraprendono straordinari viaggi migratori attraverso l’oceano. Un gruppo di ricerca guidato ..."
-    },
-    {
-      "titolo": "Gli scienziati hanno appena reso più forte un superconduttore usando lo \"spazio vuoto\"",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "03/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "I ricercatori hanno dimostrato che le fluttuazioni quantistiche in uno spazio apparentemente vuoto possono rafforzare la superconduttività, aumentando la temperatura di transizione di un ..."
-    },
-    {
-      "titolo": "Siamo stati a Lucca e ti spiego perché vale la pena visitare la città delle cento chiese e camminare sulle sue mura storiche",
-      "link": "https://www.greenme.it/viaggi/italia/lucca-citta-cento-chiese/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/09/Lucca-4-copertina.jpg",
-      "data": "03/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Il nostro viaggio nel cuore di Lucca tra le storiche mura, la leggendaria Torre Guinigi e i segreti del Duomo alla scoperta della Toscana più autentica e nas..."
     }
   ]
 }
