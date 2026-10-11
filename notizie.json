@@ -1,7 +1,16 @@
 {
   "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Gli scienziati costruiscono un orologio nucleare che potrebbe rendere obsoleti gli orologi atomici",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "11/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati di Vienna hanno raggiunto un importante passo avanti nel cronometraggio creando il primo orologio nucleare auto-stabilizzante al mondo, una tecnologia che potrebbe ..."
+    },
     {
       "titolo": "La grotta termale più grande d’Europa si nasconde sotto una cittadina italiana (ed è stata scoperta per caso)",
       "link": "https://www.greenme.it/viaggi/italia/la-grotta-termale-piu-grande-deuropa-si-nasconde-sotto-una-cittadina-italiana-ed-e-stata-scoperta-per-caso/",
