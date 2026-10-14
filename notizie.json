@@ -1,7 +1,16 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
   "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Gli scienziati rivelano perché alcuni trucchi di recupero dell'allenamento possono ritorcersi contro",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "14/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Bagni di ghiaccio, massaggi, indumenti compressivi e integratori per il recupero promettono un recupero muscolare più rapido, ma la ricerca suggerisce che i loro benefici sono spesso sopravvalutati..."
+    },
     {
       "titolo": "Vittoria! Woolrich Europe dice addio alle crudeli pellicce animali (dopo 200mila email e le proteste nei negozi)",
       "link": "https://www.greenme.it/lifestyle/moda/vittoria-woolrich-europe-dice-addio-alle-crudeli-pellicce-animali-dopo-200mila-email-e-le-proteste-nei-negozi/",
@@ -37,15 +46,6 @@
       "data": "13/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Un dinosauro dello Zimbabwe di 210 milioni di anni fa sta aiutando gli scienziati a scoprire un ecosistema preistorico sorprendentemente distinto. La scoperta suggerisce..."
-    },
-    {
-      "titolo": "Webb trova un'atmosfera sorprendente su un mondo di lava rovente",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "07/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Il James Webb Space Telescope ha trovato una forte evidenza che il mondo di lava rocciosa HD 3167 b ha un'atmosfera, nonostante cerchi la sua stella ogni 24 ore e..."
     },
     {
       "titolo": "Entra in funzione l'impianto italiano di biometano, che fornisce gas rinnovabile a oltre 3.000 case",
