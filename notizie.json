@@ -1,7 +1,16 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Cannoni storici trasportati in aereo per il restauro",
+      "link": "https://www.bbc.co.uk/news/videos/ck24096pndy9o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "15/10/2026",
+      "categoria": "Mondo",
+      "sommario": "I cannoni vengono sollevati dal Monte San Michele in elicottero in modo che possano essere portati via per il restauro."
+    },
     {
       "titolo": "Gli scienziati rivelano perché alcuni trucchi di recupero dell'allenamento possono ritorcersi contro",
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
