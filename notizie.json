@@ -1,7 +1,25 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
   "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Una misteriosa attività cerebrale in anestesia sfida ciò che sappiamo sulla coscienza",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "15/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Anche in anestesia generale, il cervello umano può analizzare il linguaggio, riconoscere diversi tipi di parole e prevedere cosa verrà dopo in una storia, secondo..."
+    },
+    {
+      "titolo": "15 milioni di £ per i test a emissioni zero al porto di Belfast",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgqr9n8082o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "15/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Arriva dopo un investimento di £15 milioni dal Fondo di partnership per l'innovazione locale della ricerca e dell'innovazione del Regno Unito."
+    },
     {
       "titolo": "Cannoni storici trasportati in aereo per il restauro",
       "link": "https://www.bbc.co.uk/news/videos/ck24096pndy9o?at_medium=RSS&at_campaign=rss",
