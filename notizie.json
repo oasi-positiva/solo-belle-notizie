@@ -1,6 +1,6 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
     {
       "titolo": "Gli scienziati rivelano perché alcuni trucchi di recupero dell'allenamento possono ritorcersi contro",
@@ -208,24 +208,6 @@
       "data": "09/10/2026",
       "categoria": "Mondo",
       "sommario": "In una regione montuosa della Norvegia meridionale, gli scienziati sono al loro 20° anno di rilevamento dei ghiacciai alla ricerca di antichi manufatti sepolti al loro interno. L'ultimo c..."
-    },
-    {
-      "titolo": "Qual è la città più sostenibile d’Europa? Tra le 8 finaliste per la capitale verde d’Europa nessuna è italiana",
-      "link": "https://www.greenme.it/ambiente/smart-city/qual-e-la-citta-piu-sostenibile-deuropa-tra-le-8-finaliste-per-la-capitale-verde-deuropa-nessuna-e-italiana/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2025/10/Benidorm.jpg",
-      "data": "08/10/2026",
-      "categoria": "Società",
-      "sommario": "Otto città in finale per la Capitale verde europea 2028: tre spagnole, due portoghesi e nessuna italiana. I vincitori annunciati l'8 ottobre a Guimarães."
-    },
-    {
-      "titolo": "AcegasApsAmga e Siemens: oltre un secolo di innovazione al servizio della rete elettrica di Trieste",
-      "link": "https://www.rinnovabili.it/mercato/le-aziende-informano/rete-elettrica-trieste/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "08/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Il progetto ha previsto il rinnovo completo di 28 cabine secondarie della rete di distribuzione elettrica di Trieste e Gorizia, grazie all’installazione di t..."
     }
   ]
 }
