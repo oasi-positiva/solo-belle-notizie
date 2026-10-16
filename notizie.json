@@ -1,12 +1,12 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
     {
       "titolo": "Opinione locale e coinvolgimento trovati come determinanti chiave nelle storie di successo della conservazione del mondo",
       "link": "https://www.goodnewsnetwork.org/local-opinion-and-involvement-found-as-key-determinant-in-worlds-conservation-success-stories/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "09/10/2026",
       "categoria": "Mondo",
       "sommario": "Gli scienziati che cercano di capire perché alcuni animali o ecosistemi in via di estinzione prosperano mentre altri sono in declino hanno preso una decisione incoraggiante. Attraverso un wo..."
@@ -15,10 +15,19 @@
       "titolo": "La più grande spedizione di \"archeologia glaciale\" del mondo recupera 48 punte di freccia e pozzi dell'età della pietra",
       "link": "https://www.goodnewsnetwork.org/worlds-largest-glacial-archeology-expedition-recovers-48-stone-age-arrowheads-and-shafts/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
       "data": "09/10/2026",
       "categoria": "Mondo",
       "sommario": "In una regione montuosa della Norvegia meridionale, gli scienziati sono al loro 20° anno di rilevamento dei ghiacciai alla ricerca di antichi manufatti sepolti al loro interno. L'ultimo c..."
+    },
+    {
+      "titolo": "Cosa c'è dietro il successo di Dark Skies Festival?",
+      "link": "https://www.bbc.co.uk/news/articles/c68xzg941x5vo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "16/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli astronomi si stanno preparando a godersi un festival annuale che celebra la bellezza del cielo notturno."
     },
     {
       "titolo": "Una misteriosa attività cerebrale in anestesia sfida ciò che sappiamo sulla coscienza",
