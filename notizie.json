@@ -1,7 +1,16 @@
 {
   "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Siamo stati a Correggio e ti portiamo alla scoperta delle location dove è girata la serie tv Rai “Estranei”",
+      "link": "https://www.greenme.it/viaggi/italia/siamo-stati-correggio-location-serie-tv-estranei/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Correggio-3-copertina.jpg",
+      "data": "16/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Siamo stati sui luoghi della serie Rai “Estranei”: tra Correggio, Carpi e la Bassa emiliana fino a Udine e Trieste alla scoperta delle location della fiction..."
+    },
     {
       "titolo": "Il più grande progetto di conservazione privato negli Stati Uniti raggiunge un importante traguardo: il Bison Pass per il free-roaming 1.000",
       "link": "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/",
