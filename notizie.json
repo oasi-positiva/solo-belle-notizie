@@ -3,22 +3,31 @@
   "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
     {
-      "titolo": "Opinione locale e coinvolgimento trovati come determinanti chiave nelle storie di successo della conservazione del mondo",
-      "link": "https://www.goodnewsnetwork.org/local-opinion-and-involvement-found-as-key-determinant-in-worlds-conservation-success-stories/",
+      "titolo": "Il più grande progetto di conservazione privato negli Stati Uniti raggiunge un importante traguardo: il Bison Pass per il free-roaming 1.000",
+      "link": "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "09/10/2026",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "16/10/2026",
       "categoria": "Mondo",
-      "sommario": "Gli scienziati che cercano di capire perché alcuni animali o ecosistemi in via di estinzione prosperano mentre altri sono in declino hanno preso una decisione incoraggiante. Attraverso un wo..."
+      "sommario": "Mentre l'autunno scende sulle Grandi Pianure del Nord America, il più grande progetto privato di conservazione del territorio del paese sta risuonando in un momento di grande ispirazione..."
     },
     {
-      "titolo": "La più grande spedizione di \"archeologia glaciale\" del mondo recupera 48 punte di freccia e pozzi dell'età della pietra",
-      "link": "https://www.goodnewsnetwork.org/worlds-largest-glacial-archeology-expedition-recovers-48-stone-age-arrowheads-and-shafts/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "09/10/2026",
+      "titolo": "Gli scienziati di Yale scoprono come lo stress cambia il cervello per rendere i ricordi più forti",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261014015517.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "16/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati di Yale hanno scoperto come l'ormone dello stress cortisolo aiuti il cervello a trasformare le esperienze emotive in ricordi più forti e duraturi. La scoperta..."
+    },
+    {
+      "titolo": "Gli astronomi scoprono una strana regola universale dietro le eruzioni dei buchi neri",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "16/10/2026",
       "categoria": "Mondo",
-      "sommario": "In una regione montuosa della Norvegia meridionale, gli scienziati sono al loro 20° anno di rilevamento dei ghiacciai alla ricerca di antichi manufatti sepolti al loro interno. L'ultimo c..."
+      "sommario": "Gli scienziati hanno scoperto che i buchi neri di dimensioni molto diverse sembrano lanciare potenti getti secondo la stessa regola universale. La svolta c..."
     },
     {
       "titolo": "Cosa c'è dietro il successo di Dark Skies Festival?",
