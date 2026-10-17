@@ -1,6 +1,6 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
     {
       "titolo": "Siamo stati a Correggio e ti portiamo alla scoperta delle location dove è girata la serie tv Rai “Estranei”",
@@ -235,15 +235,6 @@
       "data": "11/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Gli scienziati di Vienna hanno raggiunto un importante passo avanti nel cronometraggio creando il primo orologio nucleare auto-stabilizzante al mondo, una tecnologia che potrebbe ..."
-    },
-    {
-      "titolo": "La grotta termale più grande d’Europa si nasconde sotto una cittadina italiana (ed è stata scoperta per caso)",
-      "link": "https://www.greenme.it/viaggi/italia/la-grotta-termale-piu-grande-deuropa-si-nasconde-sotto-una-cittadina-italiana-ed-e-stata-scoperta-per-caso/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/grotta-giusti.jpg",
-      "data": "10/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Nel cuore della Toscana si nasconde un luogo straordinario, rimasto sconosciuto per millenni: una grotta naturale con laghi sotterranei, stalattiti e vapori ..."
     }
   ]
 }
