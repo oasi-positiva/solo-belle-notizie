@@ -1,7 +1,16 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
   "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Gli scienziati costruiscono un orologio nucleare che potrebbe rendere obsoleti gli orologi atomici",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "11/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati di Vienna hanno raggiunto un importante passo avanti nel cronometraggio creando il primo orologio nucleare auto-stabilizzante al mondo, una tecnologia che potrebbe ..."
+    },
     {
       "titolo": "Questo è un fungo gigante appena scoperto in Cina: è alto mezzo metro e può pesare oltre 2 chili",
       "link": "https://www.greenme.it/ambiente/natura/fungo-gigante-nuova-specie-2-chili/",
@@ -253,24 +262,6 @@
       "data": "12/10/2026",
       "categoria": "Mondo",
       "sommario": "Dormire meglio potrebbe essere semplice come muoversi un po' di più ogni giorno. I ricercatori dell'Università del Texas ad Austin hanno scoperto che le persone che..."
-    },
-    {
-      "titolo": "Guarda: Gli oranghi in via di estinzione sono tornati in libertà dopo gli incendi del Borneo",
-      "link": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "11/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Le scimmie in pericolo critico sono state salvate da intensi incendi che hanno distrutto il loro habitat in agosto e settembre."
-    },
-    {
-      "titolo": "Gli scienziati costruiscono un orologio nucleare che potrebbe rendere obsoleti gli orologi atomici",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "11/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati di Vienna hanno raggiunto un importante passo avanti nel cronometraggio creando il primo orologio nucleare auto-stabilizzante al mondo, una tecnologia che potrebbe ..."
     }
   ]
 }
