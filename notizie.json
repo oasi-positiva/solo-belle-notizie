@@ -1,7 +1,25 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
   "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "I fisici creano un nuovo bizzarro stato quantistico chiamato mare frazionario dei fermi",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "18/10/2026",
+      "categoria": "Mondo",
+      "sommario": "I fisici hanno scoperto uno strano nuovo stato della materia quantistica in cui gli atomi ultrafreddi sfidano le regole organizzative familiari, formando un..."
+    },
+    {
+      "titolo": "Gli scienziati che hanno scoperto una terza forma di magnetismo vincono un importante premio in fisica",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "18/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "I fisici hanno scoperto una terza forma nascosta di magnetismo che sfida più di 100 anni di fisica consolidata. Chiamato altermagnetismo, la scoperta c..."
+    },
     {
       "titolo": "Toscana: alla scoperta dei borghi medievali più belli della Lunigiana, attraversati dalla Via Francigena",
       "link": "https://www.greenme.it/viaggi/italia/borghi-medievali-piu-belli-lunigiana/",
