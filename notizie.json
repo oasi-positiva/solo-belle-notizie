@@ -1,7 +1,34 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "L’incredibile trasformazione di Odum, salvato dal crudele commercio degli orsi danzanti (e ribattezzato da Julia Roberts)",
+      "link": "https://www.greenme.it/animali/animali-selvatici/trasformazione-odum-salvato-commercio-orsi-danzanti/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Orso-Odum.jpg",
+      "data": "18/10/2026",
+      "categoria": "Mondo",
+      "sommario": "17 anni dopo il salvataggio in India, le organizzazioni International Animal Rescue e Wildlife SOS ci mostrano l’incredibile trasformazione e la straordinari..."
+    },
+    {
+      "titolo": "Scoperta un’ameba di fuoco capace di riprodursi oltre i 60 °C: l’organismo da record che sfida i limiti della vita sorprende gli scienziati",
+      "link": "https://www.greenme.it/scienza-e-tecnologia/scoperta-ameba-di-fuoco-da-record/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Lassen-Volcanic-National-Park.jpg",
+      "data": "18/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Nel Lassen Volcanic National Park è stata individuata una ameba di fuoco che si divide a 63°C e sopravvive brevemente fino a 70°C in laboratorio: cosa sappia..."
+    },
+    {
+      "titolo": "Coppia in pensione sorpresa dal nuovo sistema HVAC del valore di $16.000 in un programma \"Senti l'amore\" che ha aiutato 3100 persone",
+      "link": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "18/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Una coppia dell'Oregon che affronta difficoltà finanziarie può ora sopportare l'inverno in tutta comodità e \"tranquillità\" da quando è stato installato un nuovo sistema HVAC nella loro casa ..."
+    },
     {
       "titolo": "I fisici creano un nuovo bizzarro stato quantistico chiamato mare frazionario dei fermi",
       "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
