@@ -1,7 +1,34 @@
 {
   "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Il desiderio dell'adolescente di restituire la gentilezza che ha ricevuto vede la sua bancarella di limonata diventare un motore di beneficenza da $5 milioni",
+      "link": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "12/10/2026",
+      "categoria": "Società",
+      "sommario": "Quando il caldo estivo diventa troppo da sopportare, un bicchiere di limonata ghiacciata è un gradito sollievo, ma ciò che decine di migliaia in tutto l'Ohio hanno imparato è che la limona..."
+    },
+    {
+      "titolo": "Come un piccolo dispositivo sta risolvendo il problema dell'accesso solare nell'appartamento",
+      "link": "https://www.optimistdaily.com/2026/10/how-one-small-device-is-solving-the-apartment-solar-access-problem/",
+      "fonte": "Optimist Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "19/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Dal TEAM EDITORIALE OPTIMIST DAILY Un dispositivo australiano che divide l'energia solare sul tetto in un intero condominio ha appena vinto il desi..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono il segreto di 2,3 miliardi di anni che ha contribuito a mantenere la Terra abitabile",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211602.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "12/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati potrebbero aver risolto un mistero di 2,3 miliardi di anni su come la Terra abbia mantenuto abbastanza ossigeno per sostenere la vita. Antiche rocce rivelano che la ricerca del fosforo..."
+    },
     {
       "titolo": "Il piccolo gatto nero bloccato nel motore dell'auto porta una gioia inaspettata alla coppia con l'anniversario di matrimonio di Halloween",
       "link": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
@@ -10,33 +37,6 @@
       "data": "18/10/2026",
       "categoria": "Animali",
       "sommario": "Un'insegnante di liceo di Sandy Springs, in Georgia, ha ricevuto una sorpresa inaspettata mentre andava al lavoro all'inizio di questo mese. \"È stata una storia piuttosto selvaggia\", ha detto a GNN..."
-    },
-    {
-      "titolo": "Il desiderio dell'adolescente di restituire la gentilezza che ha ricevuto vede la sua bancarella di limonata diventare un motore di beneficenza da $5 milioni",
-      "link": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "12/10/2026",
-      "categoria": "Società",
-      "sommario": "Quando il caldo estivo diventa troppo da sopportare, un bicchiere di limonata ghiacciata è un gradito sollievo, ma ciò che decine di migliaia in tutto l'Ohio hanno imparato è che la limona..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono il segreto di 2,3 miliardi di anni che ha contribuito a mantenere la Terra abitabile",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211602.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "12/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati potrebbero aver risolto un mistero di 2,3 miliardi di anni su come la Terra abbia mantenuto abbastanza ossigeno per sostenere la vita. Antiche rocce rivelano che la ricerca del fosforo..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono il potenziale curativo nascosto della vaniglia",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "12/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto che la vanillina, il composto che conferisce alla vaniglia il suo sapore caratteristico, ha potenti proprietà che potrebbero aiutare a combattere le infezioni,..."
     },
     {
       "titolo": "L’incredibile trasformazione di Odum, salvato dal crudele commercio degli orsi danzanti (e ribattezzato da Julia Roberts)",
