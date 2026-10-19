@@ -1,7 +1,43 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Il piccolo gatto nero bloccato nel motore dell'auto porta una gioia inaspettata alla coppia con l'anniversario di matrimonio di Halloween",
+      "link": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "18/10/2026",
+      "categoria": "Animali",
+      "sommario": "Un'insegnante di liceo di Sandy Springs, in Georgia, ha ricevuto una sorpresa inaspettata mentre andava al lavoro all'inizio di questo mese. \"È stata una storia piuttosto selvaggia\", ha detto a GNN..."
+    },
+    {
+      "titolo": "Il desiderio dell'adolescente di restituire la gentilezza che ha ricevuto vede la sua bancarella di limonata diventare un motore di beneficenza da $5 milioni",
+      "link": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "12/10/2026",
+      "categoria": "Società",
+      "sommario": "Quando il caldo estivo diventa troppo da sopportare, un bicchiere di limonata ghiacciata è un gradito sollievo, ma ciò che decine di migliaia in tutto l'Ohio hanno imparato è che la limona..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono il segreto di 2,3 miliardi di anni che ha contribuito a mantenere la Terra abitabile",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211602.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "12/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati potrebbero aver risolto un mistero di 2,3 miliardi di anni su come la Terra abbia mantenuto abbastanza ossigeno per sostenere la vita. Antiche rocce rivelano che la ricerca del fosforo..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono il potenziale curativo nascosto della vaniglia",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "12/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto che la vanillina, il composto che conferisce alla vaniglia il suo sapore caratteristico, ha potenti proprietà che potrebbero aiutare a combattere le infezioni,..."
+    },
     {
       "titolo": "L’incredibile trasformazione di Odum, salvato dal crudele commercio degli orsi danzanti (e ribattezzato da Julia Roberts)",
       "link": "https://www.greenme.it/animali/animali-selvatici/trasformazione-odum-salvato-commercio-orsi-danzanti/",
@@ -237,15 +273,6 @@
       "sommario": "Il telescopio spaziale James Webb della NASA ha rivelato un antico ammasso di galassie con una concentrazione inaspettatamente densa di materia oscura, sfidando le teorie su ..."
     },
     {
-      "titolo": "Gli scienziati scoprono il segreto di 2,3 miliardi di anni che ha contribuito a mantenere la Terra abitabile",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211602.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "12/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati potrebbero aver risolto un mistero di 2,3 miliardi di anni su come la Terra abbia mantenuto abbastanza ossigeno per sostenere la vita. Antiche rocce rivelano che la ricerca del fosforo..."
-    },
-    {
       "titolo": "Gufi inanellati per misurare i benefici dell'allevamento della fauna selvatica",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd3xyyjpo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Science",
@@ -253,60 +280,6 @@
       "data": "13/10/2026",
       "categoria": "Animali",
       "sommario": "Un barbagianni e 15 pulcini vengono fatti rintoccare per vedere se l'agricoltura incentrata sulla conservazione funziona."
-    },
-    {
-      "titolo": "Non solo libri, in queste biblioteche si prestano semi di ortaggi e fiori (per preservare la biodiversità e condividere i raccolti)",
-      "link": "https://www.greenme.it/lifestyle/biblioteche-si-prestano-semi/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Biblioteche-semi.jpg",
-      "data": "12/10/2026",
-      "categoria": "Animali",
-      "sommario": "Una vera e propria rivoluzione verde coinvolge le biblioteche che oltre ai libri prestano semi: come funziona il progetto circolare che trasforma la tessera ..."
-    },
-    {
-      "titolo": "Non chiamatela “scoperta dell’America”: cosa significa Abya Yala, il nome indigeno che ribalta il senso del Columbus Day",
-      "link": "https://www.greenme.it/lifestyle/costume-e-societa/non-chiamatela-scoperta-dellamerica-cosa-significa-abya-yala-il-nome-indigeno-che-ribalta-il-senso-del-columbus-day/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/columbus-day-3.jpg",
-      "data": "12/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Il 12 ottobre 1492 Cristoforo Colombo arrivò nelle Americhe, ma quelle terre non erano affatto sconosciute a chi già le abitava. Esiste una parola, Abya Yala..."
-    },
-    {
-      "titolo": "Il desiderio dell'adolescente di restituire la gentilezza che ha ricevuto vede la sua bancarella di limonata diventare un motore di beneficenza da $5 milioni",
-      "link": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "12/10/2026",
-      "categoria": "Società",
-      "sommario": "Quando il caldo estivo diventa troppo da sopportare, un bicchiere di limonata ghiacciata è un gradito sollievo, ma ciò che decine di migliaia in tutto l'Ohio hanno imparato è che la limona..."
-    },
-    {
-      "titolo": "L'Australia stabilisce un nuovo record di energia rinnovabile, con il solare sui tetti in testa",
-      "link": "https://www.optimistdaily.com/2026/10/australia-sets-a-new-renewable-energy-record-with-rooftop-solar-leading-the-way/",
-      "fonte": "Optimist Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "12/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "DA PARTE DEL TEAM EDITORIALE OPTIMIST DAILY Sabato 22 settembre, il solare e l'eolico hanno soddisfatto l'80,4% della domanda sul mercato elettrico nazionale australiano, con..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono il potenziale curativo nascosto della vaniglia",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "12/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto che la vanillina, il composto che conferisce alla vaniglia il suo sapore caratteristico, ha potenti proprietà che potrebbero aiutare a combattere le infezioni,..."
-    },
-    {
-      "titolo": "Solo 10 minuti di esercizio quotidiano potrebbero sbloccare un sonno più profondo",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "12/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Dormire meglio potrebbe essere semplice come muoversi un po' di più ogni giorno. I ricercatori dell'Università del Texas ad Austin hanno scoperto che le persone che..."
     }
   ]
 }
