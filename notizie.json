@@ -1,12 +1,30 @@
 {
   "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "La UE investe 3,4 miliardi di euro nell’innovazione tecnologica per tagliare le emissioni: i 3 progetti italiani selezionati",
+      "link": "https://www.greenme.it/scienza-e-tecnologia/innovazioni-e-green-tech/la-ue-investe-34-miliardi-di-euro-innovazione-tecnologica-per-tagliare-le-emissioni-i-3-progetti-italiani-selezionati/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/progetti-UE-premiati.jpg",
+      "data": "20/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "L’Europa seleziona tre progetti in Italia per tagliare le emissioni: dalle navi ad ammoniaca verde all’idrogeno"
+    },
+    {
+      "titolo": "Buone notizie nella storia, 20 ottobre",
+      "link": "https://www.goodnewsnetwork.org/events061020/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "20/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Oggi, 76 anni fa, Tom Petty nasceva a Gainesville, in Florida. All'età di 11 anni incontrò Elvis Presley, che scatenò il suo amore per il rock and roll. Come chitarra..."
+    },
     {
       "titolo": "Entra in funzione l'impianto italiano di biometano, che fornisce gas rinnovabile a oltre 3.000 case",
       "link": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
       "data": "13/10/2026",
       "categoria": "Mondo",
       "sommario": "Uno sviluppatore energetico europeo ha attivato un importante impianto di biometano nel sud Italia che consentirà di risparmiare circa 9.000 tonnellate di CO2 all'anno producendo un..."
@@ -15,7 +33,7 @@
       "titolo": "James Webb rivela una massiccia struttura cosmica che sfida la nostra comprensione dell'Universo",
       "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
       "data": "13/10/2026",
       "categoria": "Mondo",
       "sommario": "Il telescopio spaziale James Webb della NASA ha rivelato un antico ammasso di galassie con una concentrazione inaspettatamente densa di materia oscura, sfidando le teorie su ..."
