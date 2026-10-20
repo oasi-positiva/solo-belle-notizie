@@ -1,7 +1,34 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Entra in funzione l'impianto italiano di biometano, che fornisce gas rinnovabile a oltre 3.000 case",
+      "link": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "13/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Uno sviluppatore energetico europeo ha attivato un importante impianto di biometano nel sud Italia che consentirà di risparmiare circa 9.000 tonnellate di CO2 all'anno producendo un..."
+    },
+    {
+      "titolo": "James Webb rivela una massiccia struttura cosmica che sfida la nostra comprensione dell'Universo",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "13/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Il telescopio spaziale James Webb della NASA ha rivelato un antico ammasso di galassie con una concentrazione inaspettatamente densa di materia oscura, sfidando le teorie su ..."
+    },
+    {
+      "titolo": "La scoperta di un dinosauro di 210 milioni di anni fa rivela un mondo perduto in Africa",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261012185013.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "13/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un dinosauro dello Zimbabwe di 210 milioni di anni fa sta aiutando gli scienziati a scoprire un ecosistema preistorico sorprendentemente distinto. La scoperta suggerisce..."
+    },
     {
       "titolo": "Mentre lavorava il suo campo, un contadino trova una pietra rosa: era un pezzo di una colossale statua di Ramses II",
       "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/mentre-lavorava-il-suo-campo-un-contadino-trova-una-pietra-rosa-era-un-pezzo-di-una-colossale-statua-di-ramses-ii/",
@@ -271,51 +298,6 @@
       "data": "14/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Gli astronomi hanno scoperto che un pianeta rovente a 320 anni luce di distanza condivide una sorprendente somiglianza chimica con la sua stella ospite, fornendo il primo di..."
-    },
-    {
-      "titolo": "La scoperta di un dinosauro di 210 milioni di anni fa rivela un mondo perduto in Africa",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185013.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "13/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Un dinosauro dello Zimbabwe di 210 milioni di anni fa sta aiutando gli scienziati a scoprire un ecosistema preistorico sorprendentemente distinto. La scoperta suggerisce..."
-    },
-    {
-      "titolo": "Entra in funzione l'impianto italiano di biometano, che fornisce gas rinnovabile a oltre 3.000 case",
-      "link": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "13/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Uno sviluppatore energetico europeo ha attivato un importante impianto di biometano nel sud Italia che consentirà di risparmiare circa 9.000 tonnellate di CO2 all'anno producendo un..."
-    },
-    {
-      "titolo": "Transizione energetica: a che punto siamo? L’Italia fuori traiettoria per 34 indicatori su 56: rimaniamo dipendenti dall’estero al 74,1%",
-      "link": "https://www.greenme.it/energia/transizione-energetica-a-che-punto-siamo-litalia-fuori-traiettoria-per-34-indicatori-su-56-rimaniamo-dipendenti-dallestero-al-741/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Dipendenza-energetica-in-Italia.jpg",
-      "data": "13/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Secondo ENEA l’Italia resta indietro su rinnovabili, importazioni, efficienza e innovazione: progressi negli approvvigionamenti, obiettivi nazionali del 2030..."
-    },
-    {
-      "titolo": "James Webb rivela una massiccia struttura cosmica che sfida la nostra comprensione dell'Universo",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "13/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Il telescopio spaziale James Webb della NASA ha rivelato un antico ammasso di galassie con una concentrazione inaspettatamente densa di materia oscura, sfidando le teorie su ..."
-    },
-    {
-      "titolo": "Gufi inanellati per misurare i benefici dell'allevamento della fauna selvatica",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd3xyyjpo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "13/10/2026",
-      "categoria": "Animali",
-      "sommario": "Un barbagianni e 15 pulcini vengono fatti rintoccare per vedere se l'agricoltura incentrata sulla conservazione funziona."
     }
   ]
 }
