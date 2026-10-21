@@ -1,6 +1,6 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
     {
       "titolo": "L’Italia vince la gara mondiale delle papere di plastica: per celebrare l’ambiente le hanno fatte gareggiare in un fiume",
@@ -298,42 +298,6 @@
       "data": "15/10/2026",
       "categoria": "Mondo",
       "sommario": "I cannoni vengono sollevati dal Monte San Michele in elicottero in modo che possano essere portati via per il restauro."
-    },
-    {
-      "titolo": "Gli scienziati rivelano perché alcuni trucchi di recupero dell'allenamento possono ritorcersi contro",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "14/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Bagni di ghiaccio, massaggi, indumenti compressivi e integratori per il recupero promettono un recupero muscolare più rapido, ma la ricerca suggerisce che i loro benefici sono spesso sopravvalutati..."
-    },
-    {
-      "titolo": "Vittoria! Woolrich Europe dice addio alle crudeli pellicce animali (dopo 200mila email e le proteste nei negozi)",
-      "link": "https://www.greenme.it/lifestyle/moda/vittoria-woolrich-europe-dice-addio-alle-crudeli-pellicce-animali-dopo-200mila-email-e-le-proteste-nei-negozi/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/addio-pellicce-woolrich.jpg",
-      "data": "14/10/2026",
-      "categoria": "Animali",
-      "sommario": "Dopo oltre 200mila email e proteste davanti ai negozi, Woolrich Europe rinuncia alle pellicce animali. La mobilitazione paga! Gli attivisti celebrano una svo..."
-    },
-    {
-      "titolo": "L'intelligenza artificiale rivela una scorciatoia chimica nascosta che potrebbe trasformare la CO2 in carburante",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "14/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno utilizzato l'intelligenza artificiale per scoprire quasi 10.000 reazioni chimiche coinvolte nella trasformazione dell'anidride carbonica in combustibili e sostanze chimiche, rivelando..."
-    },
-    {
-      "titolo": "Un pianeta a 320 anni luce di distanza conferma ciò che gli scienziati sospettavano da tempo",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185015.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "14/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli astronomi hanno scoperto che un pianeta rovente a 320 anni luce di distanza condivide una sorprendente somiglianza chimica con la sua stella ospite, fornendo il primo di..."
     }
   ]
 }
