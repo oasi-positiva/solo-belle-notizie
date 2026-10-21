@@ -1,7 +1,43 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
   "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "COP17, sono i popoli indigeni a salvare la biodiversità: queste storie dimostrano perché il mondo deve ascoltarli",
+      "link": "https://www.greenme.it/ambiente/natura/cop17-sono-i-popoli-indigeni-a-salvare-la-biodiversita-queste-storie-dimostrano-perche-il-mondo-deve-ascoltarli/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/indigeni_biodiversita.jpg",
+      "data": "21/10/2026",
+      "categoria": "Animali",
+      "sommario": "Dalle foreste protette dell'India alle antiche varietà di riso capaci di resistere alla salinità: alla Conferenza ONU sulla biodiversità di Yerevan arriva un..."
+    },
+    {
+      "titolo": "\"Scrivere è un modo di affrontare le cose\"",
+      "link": "https://www.positive.news/lifestyle/arts/writing-is-a-way-of-dealing-with-things-ian-rankin/",
+      "fonte": "Positive News",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "21/10/2026",
+      "categoria": "Mondo",
+      "sommario": "L'autore scozzese Ian Rankin parla di dare un senso alle esperienze difficili attraverso la narrativa e di dare via una parte del suo successo \nIl post \"Scrivere è un ..."
+    },
+    {
+      "titolo": "La turbina eolica più alta del mondo raggiunge 1.197 piedi in Germania",
+      "link": "https://www.optimistdaily.com/2026/10/worlds-tallest-wind-turbine-reaches-1197-feet-in-germany/",
+      "fonte": "Optimist Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "21/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Dal TEAM EDITORIALE OPTIMIST DAILY La turbina eolica più alta del mondo ha appena raggiunto la piena altezza in Germania. La turbina pilota di GICON a Schipkau, nella Germania orientale..."
+    },
+    {
+      "titolo": "La tenuta registra \"abbondanza\" di fauna selvatica nonostante la siccità",
+      "link": "https://www.bbc.co.uk/news/articles/crgqw4lg3y83o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "21/10/2026",
+      "categoria": "Animali",
+      "sommario": "L '\"approccio a lungo termine di Wimpole al recupero della natura\" ha visto più di 5.000 specie registrate."
+    },
     {
       "titolo": "L’Italia vince la gara mondiale delle papere di plastica: per celebrare l’ambiente le hanno fatte gareggiare in un fiume",
       "link": "https://www.greenme.it/ambiente/mondiale-papere-galleggianti/",
