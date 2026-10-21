@@ -1,7 +1,34 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Salvano un minuscolo pipistrello a rischio estinzione (dal peso di 6 grammi): guarda il suo emozionante ritorno in libertà",
+      "link": "https://www.greenme.it/animali/animali-selvatici/pipistrello-in-pericolo-critico-salvato/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Pipistrello-salvato.jpg",
+      "data": "21/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Un raro pipistrello in pericolo critico a causa della sindrome del naso bianco è stato salvato e liberato in Pennsylvania grazie alla collaborazione tra due ..."
+    },
+    {
+      "titolo": "Un treno è stato ritardato da una tempesta solare. Ma qualcosa non quadrava.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "21/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno risolto un mistero di 178 anni che circonda un treno ritardato da una tempesta solare, rivelando che il famoso incidente è avvenuto nel 1848 piuttosto che..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono una creatura spettrale e senza occhi nascosta in una grotta cinese",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261019093445.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "21/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Nel profondo di una grotta cinese ad alta quota, gli scienziati hanno scoperto una lumaca d'acqua dolce spettrale e senza occhi che si è evoluta per vivere interamente nell'oscurità,..."
+    },
     {
       "titolo": "COP17, sono i popoli indigeni a salvare la biodiversità: queste storie dimostrano perché il mondo deve ascoltarli",
       "link": "https://www.greenme.it/ambiente/natura/cop17-sono-i-popoli-indigeni-a-salvare-la-biodiversita-queste-storie-dimostrano-perche-il-mondo-deve-ascoltarli/",
