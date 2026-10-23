@@ -3,10 +3,28 @@
   "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
     {
+      "titolo": "Dog Photography Awards 2026: trionfa un Pitbull salvato dall’eutanasia (e la foto lancia un messaggio contro i pregiudizi)",
+      "link": "https://www.greenme.it/lifestyle/arte-e-cultura/dog-photography-awards-2026-trionfa-il-pitbull-destinato-alleutanasia-e-la-foto-lancia-un-potente-messaggio/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/dog-of-the-year-26-2.jpg",
+      "data": "22/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Katie Brockman è Dog Photographer of the Year 2026 con il ritratto del suo pitbull Caldwell, con una corona e un collare coperti di veri titoli di giornale p..."
+    },
+    {
+      "titolo": "Inaugurato a Storo il nuovo impianto H2_POLYTECH per la produzione di idrogeno verde: innovazione, industria e sostenibilità al servizio del territorio",
+      "link": "https://www.rinnovabili.it/energia/idrogeno/idrogeno-verde-storo-impianto-h2_polytech/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "23/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Realizzato all’interno di un’area industriale dismessa, H2_Polytec è tra i progetti selezionati nell’ambito del bando promosso dalla Provincia Autonoma di Tr..."
+    },
+    {
       "titolo": "Il più grande progetto di conservazione privato negli Stati Uniti raggiunge un importante traguardo: il Bison Pass per il free-roaming 1.000",
       "link": "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
       "data": "16/10/2026",
       "categoria": "Mondo",
       "sommario": "Mentre l'autunno scende sulle Grandi Pianure del Nord America, il più grande progetto privato di conservazione del territorio del paese sta risuonando in un momento di grande ispirazione..."
