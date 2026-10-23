@@ -1,7 +1,16 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Il più grande progetto di conservazione privato negli Stati Uniti raggiunge un importante traguardo: il Bison Pass per il free-roaming 1.000",
+      "link": "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "16/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Mentre l'autunno scende sulle Grandi Pianure del Nord America, il più grande progetto privato di conservazione del territorio del paese sta risuonando in un momento di grande ispirazione..."
+    },
     {
       "titolo": "L'isola di Samoa assiste all'esplosione della fauna selvatica nativa dopo la rimozione di ratti e maiali invasivi",
       "link": "https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/",
@@ -298,51 +307,6 @@
       "data": "17/10/2026",
       "categoria": "Mondo",
       "sommario": "Il telescopio spaziale James Webb della NASA ha rivelato che un mondo turbolento a 20 anni luce di distanza ha un sistema meteorologico sorprendentemente ordinato, con tre atm ricorrenti..."
-    },
-    {
-      "titolo": "Siamo stati a Correggio e ti portiamo alla scoperta delle location dove è girata la serie tv Rai “Estranei”",
-      "link": "https://www.greenme.it/viaggi/italia/siamo-stati-correggio-location-serie-tv-estranei/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Correggio-3-copertina.jpg",
-      "data": "16/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Siamo stati sui luoghi della serie Rai “Estranei”: tra Correggio, Carpi e la Bassa emiliana fino a Udine e Trieste alla scoperta delle location della fiction..."
-    },
-    {
-      "titolo": "Il più grande progetto di conservazione privato negli Stati Uniti raggiunge un importante traguardo: il Bison Pass per il free-roaming 1.000",
-      "link": "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "16/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Mentre l'autunno scende sulle Grandi Pianure del Nord America, il più grande progetto privato di conservazione del territorio del paese sta risuonando in un momento di grande ispirazione..."
-    },
-    {
-      "titolo": "Gli scienziati di Yale scoprono come lo stress cambia il cervello per rendere i ricordi più forti",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261014015517.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "16/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati di Yale hanno scoperto come l'ormone dello stress cortisolo aiuti il cervello a trasformare le esperienze emotive in ricordi più forti e duraturi. La scoperta..."
-    },
-    {
-      "titolo": "Gli astronomi scoprono una strana regola universale dietro le eruzioni dei buchi neri",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "16/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno scoperto che i buchi neri di dimensioni molto diverse sembrano lanciare potenti getti secondo la stessa regola universale. La svolta c..."
-    },
-    {
-      "titolo": "Cosa c'è dietro il successo di Dark Skies Festival?",
-      "link": "https://www.bbc.co.uk/news/articles/c68xzg941x5vo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "16/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli astronomi si stanno preparando a godersi un festival annuale che celebra la bellezza del cielo notturno."
     }
   ]
 }
