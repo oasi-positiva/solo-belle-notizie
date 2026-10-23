@@ -1,7 +1,34 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
   "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "3 \"Hobbit\" italiani hanno cercato l'anello nuziale \"prezioso\" dell'irlandese per giorni prima di portarlo a casa sua",
+      "link": "https://www.goodnewsnetwork.org/3-italian-hobbits-searched-for-irishmans-precious-wedding-ring-for-days-before-bringing-it-to-his-home/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "23/10/2026",
+      "categoria": "Mondo",
+      "sommario": "La disgrazia di un uomo in vacanza si è trasformata in una storia adatta a un romanzo fantasy, quando perfetti sconosciuti sono venuti in suo soccorso ispirati al Signore degli Anelli. Los..."
+    },
+    {
+      "titolo": "Le viti producono uve da vino più grandi e più sane se coltivate sotto pannelli solari",
+      "link": "https://www.goodnewsnetwork.org/vines-produce-bigger-healthier-wine-grapes-when-grown-under-solar-panels/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "23/10/2026",
+      "categoria": "Mondo",
+      "sommario": "I pannelli solari coltivati sopra le viti hanno sostanzialmente aumentato lo sviluppo e la produzione di frutta della coltura, il tutto generando energia pulita. La tecnica..."
+    },
+    {
+      "titolo": "Uno dei supervulcani più potenti della Terra si sta riempiendo di magma fresco",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "23/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Nel profondo della caldera giapponese di Kikai, un enorme serbatoio di magma si sta riempiendo 7.300 anni dopo una delle più potenti eruzioni vulcaniche nella recente ge..."
+    },
     {
       "titolo": "Dog Photography Awards 2026: trionfa un Pitbull salvato dall’eutanasia (e la foto lancia un messaggio contro i pregiudizi)",
       "link": "https://www.greenme.it/lifestyle/arte-e-cultura/dog-photography-awards-2026-trionfa-il-pitbull-destinato-alleutanasia-e-la-foto-lancia-un-potente-messaggio/",
@@ -19,15 +46,6 @@
       "data": "23/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Realizzato all’interno di un’area industriale dismessa, H2_Polytec è tra i progetti selezionati nell’ambito del bando promosso dalla Provincia Autonoma di Tr..."
-    },
-    {
-      "titolo": "Il più grande progetto di conservazione privato negli Stati Uniti raggiunge un importante traguardo: il Bison Pass per il free-roaming 1.000",
-      "link": "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "16/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Mentre l'autunno scende sulle Grandi Pianure del Nord America, il più grande progetto privato di conservazione del territorio del paese sta risuonando in un momento di grande ispirazione..."
     },
     {
       "titolo": "L'isola di Samoa assiste all'esplosione della fauna selvatica nativa dopo la rimozione di ratti e maiali invasivi",
