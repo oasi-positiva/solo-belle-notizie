@@ -1,7 +1,16 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Gattino incastrato nello scarico delle acque piovane salvato da un piccol robot: il commovente video (e la corsa all’adozione)",
+      "link": "https://www.greenme.it/pet/gatti/gattino-incastrato-scarico-acque-piovane/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Gatto-salvato-scarico.jpg",
+      "data": "23/10/2026",
+      "categoria": "Animali",
+      "sommario": "A West Valley City un gattino intrappolato in un canale di scarico viene salvato dal robot R2D2 impiegato per le ispezioni fognarie. Il video della squadra d..."
+    },
     {
       "titolo": "3 \"Hobbit\" italiani hanno cercato l'anello nuziale \"prezioso\" dell'irlandese per giorni prima di portarlo a casa sua",
       "link": "https://www.goodnewsnetwork.org/3-italian-hobbits-searched-for-irishmans-precious-wedding-ring-for-days-before-bringing-it-to-his-home/",
