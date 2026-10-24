@@ -1,7 +1,16 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "Grazie a una singola foto Instagram, scoperta in Colombia una ninfea gigante visibile dallo spazio (che è già in pericolo di estinzione)",
+      "link": "https://www.greenme.it/ambiente/natura/grazie-a-una-singola-foto-instagram-scoperta-in-colombia-una-ninfea-gigante-visibile-dallo-spazio-che-e-gia-in-pericolo-di-estinzione/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/ninfa_gigante.jpg",
+      "data": "24/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "In Colombia una fotografia pubblicata sui social ha portato a identificare Victoria colombiana, una specie dalle foglie larghe due metri"
+    },
     {
       "titolo": "Gli scienziati scoprono un interruttore nascosto che brucia il grasso e blocca nuove cellule adipose",
       "link": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
