@@ -1,7 +1,16 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
   "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Gli scienziati scoprono come il sonno profondo costruisce i muscoli, brucia i grassi e stimola il cervello",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "17/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto una sorprendente relazione bidirezionale tra sonno e ormone della crescita, rivelando come il cervello bilancia attentamente il recupero fisico con..."
+    },
     {
       "titolo": "Gattino incastrato nello scarico delle acque piovane salvato da un piccol robot: il commovente video (e la corsa all’adozione)",
       "link": "https://www.greenme.it/pet/gatti/gattino-incastrato-scarico-acque-piovane/",
@@ -316,42 +325,6 @@
       "data": "18/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Il nostro viaggio in Lunigiana, una terra di confine incastonata tra le vette delle Alpi Apuane e i fitti boschi degli Appennini alla scoperta dei borghi di ..."
-    },
-    {
-      "titolo": "Questo è un fungo gigante appena scoperto in Cina: è alto mezzo metro e può pesare oltre 2 chili",
-      "link": "https://www.greenme.it/ambiente/natura/fungo-gigante-nuova-specie-2-chili/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/fungo-gigante-cina-c.jpg",
-      "data": "17/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Nessuno lo aveva mai visto prima ed è una specie del tutto sconosciuta: è un fungo gigante, ma gigante sul serio, visto che è alto mezzo metro, come un cono ..."
-    },
-    {
-      "titolo": "Capolavoro azzurro in Coppa del mondo di scherma: il podio del fioretto femminile è tutto italiano",
-      "link": "https://www.greenme.it/salute-e-alimentazione/sport-e-fitness/coppa-del-mondo-scherma-fioretto-podio-azzurro/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/coppa-del-mondo-2026_podio-azzurro-s.jpg",
-      "data": "17/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Fioretto femminile: medaglia d’oro Martina Favaretto, medaglia d’argento Martina Batini, medaglie di bronzo Arianna Errigo e Alice Volpi. Incredibile ma vero..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono come il sonno profondo costruisce i muscoli, brucia i grassi e stimola il cervello",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "17/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto una sorprendente relazione bidirezionale tra sonno e ormone della crescita, rivelando come il cervello bilancia attentamente il recupero fisico con..."
-    },
-    {
-      "titolo": "Webb della NASA rivela il clima selvaggio di un mondo misterioso a 20 anni luce di distanza",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "17/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Il telescopio spaziale James Webb della NASA ha rivelato che un mondo turbolento a 20 anni luce di distanza ha un sistema meteorologico sorprendentemente ordinato, con tre atm ricorrenti..."
     }
   ]
 }
