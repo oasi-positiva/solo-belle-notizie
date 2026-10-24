@@ -1,15 +1,15 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
   "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
     {
-      "titolo": "Gli scienziati scoprono come il sonno profondo costruisce i muscoli, brucia i grassi e stimola il cervello",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "17/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto una sorprendente relazione bidirezionale tra sonno e ormone della crescita, rivelando come il cervello bilancia attentamente il recupero fisico con..."
+      "titolo": "Progetto di ripristino di alberi autoctoni rari con test del DNA",
+      "link": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "24/10/2026",
+      "categoria": "Mondo",
+      "sommario": "I gruppi di conservazione affermano che i pioppi neri sono in pericolo a causa dell'abbattimento, del drenaggio del terreno e della perdita di habitat."
     },
     {
       "titolo": "Gattino incastrato nello scarico delle acque piovane salvato da un piccol robot: il commovente video (e la corsa all’adozione)",
