@@ -1,21 +1,12 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
-    {
-      "titolo": "Da una a otto pasticcerie: la crescita sostenibile di Antico Forno tra lotta allo spreco, energia pulita e innovazione",
-      "link": "https://www.greenme.it/esg/da-una-a-otto-pasticcerie-la-crescita-sostenibile-di-antico-forno-tra-lotta-allo-spreco-energia-pulita-e-innovazione/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/pasticcerie.jpg",
-      "data": "25/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "In vent’anni Antico Forno è cresciuta da una bottega a otto pasticcerie tra Padova e Rubano, riducendo l’impatto ambientale: 7.435 pasti salvati con Too Good..."
-    },
     {
       "titolo": "Il piccolo gatto nero bloccato nel motore dell'auto porta una gioia inaspettata alla coppia con l'anniversario di matrimonio di Halloween",
       "link": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "18/10/2026",
       "categoria": "Animali",
       "sommario": "Un'insegnante di liceo di Sandy Springs, in Georgia, ha ricevuto una sorpresa inaspettata mentre andava al lavoro all'inizio di questo mese. \"È stata una storia piuttosto selvaggia\", ha detto a GNN..."
@@ -30,13 +21,40 @@
       "sommario": "Una coppia dell'Oregon che affronta difficoltà finanziarie può ora sopportare l'inverno in tutta comodità e \"tranquillità\" da quando è stato installato un nuovo sistema HVAC nella loro casa ..."
     },
     {
-      "titolo": "I fisici creano un nuovo bizzarro stato quantistico chiamato mare frazionario dei fermi",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+      "titolo": "L'aspirina a basso dosaggio è legata a un rischio di demenza inferiore del 70%, ma c'è un problema",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "18/10/2026",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "25/10/2026",
       "categoria": "Mondo",
-      "sommario": "I fisici hanno scoperto uno strano nuovo stato della materia quantistica in cui gli atomi ultrafreddi sfidano le regole organizzative familiari, formando un..."
+      "sommario": "Un farmaco comune e poco costoso potrebbe contenere un indizio inaspettato per prevenire la demenza. I ricercatori hanno scoperto che gli anziani con un profilo genetico specifico hanno..."
+    },
+    {
+      "titolo": "Gli astronomi potrebbero aver scoperto la prima luna oltre il nostro Sistema Solare",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "25/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli astronomi hanno scoperto le prove di una scoperta bizzarra e potenzialmente storica: la prima luna mai rilevata oltre il nostro Sistema Solare. A differenza delle lune familiari..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono un difetto nascosto che sfida 40 anni di scienza dei superconduttori",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "25/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un materiale superconduttore studiato per 40 anni si è rivelato molto più complesso di quanto gli scienziati credessero. L'imaging 3D avanzato ha rivelato una patchwo nascosta..."
+    },
+    {
+      "titolo": "Da una a otto pasticcerie: la crescita sostenibile di Antico Forno tra lotta allo spreco, energia pulita e innovazione",
+      "link": "https://www.greenme.it/esg/da-una-a-otto-pasticcerie-la-crescita-sostenibile-di-antico-forno-tra-lotta-allo-spreco-energia-pulita-e-innovazione/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/pasticcerie.jpg",
+      "data": "25/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "In vent’anni Antico Forno è cresciuta da una bottega a otto pasticcerie tra Padova e Rubano, riducendo l’impatto ambientale: 7.435 pasti salvati con Too Good..."
     },
     {
       "titolo": "Uccelli marini e acque reflue tra le sfide dello status UNESCO",
