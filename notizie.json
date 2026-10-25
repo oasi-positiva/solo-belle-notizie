@@ -1,12 +1,21 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Da una a otto pasticcerie: la crescita sostenibile di Antico Forno tra lotta allo spreco, energia pulita e innovazione",
+      "link": "https://www.greenme.it/esg/da-una-a-otto-pasticcerie-la-crescita-sostenibile-di-antico-forno-tra-lotta-allo-spreco-energia-pulita-e-innovazione/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/pasticcerie.jpg",
+      "data": "25/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "In vent’anni Antico Forno è cresciuta da una bottega a otto pasticcerie tra Padova e Rubano, riducendo l’impatto ambientale: 7.435 pasti salvati con Too Good..."
+    },
     {
       "titolo": "Il piccolo gatto nero bloccato nel motore dell'auto porta una gioia inaspettata alla coppia con l'anniversario di matrimonio di Halloween",
       "link": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
       "data": "18/10/2026",
       "categoria": "Animali",
       "sommario": "Un'insegnante di liceo di Sandy Springs, in Georgia, ha ricevuto una sorpresa inaspettata mentre andava al lavoro all'inizio di questo mese. \"È stata una storia piuttosto selvaggia\", ha detto a GNN..."
@@ -15,7 +24,7 @@
       "titolo": "Coppia in pensione sorpresa dal nuovo sistema HVAC del valore di $16.000 in un programma \"Senti l'amore\" che ha aiutato 3100 persone",
       "link": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
       "data": "18/10/2026",
       "categoria": "Mondo",
       "sommario": "Una coppia dell'Oregon che affronta difficoltà finanziarie può ora sopportare l'inverno in tutta comodità e \"tranquillità\" da quando è stato installato un nuovo sistema HVAC nella loro casa ..."
@@ -24,19 +33,19 @@
       "titolo": "I fisici creano un nuovo bizzarro stato quantistico chiamato mare frazionario dei fermi",
       "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
       "data": "18/10/2026",
       "categoria": "Mondo",
       "sommario": "I fisici hanno scoperto uno strano nuovo stato della materia quantistica in cui gli atomi ultrafreddi sfidano le regole organizzative familiari, formando un..."
     },
     {
-      "titolo": "Gli scienziati che hanno scoperto una terza forma di magnetismo vincono un importante premio in fisica",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "18/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "I fisici hanno scoperto una terza forma nascosta di magnetismo che sfida più di 100 anni di fisica consolidata. Chiamato altermagnetismo, la scoperta c..."
+      "titolo": "Uccelli marini e acque reflue tra le sfide dello status UNESCO",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd1e364jlo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "25/10/2026",
+      "categoria": "Animali",
+      "sommario": "Un rapporto che segna i 10 anni dell'Isola di Man come Biosfera dell'UNESCO evidenzia i progressi del programma."
     },
     {
       "titolo": "Grazie a una singola foto Instagram, scoperta in Colombia una ninfea gigante visibile dallo spazio (che è già in pericolo di estinzione)",
