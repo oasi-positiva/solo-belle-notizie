@@ -1,7 +1,16 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
   "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
+    {
+      "titolo": "53 oranghi salvati dagli incendi nel Borneo, con molti riavvolti in riserve forestali in tutta l'isola",
+      "link": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "25/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli incendi boschivi e le torbiere continuano a bruciare in tutta l'isola del Borneo, mettendo in pericolo la qualità dell'aria sia per gli esseri umani che per la fauna selvatica e dando fuoco al cibo..."
+    },
     {
       "titolo": "Il piccolo gatto nero bloccato nel motore dell'auto porta una gioia inaspettata alla coppia con l'anniversario di matrimonio di Halloween",
       "link": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
@@ -10,15 +19,6 @@
       "data": "18/10/2026",
       "categoria": "Animali",
       "sommario": "Un'insegnante di liceo di Sandy Springs, in Georgia, ha ricevuto una sorpresa inaspettata mentre andava al lavoro all'inizio di questo mese. \"È stata una storia piuttosto selvaggia\", ha detto a GNN..."
-    },
-    {
-      "titolo": "Coppia in pensione sorpresa dal nuovo sistema HVAC del valore di $16.000 in un programma \"Senti l'amore\" che ha aiutato 3100 persone",
-      "link": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "18/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Una coppia dell'Oregon che affronta difficoltà finanziarie può ora sopportare l'inverno in tutta comodità e \"tranquillità\" da quando è stato installato un nuovo sistema HVAC nella loro casa ..."
     },
     {
       "titolo": "L'aspirina a basso dosaggio è legata a un rischio di demenza inferiore del 70%, ma c'è un problema",
