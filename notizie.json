@@ -1,7 +1,43 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "Il piccolo gatto nero bloccato nel motore dell'auto porta una gioia inaspettata alla coppia con l'anniversario di matrimonio di Halloween",
+      "link": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "18/10/2026",
+      "categoria": "Animali",
+      "sommario": "Un'insegnante di liceo di Sandy Springs, in Georgia, ha ricevuto una sorpresa inaspettata mentre andava al lavoro all'inizio di questo mese. \"È stata una storia piuttosto selvaggia\", ha detto a GNN..."
+    },
+    {
+      "titolo": "Coppia in pensione sorpresa dal nuovo sistema HVAC del valore di $16.000 in un programma \"Senti l'amore\" che ha aiutato 3100 persone",
+      "link": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "18/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Una coppia dell'Oregon che affronta difficoltà finanziarie può ora sopportare l'inverno in tutta comodità e \"tranquillità\" da quando è stato installato un nuovo sistema HVAC nella loro casa ..."
+    },
+    {
+      "titolo": "I fisici creano un nuovo bizzarro stato quantistico chiamato mare frazionario dei fermi",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "18/10/2026",
+      "categoria": "Mondo",
+      "sommario": "I fisici hanno scoperto uno strano nuovo stato della materia quantistica in cui gli atomi ultrafreddi sfidano le regole organizzative familiari, formando un..."
+    },
+    {
+      "titolo": "Gli scienziati che hanno scoperto una terza forma di magnetismo vincono un importante premio in fisica",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "18/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "I fisici hanno scoperto una terza forma nascosta di magnetismo che sfida più di 100 anni di fisica consolidata. Chiamato altermagnetismo, la scoperta c..."
+    },
     {
       "titolo": "Grazie a una singola foto Instagram, scoperta in Colombia una ninfea gigante visibile dallo spazio (che è già in pericolo di estinzione)",
       "link": "https://www.greenme.it/ambiente/natura/grazie-a-una-singola-foto-instagram-scoperta-in-colombia-una-ninfea-gigante-visibile-dallo-spazio-che-e-gia-in-pericolo-di-estinzione/",
@@ -280,69 +316,6 @@
       "data": "19/10/2026",
       "categoria": "Mondo",
       "sommario": "Dal TEAM EDITORIALE OPTIMIST DAILY Un dispositivo australiano che divide l'energia solare sul tetto in un intero condominio ha appena vinto il desi..."
-    },
-    {
-      "titolo": "Il piccolo gatto nero bloccato nel motore dell'auto porta una gioia inaspettata alla coppia con l'anniversario di matrimonio di Halloween",
-      "link": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "18/10/2026",
-      "categoria": "Animali",
-      "sommario": "Un'insegnante di liceo di Sandy Springs, in Georgia, ha ricevuto una sorpresa inaspettata mentre andava al lavoro all'inizio di questo mese. \"È stata una storia piuttosto selvaggia\", ha detto a GNN..."
-    },
-    {
-      "titolo": "L’incredibile trasformazione di Odum, salvato dal crudele commercio degli orsi danzanti (e ribattezzato da Julia Roberts)",
-      "link": "https://www.greenme.it/animali/animali-selvatici/trasformazione-odum-salvato-commercio-orsi-danzanti/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Orso-Odum.jpg",
-      "data": "18/10/2026",
-      "categoria": "Mondo",
-      "sommario": "17 anni dopo il salvataggio in India, le organizzazioni International Animal Rescue e Wildlife SOS ci mostrano l’incredibile trasformazione e la straordinari..."
-    },
-    {
-      "titolo": "Scoperta un’ameba di fuoco capace di riprodursi oltre i 60 °C: l’organismo da record che sfida i limiti della vita sorprende gli scienziati",
-      "link": "https://www.greenme.it/scienza-e-tecnologia/scoperta-ameba-di-fuoco-da-record/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Lassen-Volcanic-National-Park.jpg",
-      "data": "18/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Nel Lassen Volcanic National Park è stata individuata una ameba di fuoco che si divide a 63°C e sopravvive brevemente fino a 70°C in laboratorio: cosa sappia..."
-    },
-    {
-      "titolo": "Coppia in pensione sorpresa dal nuovo sistema HVAC del valore di $16.000 in un programma \"Senti l'amore\" che ha aiutato 3100 persone",
-      "link": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "18/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Una coppia dell'Oregon che affronta difficoltà finanziarie può ora sopportare l'inverno in tutta comodità e \"tranquillità\" da quando è stato installato un nuovo sistema HVAC nella loro casa ..."
-    },
-    {
-      "titolo": "I fisici creano un nuovo bizzarro stato quantistico chiamato mare frazionario dei fermi",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "18/10/2026",
-      "categoria": "Mondo",
-      "sommario": "I fisici hanno scoperto uno strano nuovo stato della materia quantistica in cui gli atomi ultrafreddi sfidano le regole organizzative familiari, formando un..."
-    },
-    {
-      "titolo": "Gli scienziati che hanno scoperto una terza forma di magnetismo vincono un importante premio in fisica",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "18/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "I fisici hanno scoperto una terza forma nascosta di magnetismo che sfida più di 100 anni di fisica consolidata. Chiamato altermagnetismo, la scoperta c..."
-    },
-    {
-      "titolo": "Toscana: alla scoperta dei borghi medievali più belli della Lunigiana, attraversati dalla Via Francigena",
-      "link": "https://www.greenme.it/viaggi/italia/borghi-medievali-piu-belli-lunigiana/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Pontremoli-copertina.jpg",
-      "data": "18/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Il nostro viaggio in Lunigiana, una terra di confine incastonata tra le vette delle Alpi Apuane e i fitti boschi degli Appennini alla scoperta dei borghi di ..."
     }
   ]
 }
