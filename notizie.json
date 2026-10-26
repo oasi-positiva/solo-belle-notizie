@@ -1,7 +1,34 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Conclusi con successo a Enna i “RinnovaMente Days” di RWE: oltre 1.500 partecipanti tra laboratori, incontri e attività divulgative",
+      "link": "https://www.rinnovabili.it/mercato/le-aziende-informano/conclusi-con-successo-a-enna-i-rinnovamente-days-di-rwe-oltre-1-500-partecipanti-tra-laboratori-incontri-e-attivita-divulgative/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "26/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Coinvolti 1.000 studenti, istituzioni, imprese e cittadini in quattro giornate dedicate alla transizione energetica e allo sviluppo sostenibile del territori..."
+    },
+    {
+      "titolo": "Un laboratorio senza precedenti tra la Cina e il Met svela i segreti dell'enorme murale cinese a New York",
+      "link": "https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "19/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Un importante progetto di conservazione delle arti e del patrimonio in Cina ha dato vita a frutti inaspettati a migliaia di chilometri di distanza a New York City. Nell'arte e nell'antiquariato cinese..."
+    },
+    {
+      "titolo": "Piccoli vortici magnetici potrebbero aiutare i computer a funzionare più come il tuo cervello",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "26/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno filmato per la prima volta minuscoli vortici magnetici chiamati skyrmions che si sciolgono da un reticolo organizzato, rivelando nuovi modi per manipolarli..."
+    },
     {
       "titolo": "LA WEBCAM DAL VIVO ti porta all'interno della tana del ghepardo con 5 piccoli cuccioli accuditi dalla mamma (GUARDA e ASCOLTA)",
       "link": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
@@ -10,24 +37,6 @@
       "data": "25/10/2026",
       "categoria": "Animali",
       "sommario": "Il 5 ottobre, un ghepardo di nome Zura ha dato alla luce cinque adorabili cuccioli allo Smithsonian's Conservation Institute in Virginia - e puoi spiarli di notte e..."
-    },
-    {
-      "titolo": "Un laboratorio senza precedenti tra la Cina e il Met svela i segreti dell'enorme murale cinese a New York",
-      "link": "https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "19/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Un importante progetto di conservazione delle arti e del patrimonio in Cina ha dato vita a frutti inaspettati a migliaia di chilometri di distanza a New York City. Nell'arte e nell'antiquariato cinese..."
-    },
-    {
-      "titolo": "Gli scienziati vincono il premio Nobel 2026 per il controllo delle cellule cerebrali con la luce",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "19/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Una scoperta in piccole alghe ha portato a una svolta vincitrice del premio Nobel che consente agli scienziati di accendere e spegnere le cellule cerebrali usando la luce. La rivoluzionaria te..."
     },
     {
       "titolo": "53 oranghi salvati dagli incendi nel Borneo, con molti riavvolti in riserve forestali in tutta l'isola",
