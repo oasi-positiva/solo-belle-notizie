@@ -1,7 +1,34 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "LA WEBCAM DAL VIVO ti porta all'interno della tana del ghepardo con 5 piccoli cuccioli accuditi dalla mamma (GUARDA e ASCOLTA)",
+      "link": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "25/10/2026",
+      "categoria": "Animali",
+      "sommario": "Il 5 ottobre, un ghepardo di nome Zura ha dato alla luce cinque adorabili cuccioli allo Smithsonian's Conservation Institute in Virginia - e puoi spiarli di notte e..."
+    },
+    {
+      "titolo": "Un laboratorio senza precedenti tra la Cina e il Met svela i segreti dell'enorme murale cinese a New York",
+      "link": "https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "19/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Un importante progetto di conservazione delle arti e del patrimonio in Cina ha dato vita a frutti inaspettati a migliaia di chilometri di distanza a New York City. Nell'arte e nell'antiquariato cinese..."
+    },
+    {
+      "titolo": "Gli scienziati vincono il premio Nobel 2026 per il controllo delle cellule cerebrali con la luce",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "19/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Una scoperta in piccole alghe ha portato a una svolta vincitrice del premio Nobel che consente agli scienziati di accendere e spegnere le cellule cerebrali usando la luce. La rivoluzionaria te..."
+    },
     {
       "titolo": "53 oranghi salvati dagli incendi nel Borneo, con molti riavvolti in riserve forestali in tutta l'isola",
       "link": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
@@ -10,15 +37,6 @@
       "data": "25/10/2026",
       "categoria": "Mondo",
       "sommario": "Gli incendi boschivi e le torbiere continuano a bruciare in tutta l'isola del Borneo, mettendo in pericolo la qualità dell'aria sia per gli esseri umani che per la fauna selvatica e dando fuoco al cibo..."
-    },
-    {
-      "titolo": "Il piccolo gatto nero bloccato nel motore dell'auto porta una gioia inaspettata alla coppia con l'anniversario di matrimonio di Halloween",
-      "link": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "18/10/2026",
-      "categoria": "Animali",
-      "sommario": "Un'insegnante di liceo di Sandy Springs, in Georgia, ha ricevuto una sorpresa inaspettata mentre andava al lavoro all'inizio di questo mese. \"È stata una storia piuttosto selvaggia\", ha detto a GNN..."
     },
     {
       "titolo": "L'aspirina a basso dosaggio è legata a un rischio di demenza inferiore del 70%, ma c'è un problema",
@@ -280,69 +298,6 @@
       "data": "20/10/2026",
       "categoria": "Mondo",
       "sommario": "Oggi, 76 anni fa, Tom Petty nasceva a Gainesville, in Florida. All'età di 11 anni incontrò Elvis Presley, che scatenò il suo amore per il rock and roll. Come chitarra..."
-    },
-    {
-      "titolo": "Mentre lavorava il suo campo, un contadino trova una pietra rosa: era un pezzo di una colossale statua di Ramses II",
-      "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/mentre-lavorava-il-suo-campo-un-contadino-trova-una-pietra-rosa-era-un-pezzo-di-una-colossale-statua-di-ramses-ii/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/statua-Ramses-II.jpg",
-      "data": "19/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Nel delta del Nilo, una segnalazione casuale ha portato alla scoperta di due statue reali e un blocco iscritto antico"
-    },
-    {
-      "titolo": "Dai gusci d’ostrica nascono nuovi rifugi per i coralli: l’invenzione di tre giovani designer per ripristinare le barriere coralline",
-      "link": "https://www.greenme.it/scienza-e-tecnologia/innovazioni-e-green-tech/dai-gusci-dostrica-nascono-nuovi-rifugi-per-i-coralli-linvenzione-di-tre-giovani-designer-per-ripristinare-le-barriere-coralline/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/barriere-per-i-coralli-3d.jpg",
-      "data": "19/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Con Reefvive, gli scarti marini diventano rifugi per la biodiversità: nei test in mare sono sopravvissuti tutti i 28 coralli trapiantati"
-    },
-    {
-      "titolo": "Verso la COP31, Turchia discarica della plastica dismessa dell’UE",
-      "link": "https://www.rinnovabili.it/clima-e-ambiente/inquinamento/rifiuti-in-plastica-turchia-europa-cop31/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "19/10/2026",
-      "categoria": "Mondo",
-      "sommario": "La comodità di esportare i rifiuti rende difficile abbandonare il commercio internazionale del riciclo.\nL'articolo Verso la COP31, Turchia discarica della pl..."
-    },
-    {
-      "titolo": "Un laboratorio senza precedenti tra la Cina e il Met svela i segreti dell'enorme murale cinese a New York",
-      "link": "https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "19/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Un importante progetto di conservazione delle arti e del patrimonio in Cina ha dato vita a frutti inaspettati a migliaia di chilometri di distanza a New York City. Nell'arte e nell'antiquariato cinese..."
-    },
-    {
-      "titolo": "Gli scienziati vincono il premio Nobel 2026 per il controllo delle cellule cerebrali con la luce",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "19/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Una scoperta in piccole alghe ha portato a una svolta vincitrice del premio Nobel che consente agli scienziati di accendere e spegnere le cellule cerebrali usando la luce. La rivoluzionaria te..."
-    },
-    {
-      "titolo": "Un semplice tocco può riportare in vita i coralli morenti in sole 7 settimane",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261017230025.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "19/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno scoperto che i coralli fortemente sbiancati possono fare un notevole ritorno semplicemente toccando coralli sani e geneticamente identici. In laborato..."
-    },
-    {
-      "titolo": "Come un piccolo dispositivo sta risolvendo il problema dell'accesso solare nell'appartamento",
-      "link": "https://www.optimistdaily.com/2026/10/how-one-small-device-is-solving-the-apartment-solar-access-problem/",
-      "fonte": "Optimist Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "19/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Dal TEAM EDITORIALE OPTIMIST DAILY Un dispositivo australiano che divide l'energia solare sul tetto in un intero condominio ha appena vinto il desi..."
     }
   ]
 }
