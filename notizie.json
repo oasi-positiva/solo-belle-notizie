@@ -1,7 +1,52 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "Ficarra e Picone tornano al cinema! Svelato il trailer del nuovo film “La Notte delle Fragole” (con Vittoria Puccini)",
+      "link": "https://www.greenme.it/lifestyle/intrattenimento/ficarra-e-picone-tornano-trailer-nuovo-film/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Film-Ficarra-e-Picone.jpg",
+      "data": "26/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Ficarra e Picone tornano al cinema con “La Notte delle Fragole”, il nuovo film di Alessandro Genovesi che uscirà nelle sale il 26 novembre. Nel cast anche An..."
+    },
+    {
+      "titolo": "Difendono le ultime foreste incontaminate della Terra, rischiando la vita: chi sono i 6 eroi indigeni premiati dall’IUCN",
+      "link": "https://www.greenme.it/ambiente/difendono-le-ultime-foreste-incontaminate-della-terra-rischiando-la-vita-chi-sono-i-6-eroi-indigeni-premiati-dalliucn/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/indigena-Pirawan.jpg",
+      "data": "26/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Le foreste più preziose della Terra, rimaste incontaminate, hanno 6 nuovi ambasciatori, appena premiati dall'Unione Internazionale per la Conservazione della..."
+    },
+    {
+      "titolo": "Día de los Muertos: in Messico anche gli animali tornano a casa (e il 27 ottobre si prepara un altare per loro)",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/dia-de-los-muertos-animali/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Dia-de-los-Muertos-1.jpg",
+      "data": "26/10/2026",
+      "categoria": "Animali",
+      "sommario": "Durante le celebrazioni del Día de los Muertos, le famiglie messicane preparano altari in attesa della visita dei loro cari defunti. Naturalmente anche i lor..."
+    },
+    {
+      "titolo": "La piccola società storica dell'isola scozzese fa una scoperta massiccia",
+      "link": "https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "26/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un'isola scozzese è ora confermata come uno dei primi centri di evangelizzazione cristiana nelle isole britanniche grazie a una società storica di una piccola città..."
+    },
+    {
+      "titolo": "\"La sicurezza prima di tutto\" mentre gli ospiti del matrimonio sono bloccati sull'isola dopo la tempesta Boelo",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "26/10/2026",
+      "categoria": "Società",
+      "sommario": "Gli ospiti del matrimonio su un'isola nella contea di Fermanagh sono rimasti bloccati a causa della tempesta."
+    },
     {
       "titolo": "Conclusi con successo a Enna i “RinnovaMente Days” di RWE: oltre 1.500 partecipanti tra laboratori, incontri e attività divulgative",
       "link": "https://www.rinnovabili.it/mercato/le-aziende-informano/conclusi-con-successo-a-enna-i-rinnovamente-days-di-rwe-oltre-1-500-partecipanti-tra-laboratori-incontri-e-attivita-divulgative/",
@@ -10,15 +55,6 @@
       "data": "26/10/2026",
       "categoria": "Mondo",
       "sommario": "Coinvolti 1.000 studenti, istituzioni, imprese e cittadini in quattro giornate dedicate alla transizione energetica e allo sviluppo sostenibile del territori..."
-    },
-    {
-      "titolo": "Un laboratorio senza precedenti tra la Cina e il Met svela i segreti dell'enorme murale cinese a New York",
-      "link": "https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "19/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Un importante progetto di conservazione delle arti e del patrimonio in Cina ha dato vita a frutti inaspettati a migliaia di chilometri di distanza a New York City. Nell'arte e nell'antiquariato cinese..."
     },
     {
       "titolo": "Piccoli vortici magnetici potrebbero aiutare i computer a funzionare più come il tuo cervello",
