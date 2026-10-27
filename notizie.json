@@ -3,6 +3,42 @@
   "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
     {
+      "titolo": "BES 2026, benessere equo e sostenibile? Per Istat 1 su 10 rinuncia alle cure (e al Sud lavorano solo 4 donne su 10)",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/bes-2026-benessere-equo-e-sostenibile-per-istat-1-su-10-rinuncia-alle-cure-e-al-sud-lavorano-solo-4-donne-su-10/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Istat-BES-2026.jpg",
+      "data": "27/10/2026",
+      "categoria": "Salute",
+      "sommario": "Il rapporto BES 2026 fotografa un Paese più longevo, dove curarsi, lavorare e ottenere servizi affidabili dipendono ancora dal territorio"
+    },
+    {
+      "titolo": "E se potessi partire all’estero gratis per proteggere la natura, fare teatro o aiutare le comunità? Con il volontariato europeo puoi farlo: ecco come candidarti",
+      "link": "https://www.greenme.it/viaggi/europa/e-se-potessi-partire-allestero-gratis-per-proteggere-la-natura-fare-teatro-o-aiutare-le-comunita-con-il-volontariato-europeo-puoi-farlo-ecco-come-candidarti/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Volontariato-europeo.jpg",
+      "data": "27/10/2026",
+      "categoria": "Animali",
+      "sommario": "E se i soldi non fossero un ostacolo per partire? Con il Corpo europeo di solidarietà puoi fare volontariato all’estero, con viaggio, vitto, alloggio e assic..."
+    },
+    {
+      "titolo": "La squadra di baseball delle scuole superiori ha tutte le vibrazioni del successo ma non ha mai vinto una partita: ai bambini non importa",
+      "link": "https://www.goodnewsnetwork.org/high-school-baseball-team-has-all-the-vibes-of-success-but-never-won-a-game-kids-dont-mind/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "27/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Si potrebbe dire che è una storia molto canadese: che i Dartmouth High School Spartans non vincono una partita di baseball da 6 anni, eppure si sentono ancora vincitori. Wat..."
+    },
+    {
+      "titolo": "Una scoperta di 1,9 milioni di anni fa riscrive la storia dell'evoluzione umana",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "27/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Nuove prove suggeriscono che i primi esseri umani raggiunsero la Valle del Giordano almeno 1,9 milioni di anni fa, centinaia di migliaia di anni prima di quanto gli scienziati prev..."
+    },
+    {
       "titolo": "L’orrore dietro il traffico illegale di cuccioli: vi racconto l’incubo vissuto col mio cane (e perché bisogna denunciare)",
       "link": "https://www.greenme.it/pet/cani/lorrore-dietro-il-traffico-di-cuccioli-dallest-vi-racconto-lincubo-vissuto-col-mio-cane-e-perche-bisogna-denunciare/",
       "fonte": "GreenMe",
@@ -19,15 +55,6 @@
       "data": "27/10/2026",
       "categoria": "Mondo",
       "sommario": "A Energyear 2026 parla Ramon Ibarra (Clenergy): l’Italia mercato strategico tra crescita dei progetti sul territorio, sfide normative e innovazione tecnologi..."
-    },
-    {
-      "titolo": "Gli astronomi scoprono nuovi segreti dei primi cinque minuti dell'Universo",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "20/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno raggiunto un importante passo avanti nella comprensione dei primi momenti dell'Universo, misurando la quantità di elio formata nei primi cinque minuti..."
     },
     {
       "titolo": "Ficarra e Picone tornano al cinema! Svelato il trailer del nuovo film “La Notte delle Fragole” (con Vittoria Puccini)",
