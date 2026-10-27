@@ -1,7 +1,34 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
   "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "L'uomo propone alla sua ragazza dopo che sono stati colpiti da un fulmine: ha riavviato il cuore due volte",
+      "link": "https://www.goodnewsnetwork.org/man-proposes-to-his-girlfriend-after-they-were-struck-by-lightning-she-restarted-his-heart-twice/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "20/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Nick Broderick descrive il momento in cui ha deciso di sposare la sua fidanzata Eva come elettrico: è stato come se fosse stato colpito da un fulmine. A parte il linguaggio dell'amore, è..."
+    },
+    {
+      "titolo": "Buone notizie nella storia, 20 ottobre",
+      "link": "https://www.goodnewsnetwork.org/events061020/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "20/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Oggi, 76 anni fa, Tom Petty nasceva a Gainesville, in Florida. All'età di 11 anni incontrò Elvis Presley, che scatenò il suo amore per il rock and roll. Come chitarra..."
+    },
+    {
+      "titolo": "Gli astronomi scoprono nuovi segreti dei primi cinque minuti dell'Universo",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "20/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno raggiunto un importante passo avanti nella comprensione dei primi momenti dell'Universo, misurando la quantità di elio formata nei primi cinque minuti..."
+    },
     {
       "titolo": "Ficarra e Picone tornano al cinema! Svelato il trailer del nuovo film “La Notte delle Fragole” (con Vittoria Puccini)",
       "link": "https://www.greenme.it/lifestyle/intrattenimento/ficarra-e-picone-tornano-trailer-nuovo-film/",
@@ -280,69 +307,6 @@
       "data": "21/10/2026",
       "categoria": "Animali",
       "sommario": "L '\"approccio a lungo termine di Wimpole al recupero della natura\" ha visto più di 5.000 specie registrate."
-    },
-    {
-      "titolo": "L’Italia vince la gara mondiale delle papere di plastica: per celebrare l’ambiente le hanno fatte gareggiare in un fiume",
-      "link": "https://www.greenme.it/ambiente/mondiale-papere-galleggianti/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Mondiale-papere-galleggianti.jpg",
-      "data": "20/10/2026",
-      "categoria": "Mondo",
-      "sommario": "L'Italia vince il Mondiale di papere galleggianti sul fiume Aterno in Abruzzo battendo la Francia. Un evento benefico e pensato per la tutela dell’ambiente e..."
-    },
-    {
-      "titolo": "Transizione energetica, allarme rame: deficit al 44% entro il 2050. Servono 332 miliardi di dollari",
-      "link": "https://www.rinnovabili.it/mercato/economia-e-finanza/transizione-energetica-deficit-rame/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "20/10/2026",
-      "categoria": "Mondo",
-      "sommario": "BloombergNEF prevede un deficit di rame pari al 44% della domanda globale entro il 2050, con un divario di 20 milioni di tonnellate che richiederà 332 miliar..."
-    },
-    {
-      "titolo": "L'uomo propone alla sua ragazza dopo che sono stati colpiti da un fulmine: ha riavviato il cuore due volte",
-      "link": "https://www.goodnewsnetwork.org/man-proposes-to-his-girlfriend-after-they-were-struck-by-lightning-she-restarted-his-heart-twice/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "20/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Nick Broderick descrive il momento in cui ha deciso di sposare la sua fidanzata Eva come elettrico: è stato come se fosse stato colpito da un fulmine. A parte il linguaggio dell'amore, è..."
-    },
-    {
-      "titolo": "Gli astronomi scoprono nuovi segreti dei primi cinque minuti dell'Universo",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "20/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno raggiunto un importante passo avanti nella comprensione dei primi momenti dell'Universo, misurando la quantità di elio formata nei primi cinque minuti..."
-    },
-    {
-      "titolo": "Gli scienziati raggiungono il limite quantico massimo su una superficie",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "20/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno raggiunto una svolta quantistica creando una superficie ultra pulita in cui le singole molecole possono mantenere le loro delicate proprietà quantistiche..."
-    },
-    {
-      "titolo": "La UE investe 3,4 miliardi di euro nell’innovazione tecnologica per tagliare le emissioni: i 3 progetti italiani selezionati",
-      "link": "https://www.greenme.it/scienza-e-tecnologia/innovazioni-e-green-tech/la-ue-investe-34-miliardi-di-euro-innovazione-tecnologica-per-tagliare-le-emissioni-i-3-progetti-italiani-selezionati/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/progetti-UE-premiati.jpg",
-      "data": "20/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "L’Europa seleziona tre progetti in Italia per tagliare le emissioni: dalle navi ad ammoniaca verde all’idrogeno"
-    },
-    {
-      "titolo": "Buone notizie nella storia, 20 ottobre",
-      "link": "https://www.goodnewsnetwork.org/events061020/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "20/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Oggi, 76 anni fa, Tom Petty nasceva a Gainesville, in Florida. All'età di 11 anni incontrò Elvis Presley, che scatenò il suo amore per il rock and roll. Come chitarra..."
     }
   ]
 }
