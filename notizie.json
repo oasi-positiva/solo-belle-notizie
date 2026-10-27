@@ -1,7 +1,16 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
   "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Il mistero del suolo sterile che “respira” e consuma ossigeno: la scoperta che sorprende anche gli scienziati",
+      "link": "https://www.greenme.it/ambiente/il-mistero-del-suolo-sterile-che-respira-e-consuma-ossigeno-la-scoperta-che-sorprende-anche-gli-scienziati/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/06/terra-che-respira.jpg",
+      "data": "27/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un esperimento su terreno sterilizzato mostra reazioni chimiche capaci di consumare ossigeno e produrre CO₂ per anni"
+    },
     {
       "titolo": "BES 2026, benessere equo e sostenibile? Per Istat 1 su 10 rinuncia alle cure (e al Sud lavorano solo 4 donne su 10)",
       "link": "https://www.greenme.it/lifestyle/costume-e-societa/bes-2026-benessere-equo-e-sostenibile-per-istat-1-su-10-rinuncia-alle-cure-e-al-sud-lavorano-solo-4-donne-su-10/",
