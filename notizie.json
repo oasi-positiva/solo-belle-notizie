@@ -1,7 +1,34 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "Scoperto in una grotta cinese un animale senza occhi: si è adattato a vivere completamente al buio",
+      "link": "https://www.greenme.it/ambiente/natura/scoperto-in-una-grotta-cinese-un-animale-senza-occhi-si-e-adattato-a-vivere-completamente-al-buio/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Erhaia-dijiang.jpg",
+      "data": "28/10/2026",
+      "categoria": "Animali",
+      "sommario": "In Cina scoperta una lumaca senza occhi: vive in una grotta a oltre 2.000 metri e porta il nome di una divinità"
+    },
+    {
+      "titolo": "Un bizzarro salvataggio vede i sub salvare un canguro che si è trovato a oltre un miglio dalla terraferma",
+      "link": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "28/10/2026",
+      "categoria": "Mondo",
+      "sommario": "In una storia troppo \"australiana\" per essere creduta, un subacqueo e il suo equipaggio hanno salvato un canguro a oltre un miglio e mezzo dal mare. Notato in un primo momento dal capitano ..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono un sistema vulcanico nascosto di 100 milioni di anni",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "28/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto un sistema vulcanico perduto da tempo in Iran che risale a circa 100 milioni di anni fa, rivelando un capitolo nascosto nell'isto tettonico della Terra..."
+    },
     {
       "titolo": "Positive News lancia un nuovo podcast video che esplora ciò che sta andando bene nel mondo",
       "link": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
@@ -28,15 +55,6 @@
       "data": "28/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Un nuovo importante studio rivela che il cervello dei bambini autistici si comporta in modo diverso e che queste differenze possono iniziare prima di quanto gli scienziati pensassero in precedenza..."
-    },
-    {
-      "titolo": "Un treno è stato ritardato da una tempesta solare. Ma qualcosa non quadrava.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "21/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno risolto un mistero di 178 anni che circonda un treno ritardato da una tempesta solare, rivelando che il famoso incidente è avvenuto nel 1848 piuttosto che..."
     },
     {
       "titolo": "Il mistero del suolo sterile che “respira” e consuma ossigeno: la scoperta che sorprende anche gli scienziati",
