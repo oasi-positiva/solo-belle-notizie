@@ -1,7 +1,25 @@
 {
   "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "\"Scrivere è un modo di affrontare le cose\"",
+      "link": "https://www.positive.news/lifestyle/arts/writing-is-a-way-of-dealing-with-things-ian-rankin/",
+      "fonte": "Positive News",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "21/10/2026",
+      "categoria": "Mondo",
+      "sommario": "L'autore scozzese Ian Rankin parla di dare un senso alle esperienze difficili attraverso la narrativa e di dare via una parte del suo successo \nIl post \"Scrivere è un ..."
+    },
+    {
+      "titolo": "Un treno è stato ritardato da una tempesta solare. Ma qualcosa non quadrava.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "21/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno risolto un mistero di 178 anni che circonda un treno ritardato da una tempesta solare, rivelando che il famoso incidente è avvenuto nel 1848 piuttosto che..."
+    },
     {
       "titolo": "Il mistero del suolo sterile che “respira” e consuma ossigeno: la scoperta che sorprende anche gli scienziati",
       "link": "https://www.greenme.it/ambiente/il-mistero-del-suolo-sterile-che-respira-e-consuma-ossigeno-la-scoperta-che-sorprende-anche-gli-scienziati/",
@@ -280,69 +298,6 @@
       "data": "22/10/2026",
       "categoria": "Animali",
       "sommario": "Solo un anno dopo gli sforzi di ripristino ecologico delle Samoa, le foreste, la fauna selvatica e le risorse alimentari stanno mostrando notevoli segni di ripresa. Isola Nu' utele..."
-    },
-    {
-      "titolo": "Salvano un minuscolo pipistrello a rischio estinzione (dal peso di 6 grammi): guarda il suo emozionante ritorno in libertà",
-      "link": "https://www.greenme.it/animali/animali-selvatici/pipistrello-in-pericolo-critico-salvato/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Pipistrello-salvato.jpg",
-      "data": "21/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Un raro pipistrello in pericolo critico a causa della sindrome del naso bianco è stato salvato e liberato in Pennsylvania grazie alla collaborazione tra due ..."
-    },
-    {
-      "titolo": "Un treno è stato ritardato da una tempesta solare. Ma qualcosa non quadrava.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "21/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno risolto un mistero di 178 anni che circonda un treno ritardato da una tempesta solare, rivelando che il famoso incidente è avvenuto nel 1848 piuttosto che..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono una creatura spettrale e senza occhi nascosta in una grotta cinese",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261019093445.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "21/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Nel profondo di una grotta cinese ad alta quota, gli scienziati hanno scoperto una lumaca d'acqua dolce spettrale e senza occhi che si è evoluta per vivere interamente nell'oscurità,..."
-    },
-    {
-      "titolo": "COP17, sono i popoli indigeni a salvare la biodiversità: queste storie dimostrano perché il mondo deve ascoltarli",
-      "link": "https://www.greenme.it/ambiente/natura/cop17-sono-i-popoli-indigeni-a-salvare-la-biodiversita-queste-storie-dimostrano-perche-il-mondo-deve-ascoltarli/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/indigeni_biodiversita.jpg",
-      "data": "21/10/2026",
-      "categoria": "Animali",
-      "sommario": "Dalle foreste protette dell'India alle antiche varietà di riso capaci di resistere alla salinità: alla Conferenza ONU sulla biodiversità di Yerevan arriva un..."
-    },
-    {
-      "titolo": "\"Scrivere è un modo di affrontare le cose\"",
-      "link": "https://www.positive.news/lifestyle/arts/writing-is-a-way-of-dealing-with-things-ian-rankin/",
-      "fonte": "Positive News",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "21/10/2026",
-      "categoria": "Mondo",
-      "sommario": "L'autore scozzese Ian Rankin parla di dare un senso alle esperienze difficili attraverso la narrativa e di dare via una parte del suo successo \nIl post \"Scrivere è un ..."
-    },
-    {
-      "titolo": "La turbina eolica più alta del mondo raggiunge 1.197 piedi in Germania",
-      "link": "https://www.optimistdaily.com/2026/10/worlds-tallest-wind-turbine-reaches-1197-feet-in-germany/",
-      "fonte": "Optimist Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "21/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Dal TEAM EDITORIALE OPTIMIST DAILY La turbina eolica più alta del mondo ha appena raggiunto la piena altezza in Germania. La turbina pilota di GICON a Schipkau, nella Germania orientale..."
-    },
-    {
-      "titolo": "La tenuta registra \"abbondanza\" di fauna selvatica nonostante la siccità",
-      "link": "https://www.bbc.co.uk/news/articles/crgqw4lg3y83o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "21/10/2026",
-      "categoria": "Animali",
-      "sommario": "L '\"approccio a lungo termine di Wimpole al recupero della natura\" ha visto più di 5.000 specie registrate."
     }
   ]
 }
