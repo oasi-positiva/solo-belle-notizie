@@ -1,21 +1,39 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
   "notizie": [
     {
-      "titolo": "\"Scrivere è un modo di affrontare le cose\"",
-      "link": "https://www.positive.news/lifestyle/arts/writing-is-a-way-of-dealing-with-things-ian-rankin/",
+      "titolo": "Positive News lancia un nuovo podcast video che esplora ciò che sta andando bene nel mondo",
+      "link": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
       "fonte": "Positive News",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "21/10/2026",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "28/10/2026",
       "categoria": "Mondo",
-      "sommario": "L'autore scozzese Ian Rankin parla di dare un senso alle esperienze difficili attraverso la narrativa e di dare via una parte del suo successo \nIl post \"Scrivere è un ..."
+      "sommario": "La serie What Went Right si sta espandendo su YouTube e altre piattaforme di podcast, portando la sua carrellata settimanale di progressi a un nuovo pubblico\nIl post Positive Ne..."
+    },
+    {
+      "titolo": "Ti presentiamo Vivian Ho: la diciassettenne che ha costruito una rete di approvvigionamento intorno alla dignità, non alla carità",
+      "link": "https://www.optimistdaily.com/2026/10/meet-vivian-ho-the-17-year-old-who-built-a-supply-network-around-dignity-not-charity/",
+      "fonte": "Optimist Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "28/10/2026",
+      "categoria": "Mondo",
+      "sommario": "DA parte DEL TEAM EDITORIALE Optimist Daily Questo articolo fa parte della serie The Optimist Daily's Local Changemakers 2026, che mette in luce i changemaker dai 30 anni in su. Mos..."
+    },
+    {
+      "titolo": "Il cervello autistico elabora i volti in modo diverso da quanto pensassero gli scienziati",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "28/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un nuovo importante studio rivela che il cervello dei bambini autistici si comporta in modo diverso e che queste differenze possono iniziare prima di quanto gli scienziati pensassero in precedenza..."
     },
     {
       "titolo": "Un treno è stato ritardato da una tempesta solare. Ma qualcosa non quadrava.",
       "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "21/10/2026",
       "categoria": "Mondo",
       "sommario": "Gli scienziati hanno risolto un mistero di 178 anni che circonda un treno ritardato da una tempesta solare, rivelando che il famoso incidente è avvenuto nel 1848 piuttosto che..."
