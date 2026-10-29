@@ -1,15 +1,24 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
   "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
     {
-      "titolo": "L'isola di Samoa assiste all'esplosione della fauna selvatica nativa dopo la rimozione di ratti e maiali invasivi",
-      "link": "https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "22/10/2026",
+      "titolo": "A Roma una statua per Dox, il più leggendario cane poliziotto italiano (che ha catturato criminali e salvato vite)",
+      "link": "https://www.greenme.it/pet/cani/statua-per-dox-cane-poliziotto/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Statua-Dox.jpg",
+      "data": "29/10/2026",
       "categoria": "Animali",
-      "sommario": "Solo un anno dopo gli sforzi di ripristino ecologico delle Samoa, le foreste, la fauna selvatica e le risorse alimentari stanno mostrando notevoli segni di ripresa. Isola Nu' utele..."
+      "sommario": "Inaugurata a Roma la statua per Dox, il leggendario cane poliziotto della Squadra Mobile che tra dopoguerra e anni Sessanta è diventato un eroe. Salvò anche ..."
+    },
+    {
+      "titolo": "Gli scienziati hanno appena infranto una regola della fisica da manuale",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "29/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno sfidato una regola di lunga data della fisica del laser generando raggi X con energie molto più elevate di quanto previsto dalla teoria convenzionale. La sorprendente..."
     },
     {
       "titolo": "Il fluido che “immagazzina il Sole” per mesi: la scoperta che potrebbe rivoluzionare l’accumulo di energia",
