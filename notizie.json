@@ -1,7 +1,16 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "L'isola di Samoa assiste all'esplosione della fauna selvatica nativa dopo la rimozione di ratti e maiali invasivi",
+      "link": "https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "22/10/2026",
+      "categoria": "Animali",
+      "sommario": "Solo un anno dopo gli sforzi di ripristino ecologico delle Samoa, le foreste, la fauna selvatica e le risorse alimentari stanno mostrando notevoli segni di ripresa. Isola Nu' utele..."
+    },
     {
       "titolo": "Il fluido che “immagazzina il Sole” per mesi: la scoperta che potrebbe rivoluzionare l’accumulo di energia",
       "link": "https://www.greenme.it/energia/il-fluido-che-immagazzina-il-sole-per-mesi-la-scoperta-che-potrebbe-rivoluzionare-laccumulo-di-energia/",
@@ -318,15 +327,6 @@
       "sommario": "Nel profondo della caldera giapponese di Kikai, un enorme serbatoio di magma si sta riempiendo 7.300 anni dopo una delle più potenti eruzioni vulcaniche nella recente ge..."
     },
     {
-      "titolo": "Dog Photography Awards 2026: trionfa un Pitbull salvato dall’eutanasia (e la foto lancia un messaggio contro i pregiudizi)",
-      "link": "https://www.greenme.it/lifestyle/arte-e-cultura/dog-photography-awards-2026-trionfa-il-pitbull-destinato-alleutanasia-e-la-foto-lancia-un-potente-messaggio/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/dog-of-the-year-26-2.jpg",
-      "data": "22/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Katie Brockman è Dog Photographer of the Year 2026 con il ritratto del suo pitbull Caldwell, con una corona e un collare coperti di veri titoli di giornale p..."
-    },
-    {
       "titolo": "Inaugurato a Storo il nuovo impianto H2_POLYTECH per la produzione di idrogeno verde: innovazione, industria e sostenibilità al servizio del territorio",
       "link": "https://www.rinnovabili.it/energia/idrogeno/idrogeno-verde-storo-impianto-h2_polytech/",
       "fonte": "Rinnovabili.it",
@@ -334,15 +334,6 @@
       "data": "23/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Realizzato all’interno di un’area industriale dismessa, H2_Polytec è tra i progetti selezionati nell’ambito del bando promosso dalla Provincia Autonoma di Tr..."
-    },
-    {
-      "titolo": "L'isola di Samoa assiste all'esplosione della fauna selvatica nativa dopo la rimozione di ratti e maiali invasivi",
-      "link": "https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "22/10/2026",
-      "categoria": "Animali",
-      "sommario": "Solo un anno dopo gli sforzi di ripristino ecologico delle Samoa, le foreste, la fauna selvatica e le risorse alimentari stanno mostrando notevoli segni di ripresa. Isola Nu' utele..."
     }
   ]
 }
