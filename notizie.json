@@ -1,7 +1,43 @@
 {
   "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
+    {
+      "titolo": "Quanti rifiuti in plastica produci ogni anno? Questi sono gli Stati europei che li riciclano di più",
+      "link": "https://www.greenme.it/ambiente/rifiuti-e-riciclaggio/quanti-rifiuti-in-plastica-produci-ogni-anno-questi-sono-gli-stati-europei-che-li-riciclano-di-piu/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/riciclo-imballaggi-plastica-classifica-Eurostat.jpg",
+      "data": "29/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Nel 2024 ogni europeo ha generato 35,9 chili di rifiuti da imballaggi plastici: Italia sesta per riciclo, seconda per tonnellate"
+    },
+    {
+      "titolo": "In un ospedale del Congo i medici ballano per festeggiare l’ultima paziente guarita dall’Ebola: si accende la speranza (ma l’epidemia continua)",
+      "link": "https://www.greenme.it/salute-e-alimentazione/salute/in-un-ospedale-del-congo-i-medici-ballano-per-festeggiare-lultima-paziente-guarita-dallebola-si-accende-la-speranza-ma-lepidemia-continua/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/medici-festeggiano-guarigione-ebola.jpg",
+      "data": "29/10/2026",
+      "categoria": "Mondo",
+      "sommario": "In Congo la guarigione dell’ultima paziente affetta da Ebola diventa una grande festa nell'ospedale di Mongbwalu. I medici e il personale sanitario ballano, ..."
+    },
+    {
+      "titolo": "Il ghiaccio di 128.000 anni in Tibet potrebbe riscrivere la storia del clima",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "29/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Antichi ghiacci scoperti in alto in Tibet potrebbero avere più di 128.000 anni, preservando una straordinaria testimonianza del clima terrestre che gli scienziati in precedenza..."
+    },
+    {
+      "titolo": "Un singolo segnale cerebrale può spiegare i sintomi più sconcertanti della schizofrenia",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "29/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno identificato un segnale cerebrale indebolito che può collegare diversi sintomi apparentemente non correlati della schizofrenia, tra cui l'elaborazione sensoriale diffi..."
+    },
     {
       "titolo": "A Roma una statua per Dox, il più leggendario cane poliziotto italiano (che ha catturato criminali e salvato vite)",
       "link": "https://www.greenme.it/pet/cani/statua-per-dox-cane-poliziotto/",
