@@ -10,17 +10,13 @@ from datetime import datetime, timedelta, timezone
 from time import mktime, sleep
 from deep_translator import GoogleTranslator
 
-# Fonti dedicate a buone notizie, scienza, ambiente, animali e innovazione
 FEEDS = [
-    # Fonti Italiane Tematiche
     {"nome": "ANSA Scienza", "url": "https://www.ansa.it/canale_scienza_tecnica/notizie/scienza_tecnica_rss.xml", "lingua": "it"},
     {"nome": "ANSA Ambiente", "url": "https://www.ansa.it/canale_ambiente/notizie/ambiente_rss.xml", "lingua": "it"},
     {"nome": "Focus", "url": "https://www.focus.it/rss/tutte-le-notizie", "lingua": "it"},
     {"nome": "Wired Italia", "url": "https://www.wired.it/feed/rss", "lingua": "it"},
     {"nome": "GreenMe", "url": "https://www.greenme.it/feed/", "lingua": "it"},
     {"nome": "Rinnovabili.it", "url": "https://www.rinnovabili.it/feed/", "lingua": "it"},
-    
-    # Fonti Internazionali di Notizie Positive e Costruttive
     {"nome": "Good News Network", "url": "https://www.goodnewsnetwork.org/feed/", "lingua": "en"},
     {"nome": "Positive News", "url": "https://www.positive.news/feed/", "lingua": "en"},
     {"nome": "Optimist Daily", "url": "https://www.optimistdaily.com/feed/", "lingua": "en"},
@@ -37,7 +33,7 @@ CITAZIONI = [
     "Prenditi una pausa. Il mondo può aspettare. ☕"
 ]
 
-CURIOSITA = [
+CURIOSITA_FALLBACK = [
     "Sapevi che le mucche hanno migliori amiche e si rilassano quando sono vicine?",
     "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
     "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
@@ -52,7 +48,6 @@ IMMAGINI_FALLBACK = [
     "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80"
 ]
 
-# Parole positive rigorose (rimossi termini ambigui come 'aiuto', 'accordo', 'crescita', 'speranza')
 PAROLE_POSITIVE_IT = [
     'scoperta', 'successo', 'guarigione', 'vittoria', 'innovazione', 
     'progresso', 'traguardo', 'solidarietà', 'miracolo', 'donazione', 
@@ -101,17 +96,13 @@ CATEGORIE = {
 
 def analizza_notizia(testo, lingua):
     testo = testo.lower()
-    if lingua == "en":
-        positive, negative = PAROLE_POSITIVE_EN, PAROLE_NEGATIVE_EN
-    else:
-        positive, negative = PAROLE_POSITIVE_IT, PAROLE_NEGATIVE_IT
+    positive = PAROLE_POSITIVE_EN if lingua == "en" else PAROLE_POSITIVE_IT
+    negative = PAROLE_NEGATIVE_EN if lingua == "en" else PAROLE_NEGATIVE_IT
 
-    # Blocco immediato se presente qualsiasi parola negativa
     for parola in negative:
         if re.search(rf'\b{parola}', testo):
             return False
 
-    # Accettazione se presente almeno una parola esplicitamente positiva
     for parola in positive:
         if re.search(rf'\b{parola}\b', testo):
             return True
@@ -152,6 +143,26 @@ def traduci_testo_sicuro(testo, lingua_origine):
         
     return testo
 
+def recupera_curiosita_dinamica():
+    try:
+        url = "https://uselessfacts.jsph.pl/api/v2/facts/random?language=en"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        response = urllib.request.urlopen(req, timeout=8)
+        data = json.loads(response.read().decode('utf-8'))
+        fatto_originale = data.get('text', '').strip()
+        
+        testo_check = fatto_originale.lower()
+        contiene_negativo = any(re.search(rf'\b{parola}', testo_check) for parola in PAROLE_NEGATIVE_EN)
+        
+        if fatto_originale and not contiene_negativo:
+            fatto_tradotto = traduci_testo_sicuro(fatto_originale, 'en')
+            if fatto_tradotto and fatto_tradotto != fatto_originale:
+                return fatto_tradotto
+    except Exception as e:
+        print(f"Errore recupero curiosità esterna: {e}")
+        
+    return random.choice(CURIOSITA_FALLBACK)
+
 def estrai_immagine(entry):
     if 'media_content' in entry:
         for media in entry.media_content:
@@ -167,8 +178,7 @@ def pulisci_anteprima(testo):
     if not testo: return ""
     testo_pulito = re.sub(r'<[^>]+>', '', testo)
     testo_pulito = html.unescape(testo_pulito)
-    testo_pulito = testo_pulito.strip()
-    return testo_pulito
+    return testo_pulito.strip()
 
 print("Inizio scansione feed tematici...")
 notizie_salvate = []
@@ -187,7 +197,7 @@ if os.path.exists('notizie.json'):
                 if data_str != 'Data sconosciuta':
                     try:
                         dt_notizia = datetime.strptime(data_str, "%d/%m/%Y").replace(tzinfo=timezone.utc)
-                        if dt_notizia < limite_temporale:
+                        if dt_notizia < limite_temporale: 
                             mantieni = False
                     except Exception:
                         pass
@@ -207,7 +217,6 @@ for feed_info in FEEDS:
             link = entry.get('link', '')
             titolo_originale = entry.get('title', '')
             sommario_originale = entry.get('summary', entry.get('description', ''))
-            
             testo_completo = titolo_originale + " " + sommario_originale
 
             if not link or link in link_visti: 
@@ -256,13 +265,15 @@ for feed_info in FEEDS:
 
 notizie_totali = nuove_notizie + notizie_salvate
 
+curiosita_finale = recupera_curiosita_dinamica()
+
 dati_finali = {
     "citazione": random.choice(CITAZIONI),
-    "curiosita": random.choice(CURIOSITA),
+    "curiosita": curiosita_finale,
     "notizie": notizie_totali
 }
 
 with open('notizie.json', 'w', encoding='utf-8') as f:
     json.dump(dati_finali, f, ensure_ascii=False, indent=2)
 
-print(f"Scansione terminata. Nuove: {len(nuove_notizie)}. Totali: {len(notizie_totali)}")
+print(f"Scansione completata. Nuove: {len(nuove_notizie)}. Totali: {len(notizie_totali)}. Curiosità generata: {curiosita_finale}")
