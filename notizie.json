@@ -1,33 +1,24 @@
 {
   "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "curiosita": "Il motto di IBM è \"Think\". Apple in seguito ha reso il loro motto \"Think different\".",
   "notizie": [
+    {
+      "titolo": "Poliziotti trovano una gattina nera che miagola disperata nella volante e la salvano: poi arriva l’adozione inaspettata",
+      "link": "https://www.greenme.it/pet/gatti/poliziotti-trovano-gattina-volante/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Sora-gatto-Polizia.jpg",
+      "data": "30/10/2026",
+      "categoria": "Animali",
+      "sommario": "Insolita scoperta al Commissariato di Sora: una gattina di poche settimane nascosta nell'auto di servizio. Accudita dagli agenti, la piccola Zara è stata ado..."
+    },
     {
       "titolo": "3 \"Hobbit\" italiani hanno cercato l'anello nuziale \"prezioso\" dell'irlandese per giorni prima di portarlo a casa sua",
       "link": "https://www.goodnewsnetwork.org/3-italian-hobbits-searched-for-irishmans-precious-wedding-ring-for-days-before-bringing-it-to-his-home/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
       "data": "23/10/2026",
       "categoria": "Mondo",
       "sommario": "La disgrazia di un uomo in vacanza si è trasformata in una storia adatta a un romanzo fantasy, quando perfetti sconosciuti sono venuti in suo soccorso ispirati al Signore degli Anelli. Los..."
-    },
-    {
-      "titolo": "Le viti producono uve da vino più grandi e più sane se coltivate sotto pannelli solari",
-      "link": "https://www.goodnewsnetwork.org/vines-produce-bigger-healthier-wine-grapes-when-grown-under-solar-panels/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "23/10/2026",
-      "categoria": "Mondo",
-      "sommario": "I pannelli solari coltivati sopra le viti hanno sostanzialmente aumentato lo sviluppo e la produzione di frutta della coltura, il tutto generando energia pulita. La tecnica..."
-    },
-    {
-      "titolo": "Uno dei supervulcani più potenti della Terra si sta riempiendo di magma fresco",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "23/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Nel profondo della caldera giapponese di Kikai, un enorme serbatoio di magma si sta riempiendo 7.300 anni dopo una delle più potenti eruzioni vulcaniche nella recente ge..."
     },
     {
       "titolo": "Quanti rifiuti in plastica produci ogni anno? Questi sono gli Stati europei che li riciclano di più",
