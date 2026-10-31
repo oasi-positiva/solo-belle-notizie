@@ -1,7 +1,16 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "C'è una città a Terranova, in Canada, chiamata Dildo.",
   "notizie": [
+    {
+      "titolo": "Gli scienziati scoprono un interruttore nascosto che brucia il grasso e blocca nuove cellule adipose",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "24/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto che lo spegnimento di una proteina chiamata Mitch fa bruciare più grasso alle cellule umane e impedisce lo sviluppo di nuove cellule adipose. Il breakthr..."
+    },
     {
       "titolo": "Non dobbiamo essere sempre felici: in Umbria c’è un festival che celebra la malinconia (e ci invita a riscoprirla)",
       "link": "https://www.greenme.it/ambiente/eventi-e-iniziative/non-dobbiamo-essere-sempre-felici-in-umbria-ce-un-festival-che-celebra-la-malinconia-e-ci-invita-a-riscoprirla/",
@@ -370,33 +379,6 @@
       "data": "25/10/2026",
       "categoria": "Animali",
       "sommario": "Un rapporto che segna i 10 anni dell'Isola di Man come Biosfera dell'UNESCO evidenzia i progressi del programma."
-    },
-    {
-      "titolo": "Grazie a una singola foto Instagram, scoperta in Colombia una ninfea gigante visibile dallo spazio (che è già in pericolo di estinzione)",
-      "link": "https://www.greenme.it/ambiente/natura/grazie-a-una-singola-foto-instagram-scoperta-in-colombia-una-ninfea-gigante-visibile-dallo-spazio-che-e-gia-in-pericolo-di-estinzione/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/ninfa_gigante.jpg",
-      "data": "24/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "In Colombia una fotografia pubblicata sui social ha portato a identificare Victoria colombiana, una specie dalle foglie larghe due metri"
-    },
-    {
-      "titolo": "Gli scienziati scoprono un interruttore nascosto che brucia il grasso e blocca nuove cellule adipose",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "24/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto che lo spegnimento di una proteina chiamata Mitch fa bruciare più grasso alle cellule umane e impedisce lo sviluppo di nuove cellule adipose. Il breakthr..."
-    },
-    {
-      "titolo": "Progetto di ripristino di alberi autoctoni rari con test del DNA",
-      "link": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "24/10/2026",
-      "categoria": "Mondo",
-      "sommario": "I gruppi di conservazione affermano che i pioppi neri sono in pericolo a causa dell'abbattimento, del drenaggio del terreno e della perdita di habitat."
     }
   ]
 }
