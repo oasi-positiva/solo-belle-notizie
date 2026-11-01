@@ -1,7 +1,16 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Nella vita media, una persona camminerà l'equivalente di 5 volte intorno all'equatore.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Ci sono più fenicotteri di plastica negli Stati Uniti che quelli veri.",
   "notizie": [
+    {
+      "titolo": "Questi ricercatori hanno studiato la felicità per decenni: ecco cosa hanno cambiato nelle loro vite alla luce delle loro scoperte",
+      "link": "https://www.greenme.it/salute-e-alimentazione/psicologia/questi-ricercatori-hanno-studiato-la-felicita-per-decenni-ecco-cosa-hanno-cambiato-nelle-loro-vite-alla-luce-delle-loro-scoperte/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/felicita.jpg",
+      "data": "01/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Tredici studiosi, oltre seicento anni di esperienza complessiva: raccontano perché hanno dato più spazio ad amici, famiglia e piccoli piaceri"
+    },
     {
       "titolo": "WEBCAM DAL VIVO ti porta all'interno della tana del ghepardo con 5 piccoli cuccioli accuditi dalla mamma (i miagolii sono ipnotizzanti)",
       "link": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
@@ -10,15 +19,6 @@
       "data": "25/10/2026",
       "categoria": "Animali",
       "sommario": "Il 5 ottobre, un ghepardo di nome Zura ha dato alla luce cinque adorabili cuccioli allo Smithsonian's Conservation Institute in Virginia - e puoi spiarli di notte e..."
-    },
-    {
-      "titolo": "53 oranghi salvati dagli incendi nel Borneo, con molti riavvolti in riserve forestali in tutta l'isola",
-      "link": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "25/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli incendi boschivi e le torbiere continuano a bruciare in tutta l'isola del Borneo, mettendo in pericolo la qualità dell'aria sia per gli esseri umani che per la fauna selvatica e dando fuoco al cibo..."
     },
     {
       "titolo": "I pensionati che hanno perso i coniugi si innamorano di nuovo a 88 anni, dopo essersi incontrati in palestra",
