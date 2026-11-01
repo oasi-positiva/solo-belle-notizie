@@ -1,7 +1,34 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Il sesso brucia 360 calorie all'ora.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "L'ora legale non è osservata nella maggior parte dello stato dell'Arizona e in alcune parti dell'Indiana.",
   "notizie": [
+    {
+      "titolo": "WEBCAM DAL VIVO ti porta all'interno della tana del ghepardo con 5 piccoli cuccioli accuditi dalla mamma (i miagolii sono ipnotizzanti)",
+      "link": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "25/10/2026",
+      "categoria": "Animali",
+      "sommario": "Il 5 ottobre, un ghepardo di nome Zura ha dato alla luce cinque adorabili cuccioli allo Smithsonian's Conservation Institute in Virginia - e puoi spiarli di notte e..."
+    },
+    {
+      "titolo": "53 oranghi salvati dagli incendi nel Borneo, con molti riavvolti in riserve forestali in tutta l'isola",
+      "link": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "25/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli incendi boschivi e le torbiere continuano a bruciare in tutta l'isola del Borneo, mettendo in pericolo la qualità dell'aria sia per gli esseri umani che per la fauna selvatica e dando fuoco al cibo..."
+    },
+    {
+      "titolo": "L'aspirina a basso dosaggio è legata a un rischio di demenza inferiore del 70%, ma c'è un problema",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "25/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Un farmaco comune e poco costoso potrebbe contenere un indizio inaspettato per prevenire la demenza. I ricercatori hanno scoperto che gli anziani con un profilo genetico specifico hanno..."
+    },
     {
       "titolo": "I pensionati che hanno perso i coniugi si innamorano di nuovo a 88 anni, dopo essersi incontrati in palestra",
       "link": "https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/",
@@ -334,69 +361,6 @@
       "data": "26/10/2026",
       "categoria": "Mondo",
       "sommario": "Gli scienziati hanno filmato per la prima volta minuscoli vortici magnetici chiamati skyrmions che si sciolgono da un reticolo organizzato, rivelando nuovi modi per manipolarli..."
-    },
-    {
-      "titolo": "LA WEBCAM DAL VIVO ti porta all'interno della tana del ghepardo con 5 piccoli cuccioli accuditi dalla mamma (GUARDA e ASCOLTA)",
-      "link": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "25/10/2026",
-      "categoria": "Animali",
-      "sommario": "Il 5 ottobre, un ghepardo di nome Zura ha dato alla luce cinque adorabili cuccioli allo Smithsonian's Conservation Institute in Virginia - e puoi spiarli di notte e..."
-    },
-    {
-      "titolo": "53 oranghi salvati dagli incendi nel Borneo, con molti riavvolti in riserve forestali in tutta l'isola",
-      "link": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "25/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli incendi boschivi e le torbiere continuano a bruciare in tutta l'isola del Borneo, mettendo in pericolo la qualità dell'aria sia per gli esseri umani che per la fauna selvatica e dando fuoco al cibo..."
-    },
-    {
-      "titolo": "L'aspirina a basso dosaggio è legata a un rischio di demenza inferiore del 70%, ma c'è un problema",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "25/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Un farmaco comune e poco costoso potrebbe contenere un indizio inaspettato per prevenire la demenza. I ricercatori hanno scoperto che gli anziani con un profilo genetico specifico hanno..."
-    },
-    {
-      "titolo": "Gli astronomi potrebbero aver scoperto la prima luna oltre il nostro Sistema Solare",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "25/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli astronomi hanno scoperto le prove di una scoperta bizzarra e potenzialmente storica: la prima luna mai rilevata oltre il nostro Sistema Solare. A differenza delle lune familiari..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono un difetto nascosto che sfida 40 anni di scienza dei superconduttori",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "25/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Un materiale superconduttore studiato per 40 anni si è rivelato molto più complesso di quanto gli scienziati credessero. L'imaging 3D avanzato ha rivelato una patchwo nascosta..."
-    },
-    {
-      "titolo": "Da una a otto pasticcerie: la crescita sostenibile di Antico Forno tra lotta allo spreco, energia pulita e innovazione",
-      "link": "https://www.greenme.it/esg/da-una-a-otto-pasticcerie-la-crescita-sostenibile-di-antico-forno-tra-lotta-allo-spreco-energia-pulita-e-innovazione/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/pasticcerie.jpg",
-      "data": "25/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "In vent’anni Antico Forno è cresciuta da una bottega a otto pasticcerie tra Padova e Rubano, riducendo l’impatto ambientale: 7.435 pasti salvati con Too Good..."
-    },
-    {
-      "titolo": "Uccelli marini e acque reflue tra le sfide dello status UNESCO",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrd1e364jlo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "25/10/2026",
-      "categoria": "Animali",
-      "sommario": "Un rapporto che segna i 10 anni dell'Isola di Man come Biosfera dell'UNESCO evidenzia i progressi del programma."
     }
   ]
 }
