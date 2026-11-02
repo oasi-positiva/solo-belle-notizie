@@ -1,7 +1,16 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Montpelier, nel Vermont, è l'unica capitale dello stato senza un McDonald's.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "La parola più lunga composta da una riga sulla tastiera è: MACCHINA DA SCRIVERE",
   "notizie": [
+    {
+      "titolo": "COP17, accordo per salvare la biodiversità entro il 2030, ma mancano i fondi: cosa è stato deciso in Armenia (e cosa no)",
+      "link": "https://www.greenme.it/ambiente/cop17-accordo-per-salvare-la-biodiversita-entro-il-2030-ma-mancano-i-fondi-cosa-e-stato-deciso-in-armenia-e-cosa-no/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/02/Fiume-biodiversita.jpg",
+      "data": "02/11/2026",
+      "categoria": "Animali",
+      "sommario": "Si chiude la Conferenza ONU sulla biodiversità con un nuovo piano per accelerare la tutela della natura. Ma gli obiettivi globali restano lontani e le risors..."
+    },
     {
       "titolo": "La piccola società storica dell'isola scozzese fa una scoperta massiccia",
       "link": "https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/",
@@ -10,15 +19,6 @@
       "data": "26/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Un'isola scozzese è ora confermata come uno dei primi centri di evangelizzazione cristiana nelle isole britanniche grazie a una società storica di una piccola città..."
-    },
-    {
-      "titolo": "Piccoli vortici magnetici potrebbero aiutare i computer a funzionare più come il tuo cervello",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "26/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno filmato per la prima volta minuscoli vortici magnetici chiamati skyrmions che si sciolgono da un reticolo organizzato, rivelando nuovi modi per manipolarli..."
     },
     {
       "titolo": "Questi ricercatori hanno studiato la felicità per decenni: ecco cosa hanno cambiato nelle loro vite alla luce delle loro scoperte",
