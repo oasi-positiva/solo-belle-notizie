@@ -1,7 +1,16 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "La Giamaica ha il maggior numero di chiese per miglio quadrato di qualsiasi altro paese al mondo.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "Negli Stati Uniti, un chilo di patatine fritte costa duecento volte più di un chilo di patate.",
   "notizie": [
+    {
+      "titolo": "Sei single? Puoi viaggiare gratis in Finlandia per cercare l’amore: come candidarti per un soggiorno (tutto spesato)",
+      "link": "https://www.greenme.it/viaggi/europa/single-viaggiare-gratis-finlandia-cercare-amore/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Finlandia-viaggio-gratis.jpg",
+      "data": "03/11/2026",
+      "categoria": "Mondo",
+      "sommario": "La Finlandia offre un viaggio gratis di 4 giorni a 16 single con l’iniziativa Finnish Dinner Date con cene al buio firmate da grandi chef e saune tra Helsink..."
+    },
     {
       "titolo": "In ricordo di Laika, la cagnolina lanciata nello spazio (e sacrificata in nome del “progresso”)",
       "link": "https://www.greenme.it/pet/cani/laika-cane-spazio-3-novembre-1957-sacrificio-inutile/",
@@ -37,15 +46,6 @@
       "data": "03/11/2026",
       "categoria": "Mondo",
       "sommario": "Ecomondo 2026: quali novità nel comparto dei mezzi pesanti dalla fiera dell'innovazione green e sostenibile?\nL'articolo Ecomondo 2026, camion e mobilità pesa..."
-    },
-    {
-      "titolo": "La squadra di baseball delle scuole superiori ha tutte le vibrazioni del successo ma non ha mai vinto una partita: ai bambini non importa",
-      "link": "https://www.goodnewsnetwork.org/high-school-baseball-team-has-all-the-vibes-of-success-but-never-won-a-game-kids-dont-mind/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "27/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Si potrebbe dire che è una storia molto canadese: che i Dartmouth High School Spartans non vincono una partita di baseball da 6 anni, eppure si sentono ancora vincitori. Wat..."
     },
     {
       "titolo": "Gli scienziati identificano due abilità trascurate che predicono il successo della lettura",
