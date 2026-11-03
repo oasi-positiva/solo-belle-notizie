@@ -1,7 +1,25 @@
 {
   "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "La parola più lunga composta da una riga sulla tastiera è: MACCHINA DA SCRIVERE",
+  "curiosita": "Se avessimo lo stesso tasso di mortalità ora come nel 1900, più della metà delle persone nel mondo di oggi non sarebbe viva.",
   "notizie": [
+    {
+      "titolo": "La squadra di baseball delle scuole superiori ha tutte le vibrazioni del successo ma non ha mai vinto una partita: ai bambini non importa",
+      "link": "https://www.goodnewsnetwork.org/high-school-baseball-team-has-all-the-vibes-of-success-but-never-won-a-game-kids-dont-mind/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "27/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Si potrebbe dire che è una storia molto canadese: che i Dartmouth High School Spartans non vincono una partita di baseball da 6 anni, eppure si sentono ancora vincitori. Wat..."
+    },
+    {
+      "titolo": "Una scoperta di 1,9 milioni di anni fa riscrive la storia dell'evoluzione umana",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "27/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Nuove prove suggeriscono che i primi esseri umani raggiunsero la Valle del Giordano almeno 1,9 milioni di anni fa, centinaia di migliaia di anni prima di quanto gli scienziati prev..."
+    },
     {
       "titolo": "COP17, accordo per salvare la biodiversità entro il 2030, ma mancano i fondi: cosa è stato deciso in Armenia (e cosa no)",
       "link": "https://www.greenme.it/ambiente/cop17-accordo-per-salvare-la-biodiversita-entro-il-2030-ma-mancano-i-fondi-cosa-e-stato-deciso-in-armenia-e-cosa-no/",
@@ -10,15 +28,6 @@
       "data": "02/11/2026",
       "categoria": "Animali",
       "sommario": "Si chiude la Conferenza ONU sulla biodiversità con un nuovo piano per accelerare la tutela della natura. Ma gli obiettivi globali restano lontani e le risors..."
-    },
-    {
-      "titolo": "La piccola società storica dell'isola scozzese fa una scoperta massiccia",
-      "link": "https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "26/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Un'isola scozzese è ora confermata come uno dei primi centri di evangelizzazione cristiana nelle isole britanniche grazie a una società storica di una piccola città..."
     },
     {
       "titolo": "Questi ricercatori hanno studiato la felicità per decenni: ecco cosa hanno cambiato nelle loro vite alla luce delle loro scoperte",
@@ -235,69 +244,6 @@
       "data": "28/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Un nuovo importante studio rivela che il cervello dei bambini autistici si comporta in modo diverso e che queste differenze possono iniziare prima di quanto gli scienziati pensassero in precedenza..."
-    },
-    {
-      "titolo": "Il mistero del suolo sterile che “respira” e consuma ossigeno: la scoperta che sorprende anche gli scienziati",
-      "link": "https://www.greenme.it/ambiente/il-mistero-del-suolo-sterile-che-respira-e-consuma-ossigeno-la-scoperta-che-sorprende-anche-gli-scienziati/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/06/terra-che-respira.jpg",
-      "data": "27/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Un esperimento su terreno sterilizzato mostra reazioni chimiche capaci di consumare ossigeno e produrre CO₂ per anni"
-    },
-    {
-      "titolo": "BES 2026, benessere equo e sostenibile? Per Istat 1 su 10 rinuncia alle cure (e al Sud lavorano solo 4 donne su 10)",
-      "link": "https://www.greenme.it/lifestyle/costume-e-societa/bes-2026-benessere-equo-e-sostenibile-per-istat-1-su-10-rinuncia-alle-cure-e-al-sud-lavorano-solo-4-donne-su-10/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Istat-BES-2026.jpg",
-      "data": "27/10/2026",
-      "categoria": "Salute",
-      "sommario": "Il rapporto BES 2026 fotografa un Paese più longevo, dove curarsi, lavorare e ottenere servizi affidabili dipendono ancora dal territorio"
-    },
-    {
-      "titolo": "E se potessi partire all’estero gratis per proteggere la natura, fare teatro o aiutare le comunità? Con il volontariato europeo puoi farlo: ecco come candidarti",
-      "link": "https://www.greenme.it/viaggi/europa/e-se-potessi-partire-allestero-gratis-per-proteggere-la-natura-fare-teatro-o-aiutare-le-comunita-con-il-volontariato-europeo-puoi-farlo-ecco-come-candidarti/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Volontariato-europeo.jpg",
-      "data": "27/10/2026",
-      "categoria": "Animali",
-      "sommario": "E se i soldi non fossero un ostacolo per partire? Con il Corpo europeo di solidarietà puoi fare volontariato all’estero, con viaggio, vitto, alloggio e assic..."
-    },
-    {
-      "titolo": "La squadra di baseball delle scuole superiori ha tutte le vibrazioni del successo ma non ha mai vinto una partita: ai bambini non importa",
-      "link": "https://www.goodnewsnetwork.org/high-school-baseball-team-has-all-the-vibes-of-success-but-never-won-a-game-kids-dont-mind/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "27/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Si potrebbe dire che è una storia molto canadese: che i Dartmouth High School Spartans non vincono una partita di baseball da 6 anni, eppure si sentono ancora vincitori. Wat..."
-    },
-    {
-      "titolo": "Una scoperta di 1,9 milioni di anni fa riscrive la storia dell'evoluzione umana",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "27/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Nuove prove suggeriscono che i primi esseri umani raggiunsero la Valle del Giordano almeno 1,9 milioni di anni fa, centinaia di migliaia di anni prima di quanto gli scienziati prev..."
-    },
-    {
-      "titolo": "L’orrore dietro il traffico illegale di cuccioli: vi racconto l’incubo vissuto col mio cane (e perché bisogna denunciare)",
-      "link": "https://www.greenme.it/pet/cani/lorrore-dietro-il-traffico-di-cuccioli-dallest-vi-racconto-lincubo-vissuto-col-mio-cane-e-perche-bisogna-denunciare/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Lucky-1.jpg",
-      "data": "27/10/2026",
-      "categoria": "Animali",
-      "sommario": "Un’inchiesta dei Carabinieri ha risvegliato in me una ferita mai del tutto rimarginata: quella del traffico illegale di cuccioli dall’Est. Quasi 19 anni fa, ..."
-    },
-    {
-      "titolo": "Clenergy punta sull’Italia, Ibarra: Mercato di riferimento per l’agrivoltaico",
-      "link": "https://www.rinnovabili.it/energia/fotovoltaico/clenergy-italia-ibarra-mercato-agrivoltaico/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "27/10/2026",
-      "categoria": "Mondo",
-      "sommario": "A Energyear 2026 parla Ramon Ibarra (Clenergy): l’Italia mercato strategico tra crescita dei progetti sul territorio, sfide normative e innovazione tecnologi..."
     }
   ]
 }
