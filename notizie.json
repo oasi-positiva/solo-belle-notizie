@@ -1,24 +1,15 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Virginia Woolf scrisse tutti i suoi libri in piedi.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "Il più alto consumo pro capite di gelatina negli Stati Uniti è Des Moines.",
   "notizie": [
     {
       "titolo": "Un bizzarro salvataggio vede i sub salvare un canguro che si è trovato a oltre un miglio dalla terraferma",
       "link": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
       "data": "28/10/2026",
       "categoria": "Mondo",
       "sommario": "In una storia troppo \"australiana\" per essere creduta, un subacqueo e il suo equipaggio hanno salvato un canguro a oltre un miglio e mezzo dal mare. Notato in un primo momento dal capitano ..."
-    },
-    {
-      "titolo": "Positive News lancia un nuovo podcast video che esplora ciò che sta andando bene nel mondo",
-      "link": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
-      "fonte": "Positive News",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "28/10/2026",
-      "categoria": "Mondo",
-      "sommario": "La serie What Went Right si sta espandendo su YouTube e altre piattaforme di podcast, portando la sua carrellata settimanale di progressi a un nuovo pubblico\nIl post Positive Ne..."
     },
     {
       "titolo": "Maya Higa ha costruito un santuario della fauna selvatica su Twitch, finanziato dalle persone che lo guardano",
@@ -28,15 +19,6 @@
       "data": "04/11/2026",
       "categoria": "Animali",
       "sommario": "Questo articolo fa parte della serie The Optimist Daily's Local Changemakers 2026, che mette in luce i changemaker sotto i 30 anni. Image alt text: Maya Higa all'Alveus Sanc..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono un sistema vulcanico nascosto di 100 milioni di anni",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "28/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto un sistema vulcanico perduto da tempo in Iran che risale a circa 100 milioni di anni fa, rivelando un capitolo nascosto nell'isto tettonico della Terra..."
     },
     {
       "titolo": "Sei single? Puoi viaggiare gratis in Finlandia per cercare l’amore: come candidarti per un soggiorno (tutto spesato)",
