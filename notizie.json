@@ -1,7 +1,43 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Negli Stati Uniti, un chilo di patatine fritte costa duecento volte più di un chilo di patate.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Virginia Woolf scrisse tutti i suoi libri in piedi.",
   "notizie": [
+    {
+      "titolo": "Un bizzarro salvataggio vede i sub salvare un canguro che si è trovato a oltre un miglio dalla terraferma",
+      "link": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "28/10/2026",
+      "categoria": "Mondo",
+      "sommario": "In una storia troppo \"australiana\" per essere creduta, un subacqueo e il suo equipaggio hanno salvato un canguro a oltre un miglio e mezzo dal mare. Notato in un primo momento dal capitano ..."
+    },
+    {
+      "titolo": "Positive News lancia un nuovo podcast video che esplora ciò che sta andando bene nel mondo",
+      "link": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
+      "fonte": "Positive News",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "28/10/2026",
+      "categoria": "Mondo",
+      "sommario": "La serie What Went Right si sta espandendo su YouTube e altre piattaforme di podcast, portando la sua carrellata settimanale di progressi a un nuovo pubblico\nIl post Positive Ne..."
+    },
+    {
+      "titolo": "Maya Higa ha costruito un santuario della fauna selvatica su Twitch, finanziato dalle persone che lo guardano",
+      "link": "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/",
+      "fonte": "Optimist Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "04/11/2026",
+      "categoria": "Animali",
+      "sommario": "Questo articolo fa parte della serie The Optimist Daily's Local Changemakers 2026, che mette in luce i changemaker sotto i 30 anni. Image alt text: Maya Higa all'Alveus Sanc..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono un sistema vulcanico nascosto di 100 milioni di anni",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "28/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto un sistema vulcanico perduto da tempo in Iran che risale a circa 100 milioni di anni fa, rivelando un capitolo nascosto nell'isto tettonico della Terra..."
+    },
     {
       "titolo": "Sei single? Puoi viaggiare gratis in Finlandia per cercare l’amore: come candidarti per un soggiorno (tutto spesato)",
       "link": "https://www.greenme.it/viaggi/europa/single-viaggiare-gratis-finlandia-cercare-amore/",
@@ -226,69 +262,6 @@
       "data": "29/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Gli scienziati hanno sfidato una regola di lunga data della fisica del laser generando raggi X con energie molto più elevate di quanto previsto dalla teoria convenzionale. La sorprendente..."
-    },
-    {
-      "titolo": "Il fluido che “immagazzina il Sole” per mesi: la scoperta che potrebbe rivoluzionare l’accumulo di energia",
-      "link": "https://www.greenme.it/energia/il-fluido-che-immagazzina-il-sole-per-mesi-la-scoperta-che-potrebbe-rivoluzionare-laccumulo-di-energia/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/03/batteria-liquida-dal-sole.jpg",
-      "data": "28/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Una molecola liquida capace di immagazzinare energia solare per mesi promette di cambiare il modo in cui conserviamo il calore"
-    },
-    {
-      "titolo": "Scoperto in una grotta cinese un animale senza occhi: si è adattato a vivere completamente al buio",
-      "link": "https://www.greenme.it/ambiente/natura/scoperto-in-una-grotta-cinese-un-animale-senza-occhi-si-e-adattato-a-vivere-completamente-al-buio/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Erhaia-dijiang.jpg",
-      "data": "28/10/2026",
-      "categoria": "Animali",
-      "sommario": "In Cina scoperta una lumaca senza occhi: vive in una grotta a oltre 2.000 metri e porta il nome di una divinità"
-    },
-    {
-      "titolo": "Un bizzarro salvataggio vede i sub salvare un canguro che si è trovato a oltre un miglio dalla terraferma",
-      "link": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "28/10/2026",
-      "categoria": "Mondo",
-      "sommario": "In una storia troppo \"australiana\" per essere creduta, un subacqueo e il suo equipaggio hanno salvato un canguro a oltre un miglio e mezzo dal mare. Notato in un primo momento dal capitano ..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono un sistema vulcanico nascosto di 100 milioni di anni",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "28/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto un sistema vulcanico perduto da tempo in Iran che risale a circa 100 milioni di anni fa, rivelando un capitolo nascosto nell'isto tettonico della Terra..."
-    },
-    {
-      "titolo": "Positive News lancia un nuovo podcast video che esplora ciò che sta andando bene nel mondo",
-      "link": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
-      "fonte": "Positive News",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "28/10/2026",
-      "categoria": "Mondo",
-      "sommario": "La serie What Went Right si sta espandendo su YouTube e altre piattaforme di podcast, portando la sua carrellata settimanale di progressi a un nuovo pubblico\nIl post Positive Ne..."
-    },
-    {
-      "titolo": "Ti presentiamo Vivian Ho: la diciassettenne che ha costruito una rete di approvvigionamento intorno alla dignità, non alla carità",
-      "link": "https://www.optimistdaily.com/2026/10/meet-vivian-ho-the-17-year-old-who-built-a-supply-network-around-dignity-not-charity/",
-      "fonte": "Optimist Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "28/10/2026",
-      "categoria": "Mondo",
-      "sommario": "DA parte DEL TEAM EDITORIALE Optimist Daily Questo articolo fa parte della serie The Optimist Daily's Local Changemakers 2026, che mette in luce i changemaker dai 30 anni in su. Mos..."
-    },
-    {
-      "titolo": "Il cervello autistico elabora i volti in modo diverso da quanto pensassero gli scienziati",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "28/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Un nuovo importante studio rivela che il cervello dei bambini autistici si comporta in modo diverso e che queste differenze possono iniziare prima di quanto gli scienziati pensassero in precedenza..."
     }
   ]
 }
