@@ -1,15 +1,51 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Il più alto consumo pro capite di gelatina negli Stati Uniti è Des Moines.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Il sesso brucia 360 calorie all'ora.",
   "notizie": [
     {
-      "titolo": "Un bizzarro salvataggio vede i sub salvare un canguro che si è trovato a oltre un miglio dalla terraferma",
-      "link": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "28/10/2026",
+      "titolo": "Sta per tornare il mercatino di Natale più antico d’Italia, manca pochissimo alla sua apertura",
+      "link": "https://www.greenme.it/viaggi/italia/tra-1-300-luci-e-120-bancarelle-torna-il-mercatino-di-natale-di-bolzano-che-festeggia-35-anni/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/mercatino-di-natale-bolzano-1.jpg",
+      "data": "04/11/2026",
       "categoria": "Mondo",
-      "sommario": "In una storia troppo \"australiana\" per essere creduta, un subacqueo e il suo equipaggio hanno salvato un canguro a oltre un miglio e mezzo dal mare. Notato in un primo momento dal capitano ..."
+      "sommario": "Quest'anno il tradizionale Christkindlmarkt di Bolzano festeggia la sua 35ª edizione, trasformando la città in un racconto d'Avvento. L'evento si distingue n..."
+    },
+    {
+      "titolo": "Dalla riforestazione di Milano al recupero delle acque industriali, i progetti vincitori del Premio Sviluppo Sostenibile 2026",
+      "link": "https://www.greenme.it/ambiente/ecomondo-2022/dalla-riforestazione-di-milano-al-recupero-delle-acque-industriali-i-progetti-vincitori-del-premio-sviluppo-sostenibile-2026/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/premio-sviluppo-sostenibile-2026.jpg",
+      "data": "04/11/2026",
+      "categoria": "Società",
+      "sommario": "Quali sono i progetti più innovativi della green economy italiana? Dalla riforestazione urbana di Milano al Comune San Lazzaro di Savena, che ha fatto dell'e..."
+    },
+    {
+      "titolo": "Gli scienziati dello SLAC trovano la prova conclusiva di un misterioso terzo tipo di magnetismo",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "04/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Per quasi 90 anni, gli scienziati hanno creduto che il magnetismo rientrasse solo in due categorie, ma i ricercatori hanno ora confermato un terzo tipo notevole chiamato altermagn..."
+    },
+    {
+      "titolo": "Gli scienziati del MIT infrangono una regola di 20 anni e sbloccano strutture cristalline mai viste prima",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "04/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati del MIT hanno sfidato due decenni di pensiero convenzionale scoprendo che le connessioni molecolari flessibili, piuttosto che quelle rigide, possono sbloccare..."
+    },
+    {
+      "titolo": "Una piccola compressione cambia drasticamente il magnetismo dei materiali esotici",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "04/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno scoperto che una semplice compressione meccanica può alterare drasticamente le proprietà magnetiche e il comportamento elettrico di materiali esotici chiamati..."
     },
     {
       "titolo": "Maya Higa ha costruito un santuario della fauna selvatica su Twitch, finanziato dalle persone che lo guardano",
