@@ -1,24 +1,15 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Bruce Lee era così veloce che hanno dovuto rallentare il film in modo da poter vedere le sue mosse.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Il Weatherman Willard Scott è stato il primo Ronald McDonald originale.",
   "notizie": [
     {
-      "titolo": "Il ghiaccio di 128.000 anni in Tibet potrebbe riscrivere la storia del clima",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "29/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Antichi ghiacci scoperti in alto in Tibet potrebbero avere più di 128.000 anni, preservando una straordinaria testimonianza del clima terrestre che gli scienziati in precedenza..."
-    },
-    {
-      "titolo": "Un singolo segnale cerebrale può spiegare i sintomi più sconcertanti della schizofrenia",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "29/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno identificato un segnale cerebrale indebolito che può collegare diversi sintomi apparentemente non correlati della schizofrenia, tra cui l'elaborazione sensoriale diffi..."
+      "titolo": "Il recupero miracoloso vede gli uccelli marini reclamare l'ex colonia dopo che l'influenza aviaria li ha spazzati via",
+      "link": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "05/11/2026",
+      "categoria": "Animali",
+      "sommario": "Grazie a sforzi di conservazione dedicati, le sterne a sandwich hanno bonificato una colonia sulla costa meridionale dell'Inghilterra 3 anni dopo essere state spazzate via dall'influenza aviaria. Oggi,..."
     },
     {
       "titolo": "Sta per tornare il mercatino di Natale più antico d’Italia, manca pochissimo alla sua apertura",
