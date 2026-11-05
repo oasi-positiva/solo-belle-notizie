@@ -1,7 +1,25 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Il Weatherman Willard Scott è stato il primo Ronald McDonald originale.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Ogni persona, compresi i gemelli identici, ha un'impronta unica sugli occhi e sulla lingua insieme all'impronta digitale.",
   "notizie": [
+    {
+      "titolo": "Stop ai fuochi d’artificio a Capodanno: nei Paesi Bassi scatta il divieto per tutelare gli animali (ma c’è chi vuole aggirarlo)",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/paesi-bassi-addio-fuochi-dartificio-capodanno/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/08/fuochi-dartificio.jpg",
+      "data": "05/11/2026",
+      "categoria": "Animali",
+      "sommario": "Svolta nei Paesi Bassi: dal Capodanno 2026-2027 scatta il divieto di fuochi d'artificio per i privati. Una scelta a tutela degli animali che accende però rov..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono che un filtro intasato potrebbe rivoluzionare la raffinazione del petrolio",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "05/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno sviluppato una nuova straordinaria membrana che separa il petrolio greggio a temperatura ambiente, utilizzando l'olio stesso per creare un canale di filtrazione microscopico..."
+    },
     {
       "titolo": "Il recupero miracoloso vede gli uccelli marini reclamare l'ex colonia dopo che l'influenza aviaria li ha spazzati via",
       "link": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/",
