@@ -1,7 +1,25 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Ogni persona, compresi i gemelli identici, ha un'impronta unica sugli occhi e sulla lingua insieme all'impronta digitale.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "È contro la legge ruttare o starnutire in una chiesa del Nebraska, negli Stati Uniti.",
   "notizie": [
+    {
+      "titolo": "La nuova scuola del Texas prende il nome dall'inserviente di lunga data \"Miss Marilyn\" (guarda la sua reazione)",
+      "link": "https://www.goodnewsnetwork.org/new-texas-school-is-named-for-longtime-janitor-miss-marilyn-watch-her-reaction/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "30/10/2026",
+      "categoria": "Mondo",
+      "sommario": "A differenza della bellezza, l'onore si manifesta negli occhi degli onorati. E anche se non è un anello del Super Bowl o un Academy Award, per un custode di carriera in una scuola del Texas..."
+    },
+    {
+      "titolo": "Hubble rivela una straordinaria svolta nel modo in cui l'universo è emerso dall'oscurità",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "30/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Una sorprendente scoperta degli astronomi che utilizzano il Telescopio Spaziale Hubble sta sfidando una spiegazione principale di come l'universo primordiale sia emerso da una densa f..."
+    },
     {
       "titolo": "Stop ai fuochi d’artificio a Capodanno: nei Paesi Bassi scatta il divieto per tutelare gli animali (ma c’è chi vuole aggirarlo)",
       "link": "https://www.greenme.it/lifestyle/costume-e-societa/paesi-bassi-addio-fuochi-dartificio-capodanno/",
@@ -190,69 +208,6 @@
       "data": "31/10/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Gli scienziati della Johns Hopkins University hanno scoperto un processo sorprendente che aiuta gli esseri umani a sviluppare una visione nitida prima della nascita, sfidando decenni di stupidità..."
-    },
-    {
-      "titolo": "Non dobbiamo essere sempre felici: in Umbria c’è un festival che celebra la malinconia (e ci invita a riscoprirla)",
-      "link": "https://www.greenme.it/ambiente/eventi-e-iniziative/non-dobbiamo-essere-sempre-felici-in-umbria-ce-un-festival-che-celebra-la-malinconia-e-ci-invita-a-riscoprirla/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/festival-della-malinconia.jpg",
-      "data": "30/10/2026",
-      "categoria": "Mondo",
-      "sommario": "A novembre 2026, Perugia ospiterà il Festival della Malinconia, un'iniziativa di Umbria Green Festival che propone un percorso tra arte, filosofia e scienza...."
-    },
-    {
-      "titolo": "Rivoluzione nelle scuole di Buenos Aires: saranno insegnati il rispetto e la tutela degli animali (grazie alla Legge sulla Compassione)",
-      "link": "https://www.greenme.it/animali/buenos-aires-insegnati-rispetto-cura-protezione-animali/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2025/11/scuola.jpg",
-      "data": "30/10/2026",
-      "categoria": "Animali",
-      "sommario": "La Legislatura di Buenos Aires approva all'unanimità la Legge sulla Compassione che stabilisce l’insegnamento a scuola di rispetto, cura e protezione degli a..."
-    },
-    {
-      "titolo": "Tre milioni di alberi per cambiare Milano: Forestami è l’unico progetto europeo premiato dall’Onu alla COP17 sulla biodiversità",
-      "link": "https://www.greenme.it/esg/tre-milioni-di-alberi-per-cambiare-milano-forestami-e-lunico-progetto-europeo-premiato-dallonu-alla-cop17-sulla-biodiversita/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/premio-forestami.jpg",
-      "data": "30/10/2026",
-      "categoria": "Animali",
-      "sommario": "Milano celebra un traguardo eccezionale nel campo della sostenibilità: Forestami è stato insignito del prestigioso World Restoration Flagship dalle Nazioni U..."
-    },
-    {
-      "titolo": "Risparmiare energia senza rinunciare al benessere: la sfida dell’innovazione sostenibile",
-      "link": "https://www.rinnovabili.it/clima-e-ambiente/cultura/risparmiare-energia-senza-rinunciare-al-benessere-la-sfida-dellinnovazione-sostenibile/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "30/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "L'editoriale di Gabriele Melluso, Presidente Assoutenti\nL'articolo Risparmiare energia senza rinunciare al benessere: la sfida dell’innovazione sostenibile p..."
-    },
-    {
-      "titolo": "La nuova scuola del Texas prende il nome dall'inserviente di lunga data \"Miss Marilyn\" (guarda la sua reazione)",
-      "link": "https://www.goodnewsnetwork.org/new-texas-school-is-named-for-longtime-janitor-miss-marilyn-watch-her-reaction/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "30/10/2026",
-      "categoria": "Mondo",
-      "sommario": "A differenza della bellezza, l'onore si manifesta negli occhi degli onorati. E anche se non è un anello del Super Bowl o un Academy Award, per un custode di carriera in una scuola del Texas..."
-    },
-    {
-      "titolo": "Hubble rivela una straordinaria svolta nel modo in cui l'universo è emerso dall'oscurità",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "30/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Una sorprendente scoperta degli astronomi che utilizzano il Telescopio Spaziale Hubble sta sfidando una spiegazione principale di come l'universo primordiale sia emerso da una densa f..."
-    },
-    {
-      "titolo": "Poliziotti trovano una gattina nera che miagola disperata nella volante e la salvano: poi arriva l’adozione inaspettata",
-      "link": "https://www.greenme.it/pet/gatti/poliziotti-trovano-gattina-volante/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Sora-gatto-Polizia.jpg",
-      "data": "30/10/2026",
-      "categoria": "Animali",
-      "sommario": "Insolita scoperta al Commissariato di Sora: una gattina di poche settimane nascosta nell'auto di servizio. Accudita dagli agenti, la piccola Zara è stata ado..."
     }
   ]
 }
