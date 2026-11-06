@@ -1,7 +1,25 @@
 {
   "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Albert Einstein e Charles Darwin sposarono entrambi i loro cugini di primo grado",
+  "curiosita": "Il principe Carlo e il principe William non viaggiano mai sullo stesso aereo in caso di incidente.",
   "notizie": [
+    {
+      "titolo": "KFC porta il pollo fritto sulle piste da sci di Cortina e Madonna di Campiglio: stiamo trasformando le Alpi in un fast-food",
+      "link": "https://www.greenme.it/ambiente/kfc-porta-il-pollo-fritto-sulle-piste-da-sci-di-cortina-e-madonna-di-campiglio-stiamo-trasformando-le-alpi-in-un-fast-food/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/kfc_piste_sci.jpg",
+      "data": "06/11/2026",
+      "categoria": "Mondo",
+      "sommario": "KFC arriva dritto (anche) sulle piste da sci di Cortina e Madonna di Campiglio con due nuovi ristoranti ad alta quota. Tra ghiacciai che si sciolgono e turis..."
+    },
+    {
+      "titolo": "Persone in tutto il mondo aiutano ad acquistare la tenuta reale per la conservazione della fauna selvatica",
+      "link": "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "06/11/2026",
+      "categoria": "Animali",
+      "sommario": "Il ricciolo, il bombo di montagna, la pavoncella e altri uccelli trampolieri sono solo alcuni degli animali che definiscono una dimora nobiliare unica nel suo genere. Ora, le persone intorno a..."
+    },
     {
       "titolo": "I Maya inquinavano i laghi con il mercurio già duemila anni fa: la scoperta nei sedimenti",
       "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/i-maya-inquinavano-i-laghi-con-il-mercurio-gia-duemila-anni-fa-la-scoperta-nei-sedimenti/",
@@ -10,15 +28,6 @@
       "data": "06/11/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Il rosso dei Maya potrebbe aver contaminato due bacini per secoli: trovati livelli tossici di mercurio"
-    },
-    {
-      "titolo": "La nuova scuola del Texas prende il nome dall'inserviente di lunga data \"Miss Marilyn\" (guarda la sua reazione)",
-      "link": "https://www.goodnewsnetwork.org/new-texas-school-is-named-for-longtime-janitor-miss-marilyn-watch-her-reaction/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "30/10/2026",
-      "categoria": "Mondo",
-      "sommario": "A differenza della bellezza, l'onore si manifesta negli occhi degli onorati. E anche se non è un anello del Super Bowl o un Academy Award, per un custode di carriera in una scuola del Texas..."
     },
     {
       "titolo": "Stop ai fuochi d’artificio a Capodanno: nei Paesi Bassi scatta il divieto per tutelare gli animali (ma c’è chi vuole aggirarlo)",
