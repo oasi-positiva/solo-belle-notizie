@@ -1,24 +1,24 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "È contro la legge ruttare o starnutire in una chiesa del Nebraska, negli Stati Uniti.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Albert Einstein e Charles Darwin sposarono entrambi i loro cugini di primo grado",
   "notizie": [
+    {
+      "titolo": "I Maya inquinavano i laghi con il mercurio già duemila anni fa: la scoperta nei sedimenti",
+      "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/i-maya-inquinavano-i-laghi-con-il-mercurio-gia-duemila-anni-fa-la-scoperta-nei-sedimenti/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Mappa-Mesoamerica.jpg",
+      "data": "06/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Il rosso dei Maya potrebbe aver contaminato due bacini per secoli: trovati livelli tossici di mercurio"
+    },
     {
       "titolo": "La nuova scuola del Texas prende il nome dall'inserviente di lunga data \"Miss Marilyn\" (guarda la sua reazione)",
       "link": "https://www.goodnewsnetwork.org/new-texas-school-is-named-for-longtime-janitor-miss-marilyn-watch-her-reaction/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "30/10/2026",
-      "categoria": "Mondo",
-      "sommario": "A differenza della bellezza, l'onore si manifesta negli occhi degli onorati. E anche se non è un anello del Super Bowl o un Academy Award, per un custode di carriera in una scuola del Texas..."
-    },
-    {
-      "titolo": "Hubble rivela una straordinaria svolta nel modo in cui l'universo è emerso dall'oscurità",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
-      "fonte": "Science Daily",
       "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
       "data": "30/10/2026",
       "categoria": "Mondo",
-      "sommario": "Una sorprendente scoperta degli astronomi che utilizzano il Telescopio Spaziale Hubble sta sfidando una spiegazione principale di come l'universo primordiale sia emerso da una densa f..."
+      "sommario": "A differenza della bellezza, l'onore si manifesta negli occhi degli onorati. E anche se non è un anello del Super Bowl o un Academy Award, per un custode di carriera in una scuola del Texas..."
     },
     {
       "titolo": "Stop ai fuochi d’artificio a Capodanno: nei Paesi Bassi scatta il divieto per tutelare gli animali (ma c’è chi vuole aggirarlo)",
