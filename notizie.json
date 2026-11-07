@@ -1,7 +1,34 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Il principe Carlo e il principe William non viaggiano mai sullo stesso aereo in caso di incidente.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "Ci sono circa 100 milioni di atti sessuali ogni giorno.",
   "notizie": [
+    {
+      "titolo": "I pensionati che hanno perso i coniugi si innamorano di nuovo a 88 anni, dopo essersi incontrati in palestra",
+      "link": "https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "31/10/2026",
+      "categoria": "Mondo",
+      "sommario": "Una coppia di pensionati che hanno perso i loro partner si sono innamorati di nuovo all'età di 88 anni, dopo essersi incontrati tra i bilancieri in palestra. Ora vedova, Barbara Thompso..."
+    },
+    {
+      "titolo": "Podcast Transcript 6 novembre 2026- 2 frammenti di corallo toccati in un laboratorio di Stanford: una storia di guarigione (più altre 9 soluzioni)",
+      "link": "https://www.optimistdaily.com/2026/11/podcast-transcript-november-6th-2026-2-coral-fragments-touched-in-a-stanford-lab-a-story-of-healing-plus-9-more-solutions/",
+      "fonte": "Optimist Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "06/11/2026",
+      "categoria": "Salute",
+      "sommario": "Descrizione dell'episodio: Due frammenti di corallo sono caduti in un serbatoio del laboratorio di Stanford e si sono toccati, e in pochi giorni quello sbiancato ha iniziato ad assorbire un..."
+    },
+    {
+      "titolo": "Una sorprendente scoperta sulla vitamina A sta cambiando ciò che gli scienziati sanno sulla visione",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "31/10/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati della Johns Hopkins University hanno scoperto un processo sorprendente che aiuta gli esseri umani a sviluppare una visione nitida prima della nascita, sfidando decenni di stupidità..."
+    },
     {
       "titolo": "KFC porta il pollo fritto sulle piste da sci di Cortina e Madonna di Campiglio: stiamo trasformando le Alpi in un fast-food",
       "link": "https://www.greenme.it/ambiente/kfc-porta-il-pollo-fritto-sulle-piste-da-sci-di-cortina-e-madonna-di-campiglio-stiamo-trasformando-le-alpi-in-un-fast-food/",
@@ -190,33 +217,6 @@
       "data": "01/11/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Tredici studiosi, oltre seicento anni di esperienza complessiva: raccontano perché hanno dato più spazio ad amici, famiglia e piccoli piaceri"
-    },
-    {
-      "titolo": "I pensionati che hanno perso i coniugi si innamorano di nuovo a 88 anni, dopo essersi incontrati in palestra",
-      "link": "https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "31/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Una coppia di pensionati che hanno perso i loro partner si sono innamorati di nuovo all'età di 88 anni, dopo essersi incontrati tra i bilancieri in palestra. Ora vedova, Barbara Thompso..."
-    },
-    {
-      "titolo": "Un semplice esame del sangue potrebbe rivelare il rischio di Alzheimer 10 anni prima dei sintomi",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "31/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Un importante studio internazionale ha scoperto che un semplice esame del sangue potrebbe aiutare a prevedere il declino cognitivo correlato all'Alzheimer anni prima che compaiano i sintomi, con..."
-    },
-    {
-      "titolo": "Una sorprendente scoperta sulla vitamina A sta cambiando ciò che gli scienziati sanno sulla visione",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "31/10/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati della Johns Hopkins University hanno scoperto un processo sorprendente che aiuta gli esseri umani a sviluppare una visione nitida prima della nascita, sfidando decenni di stupidità..."
     }
   ]
 }
