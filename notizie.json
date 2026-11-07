@@ -1,7 +1,16 @@
 {
   "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "I baby pettirossi mangiano 4 metri di lombrichi ogni giorno",
+  "curiosita": "Nel 1912 fu approvata una legge in Nebraska in cui i conducenti nel paese di notte dovevano fermarsi ogni 150 metri, lanciare un razzo, aspettare otto minuti che la strada si liberasse prima di procedere con cautela, suonando il clacson e sparando razzi.",
   "notizie": [
+    {
+      "titolo": "Cosa succede alla coppia quando il partner diventa un trofeo da esporre sui social? Lo studio tutto italiano",
+      "link": "https://www.greenme.it/salute-e-alimentazione/psicologia/cosa-succede-alla-coppia-quando-il-partner-diventa-un-trofeo-da-esporre-sui-social-lo-studio-tutto-italiano/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/coppia-e-perfezionismo.jpg",
+      "data": "07/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Le coppie perfette dei social e le aspettative in amore: cosa hanno osservato sei ricercatrici italiane"
+    },
     {
       "titolo": "Abbiamo visitato Mergozzo, il borgo affacciato sulle acque cristalline del lago più pulito d’Italia",
       "link": "https://www.greenme.it/viaggi/italia/mergozzo-lago-piu-pulito-ditalia/",
@@ -10,15 +19,6 @@
       "data": "07/11/2026",
       "categoria": "Mondo",
       "sommario": "Siamo stati al Lago di Mergozzo, il bacino più pulito d'Italia a due passi dal Maggiore: acque cristalline, natura incontaminata e zero motoscafi per una fug..."
-    },
-    {
-      "titolo": "I pensionati che hanno perso i coniugi si innamorano di nuovo a 88 anni, dopo essersi incontrati in palestra",
-      "link": "https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "31/10/2026",
-      "categoria": "Mondo",
-      "sommario": "Una coppia di pensionati che hanno perso i loro partner si sono innamorati di nuovo all'età di 88 anni, dopo essersi incontrati tra i bilancieri in palestra. Ora vedova, Barbara Thompso..."
     },
     {
       "titolo": "Gli scienziati scoprono che le antiche foreste europee non erano affatto come le immaginavamo",
