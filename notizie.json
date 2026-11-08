@@ -1,7 +1,25 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Non importa dove ti trovi in Michigan, non sei mai a più di 85 miglia da un Grande Lago.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "Quando scegli un partner, quanto ti influenzano i consigli degli amici? Per gli scienziati dipende se sono o meno single",
+      "link": "https://www.greenme.it/salute-e-alimentazione/psicologia/quando-scegli-un-partner-quanto-ti-influenzano-i-consigli-degli-amici-cosa-ha-appena-scoperto-questo-studio/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/amici-e-consigli-su-partner.jpg",
+      "data": "08/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Amici single o fidanzati? Uno studio rivela come cambiano i consigli che ascoltiamo in amore"
+    },
+    {
+      "titolo": "Lo “Stonehenge d’Oriente” potrebbe essersi spostato nei millenni: la scoperta che riapre il mistero",
+      "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/lo-stonehenge-doriente-potrebbe-essersi-spostato-nei-millenni-la-scoperta-che-riapre-il-mistero/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Rujm-el-Hiri.jpg",
+      "data": "08/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Nel Golan, 28 grandi cerchi di pietra individuati dai satelliti cambiano la storia dell'antico e misterioso monumento soprannominato Stonehenge d'Oriente"
+    },
     {
       "titolo": "Un limite nascosto di spazio e tempo potrebbe sbloccare l'elettronica 100.000 volte più velocemente",
       "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
