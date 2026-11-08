@@ -1,7 +1,25 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Shakespeare ha inventato la parola \"assassinio\" e \"urto\".",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Non importa dove ti trovi in Michigan, non sei mai a più di 85 miglia da un Grande Lago.",
   "notizie": [
+    {
+      "titolo": "Un limite nascosto di spazio e tempo potrebbe sbloccare l'elettronica 100.000 volte più velocemente",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "07/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto un sorprendente limite quantico che impedisce agli elettroni di essere tracciati con precisione illimitata sia nello spazio che nel tempo. La rottura..."
+    },
+    {
+      "titolo": "Gli scienziati spremono la potenza dei raggi X da record in un punto incredibilmente piccolo",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012329.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "08/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno creato lampi di raggi X da record che durano solo 300 attosecondi, concentrando un potere enorme in un punto incredibilmente piccolo. Il breakthrou..."
+    },
     {
       "titolo": "Cosa succede alla coppia quando il partner diventa un trofeo da esporre sui social? Lo studio tutto italiano",
       "link": "https://www.greenme.it/salute-e-alimentazione/psicologia/cosa-succede-alla-coppia-quando-il-partner-diventa-un-trofeo-da-esporre-sui-social-lo-studio-tutto-italiano/",
