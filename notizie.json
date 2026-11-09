@@ -1,7 +1,16 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Le fasce di gomma durano più a lungo quando sono refrigerate.",
   "notizie": [
+    {
+      "titolo": "Un antico oceano pieno di predatori giganti rivela una svolta sorprendente nell'evoluzione",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "08/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una notevole scoperta fossile in Colombia sta sfidando il modo in cui gli scienziati comprendono i principali cambiamenti evolutivi nella storia della Terra. I ricercatori hanno scoperto un in..."
+    },
     {
       "titolo": "Quando scegli un partner, quanto ti influenzano i consigli degli amici? Per gli scienziati dipende se sono o meno single",
       "link": "https://www.greenme.it/salute-e-alimentazione/psicologia/quando-scegli-un-partner-quanto-ti-influenzano-i-consigli-degli-amici-cosa-ha-appena-scoperto-questo-studio/",
@@ -253,15 +262,6 @@
       "data": "03/11/2026",
       "categoria": "Mondo",
       "sommario": "Un cane da guardia ha criticato la mancanza di progressi compiuti dalle organizzazioni nell'affrontare il cambiamento climatico."
-    },
-    {
-      "titolo": "COP17, accordo per salvare la biodiversità entro il 2030, ma mancano i fondi: cosa è stato deciso in Armenia (e cosa no)",
-      "link": "https://www.greenme.it/ambiente/cop17-accordo-per-salvare-la-biodiversita-entro-il-2030-ma-mancano-i-fondi-cosa-e-stato-deciso-in-armenia-e-cosa-no/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/02/Fiume-biodiversita.jpg",
-      "data": "02/11/2026",
-      "categoria": "Animali",
-      "sommario": "Si chiude la Conferenza ONU sulla biodiversità con un nuovo piano per accelerare la tutela della natura. Ma gli obiettivi globali restano lontani e le risors..."
     }
   ]
 }
