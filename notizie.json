@@ -1,7 +1,43 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Le fasce di gomma durano più a lungo quando sono refrigerate.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Dove il muro e il filo spinato dividevano la Germania, oggi c’è un lungo corridoio verde che ospita oltre 5000 specie",
+      "link": "https://www.greenme.it/ambiente/natura/dove-il-muro-e-il-filo-spinato-dividevano-la-germania-oggi-ce-un-lungo-corridoio-verde-che-ospita-oltre-5000-specie/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/green-belt-germania.jpg",
+      "data": "09/11/2026",
+      "categoria": "Animali",
+      "sommario": "Dove un tempo correva la Cortina di ferro che divideva Germania Est e Germania Ovest, oggi si estende un corridoio verde lungo 1.400 chilometri, rifugio per ..."
+    },
+    {
+      "titolo": "\"I progressi digitali stanno rimodellando la conservazione della natura\", affermano gli esperti",
+      "link": "https://www.positive.news/environment/digital-advances-are-reshaping-nature-conservation-say-experts/",
+      "fonte": "Positive News",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "09/11/2026",
+      "categoria": "Animali",
+      "sommario": "La tecnologia e il rapido progresso dell'IA stanno aprendo nuove possibilità nella corsa per salvare la natura, secondo un rapporto\nIl post \"I progressi digitali sono..."
+    },
+    {
+      "titolo": "Una svolta quantistica fa sì che la luce si comporti sia come un solido che come un liquido",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "09/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno osservato un bizzarro stato quantistico della materia che combina la struttura di un cristallo con il flusso senza attrito di un liquido, il tutto a temperatura ambiente..."
+    },
+    {
+      "titolo": "La beneficenza vuole aumentare la popolazione di api, uccelli e farfalle",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "09/11/2026",
+      "categoria": "Animali",
+      "sommario": "Berkshire, Buckinghamshire e Oxfordshire Wildlife Trust mira a raccogliere £70.000 per il progetto."
+    },
     {
       "titolo": "Un antico oceano pieno di predatori giganti rivela una svolta sorprendente nell'evoluzione",
       "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
