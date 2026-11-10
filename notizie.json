@@ -1,15 +1,60 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "La madre di Adolf Hitler prese seriamente in considerazione la possibilità di abortire, ma fu dissuasa dal suo medico.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "Il nome più popolare al mondo è Muhammad.",
   "notizie": [
     {
-      "titolo": "Gli scienziati identificano due abilità trascurate che predicono il successo della lettura",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
+      "titolo": "Forestami, doppio riconoscimento per il progetto che sta ridisegnando il futuro verde di Milano",
+      "link": "https://www.greenme.it/ambiente/forestami-doppio-riconoscimento-per-il-progetto-che-sta-ridisegnando-il-futuro-verde-di-milano/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/forestami.jpg",
+      "data": "10/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Forestami ha ricevuto il Premio Sviluppo Sostenibile 2026 di Ecomondo, dopo il riconoscimento ONU come World Restoration Flagship. Al Forum di Palazzo Isimba..."
+    },
+    {
+      "titolo": "Perché a San Martino si accendono le lanterne? Scopri l’antica tradizione e come realizzarle (insieme ai bambini) con materiali di riciclo",
+      "link": "https://www.greenme.it/casa-e-giardino/diy-upcycling/come-realizzare-lanterna-san-martino-tradizione/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2023/11/lanterna-san-martino.jpg",
+      "data": "10/11/2026",
+      "categoria": "Società",
+      "sommario": "In occasione dell'11 novembre, i bambini di numerosi Paesi europei realizzano meravigliose lanterne dedicate al Santo. Ti racconto le origini di questa tradi..."
+    },
+    {
+      "titolo": "Maya, ex cane da soccorso, non riesce più a camminare: portata per l’ultima volta a rivedere il mare (dove per anni ha salvato vite)",
+      "link": "https://www.greenme.it/pet/cani/maya-ex-cane-da-soccorso-rivedere-il-mare/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Maya-rivede-il-mare.jpg",
+      "data": "10/11/2026",
+      "categoria": "Animali",
+      "sommario": "La storia commovente di Maya: l’ex cane soccorritore della Croce Rossa di 15 anni e mezzo non può più camminare, ma torna a rivedere il mare grazie all’ambul..."
+    },
+    {
+      "titolo": "La storia di Annautaq, l’adorabile cucciolo di tricheco trovato solo in Alaska e salvato dai biologi (ma che non potrà tornare in natura)",
+      "link": "https://www.greenme.it/animali/animali-selvatici/annautaq-cucciolo-tricheco-trovato-solo-in-alaska/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Tricheco-Alaska.jpg",
+      "data": "10/11/2026",
+      "categoria": "Animali",
+      "sommario": "Ritrovato a 5 mesi tra le carcasse di due adulti nel gelo dell'Alaska, il cucciolo di tricheco Annautaq è stato salvato da due biologi e trasferito al SeaWor..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono finalmente perché impariamo ad amare il caffè amaro",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "03/11/2026",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "09/11/2026",
       "categoria": "Scienza & Tech",
-      "sommario": "Un nuovo massiccio studio rivela che l'intelligenza gioca un ruolo sorprendentemente limitato nel successo della lettura dei bambini, mentre l'elaborazione visiva non ha mostrato alcuna c..."
+      "sommario": "Gli scienziati hanno scoperto un percorso nascosto della dopamina da intestino a cervello che aiuta a spiegare perché il caffè amaro e altri sapori inizialmente sgradevoli possono diventare favoriti..."
+    },
+    {
+      "titolo": "Dopo 40 anni, il CERN trova prove di un decadimento di particelle su 10 miliardi",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "10/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati del CERN hanno finalmente trovato prove di un decadimento di particelle così raro che si verifica solo una volta su circa 10 miliardi di decadimenti, ponendo fine a una ricerca che copre più..."
     },
     {
       "titolo": "Dove il muro e il filo spinato dividevano la Germania, oggi c’è un lungo corridoio verde che ospita oltre 5000 specie",
