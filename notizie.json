@@ -1,7 +1,16 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "La madre di Adolf Hitler prese seriamente in considerazione la possibilità di abortire, ma fu dissuasa dal suo medico.",
   "notizie": [
+    {
+      "titolo": "Gli scienziati identificano due abilità trascurate che predicono il successo della lettura",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "03/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un nuovo massiccio studio rivela che l'intelligenza gioca un ruolo sorprendentemente limitato nel successo della lettura dei bambini, mentre l'elaborazione visiva non ha mostrato alcuna c..."
+    },
     {
       "titolo": "Dove il muro e il filo spinato dividevano la Germania, oggi c’è un lungo corridoio verde che ospita oltre 5000 specie",
       "link": "https://www.greenme.it/ambiente/natura/dove-il-muro-e-il-filo-spinato-dividevano-la-germania-oggi-ce-un-lungo-corridoio-verde-che-ospita-oltre-5000-specie/",
@@ -235,69 +244,6 @@
       "data": "04/11/2026",
       "categoria": "Animali",
       "sommario": "Questo articolo fa parte della serie The Optimist Daily's Local Changemakers 2026, che mette in luce i changemaker sotto i 30 anni. Image alt text: Maya Higa all'Alveus Sanc..."
-    },
-    {
-      "titolo": "Sei single? Puoi viaggiare gratis in Finlandia per cercare l’amore: come candidarti per un soggiorno (tutto spesato)",
-      "link": "https://www.greenme.it/viaggi/europa/single-viaggiare-gratis-finlandia-cercare-amore/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Finlandia-viaggio-gratis.jpg",
-      "data": "03/11/2026",
-      "categoria": "Mondo",
-      "sommario": "La Finlandia offre un viaggio gratis di 4 giorni a 16 single con l’iniziativa Finnish Dinner Date con cene al buio firmate da grandi chef e saune tra Helsink..."
-    },
-    {
-      "titolo": "In ricordo di Laika, la cagnolina lanciata nello spazio (e sacrificata in nome del “progresso”)",
-      "link": "https://www.greenme.it/pet/cani/laika-cane-spazio-3-novembre-1957-sacrificio-inutile/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2023/11/laika.jpg",
-      "data": "03/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Il 3 novembre 1957 una cagnolina di nome Laika venne lanciata nello spazio a bordo dello Sputnik 2. E non fece mai ritorno. La sua drammatica triste storia r..."
-    },
-    {
-      "titolo": "Halloween, la terribile scoperta nei dolcetti dei bambini: aghi e viti nascosti, è caccia ai responsabili in Germania",
-      "link": "https://www.greenme.it/lifestyle/bambini/halloween-la-terribile-scoperta-nei-dolcetti-dei-bambini-aghi-e-viti-nascosti-e-caccia-ai-responsabili-in-germania/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/allerta-dolci-halloween.jpg",
-      "data": "03/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "In Germania si moltiplicano le segnalazioni di aghi, spilli e viti nascosti nelle caramelle e nelle barrette di cioccolato raccolte dai bambini la notte di H..."
-    },
-    {
-      "titolo": "Le migliori pompe di calore per la casa: come scegliere quella giusta per riscaldare e raffrescare risparmiando energia",
-      "link": "https://www.greenme.it/casa-e-giardino/casa-energia/le-migliori-pompe-di-calore-per-la-casa-come-scegliere-quella-giusta-per-riscaldare-e-raffrescare-risparmiando-energia/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/pompa-di-calore.jpg",
-      "data": "03/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Con l'arrivo dei primi freddi, torna anche il momento di accendere il riscaldamento e chiedersi se l'impianto di casa sia davvero quello più adatto alle prop..."
-    },
-    {
-      "titolo": "Ecomondo 2026, camion e mobilità pesante: le novità dalla Fiera di Rimini",
-      "link": "https://www.rinnovabili.it/mobilita/logistica/ecomondo-2026-tutte-le-novita-della-mobilita-pesante/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "03/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Ecomondo 2026: quali novità nel comparto dei mezzi pesanti dalla fiera dell'innovazione green e sostenibile?\nL'articolo Ecomondo 2026, camion e mobilità pesa..."
-    },
-    {
-      "titolo": "Gli scienziati identificano due abilità trascurate che predicono il successo della lettura",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "03/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Un nuovo massiccio studio rivela che l'intelligenza gioca un ruolo sorprendentemente limitato nel successo della lettura dei bambini, mentre l'elaborazione visiva non ha mostrato alcuna c..."
-    },
-    {
-      "titolo": "Secondo i revisori dei conti, è improbabile che il settore pubblico gallese soddisfi i piani di azzeramento netto entro il 2030",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "03/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Un cane da guardia ha criticato la mancanza di progressi compiuti dalle organizzazioni nell'affrontare il cambiamento climatico."
     }
   ]
 }
