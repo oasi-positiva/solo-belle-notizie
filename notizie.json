@@ -1,7 +1,25 @@
 {
   "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "L'unica nazione il cui nome inizia con una \"A\", ma non finisce con una \"A\" è l'Afghanistan.",
+  "curiosita": "Il Monte Olimpo su Marte è tre volte più grande del Monte Everest.",
   "notizie": [
+    {
+      "titolo": "PFAS, e se bastasse la luce per individuarli nell’acqua? La scoperta dei ricercatori italiani",
+      "link": "https://www.greenme.it/ambiente/acqua/pfas-e-se-bastasse-la-luce-per-individuarli-nellacqua-la-scoperta-dei-ricercatori-italiani/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2025/06/acqua-fontanelle-pfas.jpg",
+      "data": "11/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Individuare i PFAS nell'acqua potrebbe diventare più semplice e veloce grazie a una nuova tecnologia sviluppata in Italia. L'Università di Verona e Acque del..."
+    },
+    {
+      "titolo": "La popolazione di orsi bruni in Spagna raddoppia grazie a un incredibile aumento dell'area di riproduzione",
+      "link": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "11/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Dall'orlo dell'estinzione al vagare per 16.832 chilometri quadrati, le popolazioni di orsi bruni cantabrici in Spagna sono raddoppiate negli ultimi 20 anni, raggiungendo i 370 esemplari...."
+    },
     {
       "titolo": "Camion elettrici, MAN: il mercato raddoppia ogni anno. Entro il 2035 un veicolo su due sarà a zero emissioni",
       "link": "https://www.rinnovabili.it/mobilita/logistica/camion-elettrici-man-mercato-in-raddoppio-ogni-anno/",
