@@ -1,7 +1,34 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Il cuore umano crea una pressione sufficiente a spruzzare sangue per 9 metri.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "L'unica nazione il cui nome inizia con una \"A\", ma non finisce con una \"A\" è l'Afghanistan.",
   "notizie": [
+    {
+      "titolo": "Camion elettrici, MAN: il mercato raddoppia ogni anno. Entro il 2035 un veicolo su due sarà a zero emissioni",
+      "link": "https://www.rinnovabili.it/mobilita/logistica/camion-elettrici-man-mercato-in-raddoppio-ogni-anno/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "11/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Allo stand MAN di Ecomondo 2026, Francesco Turati racconta l’impennata di richieste favorita dal caro carburante, il ruolo dello stabilimento di Norimberga, ..."
+    },
+    {
+      "titolo": "Dove sono tutti i maschi? Antichi fossili umani rivelano un mistero sorprendente",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "11/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una notevole scoperta in una grotta sudafricana suggerisce che un parente umano estinto potrebbe aver creato un luogo di sepoltura tutto al femminile più di 240.000 anni fa..."
+    },
+    {
+      "titolo": "L'offerta per ripristinare la rara foresta pluviale atlantica garantisce una sovvenzione di £6 milioni alla lotteria",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "11/11/2026",
+      "categoria": "Mondo",
+      "sommario": "A Torridon, Morvern e a metà Argyll saranno istituiti degli hub che offrono formazione sul lavoro di conservazione."
+    },
     {
       "titolo": "Gli astronomi scoprono un pianeta alieno nascosto nelle immagini di James Webb",
       "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
@@ -10,24 +37,6 @@
       "data": "10/11/2026",
       "categoria": "Mondo",
       "sommario": "Una svolta nell'imaging al telescopio potrebbe rivelare innumerevoli mondi alieni che si sono nascosti in bella vista. Gli scienziati hanno sviluppato una nuova tecnica che utilizza ..."
-    },
-    {
-      "titolo": "Gli scienziati dello SLAC trovano la prova conclusiva di un misterioso terzo tipo di magnetismo",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "04/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Per quasi 90 anni, gli scienziati hanno creduto che il magnetismo rientrasse solo in due categorie, ma i ricercatori hanno ora confermato un terzo tipo notevole chiamato altermagn..."
-    },
-    {
-      "titolo": "Gli scienziati del MIT infrangono una regola di 20 anni e sbloccano strutture cristalline mai viste prima",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "04/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati del MIT hanno sfidato due decenni di pensiero convenzionale scoprendo che le connessioni molecolari flessibili, piuttosto che quelle rigide, possono sbloccare..."
     },
     {
       "titolo": "In Burkina Faso la rinascita delle foreste passa dalle donne: quasi 10mila alberi per contrastare malnutrizione e povertà",
