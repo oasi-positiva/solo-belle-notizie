@@ -1,7 +1,34 @@
 {
   "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "La soda agli agrumi 7-UP è stata creata nel 1929; \"7\" è stato selezionato dopo i contenitori originali da 7 once e \"UP\" per la direzione delle bolle.",
+  "curiosita": "Il cuore umano crea una pressione sufficiente a spruzzare sangue per 9 metri.",
   "notizie": [
+    {
+      "titolo": "Gli astronomi scoprono un pianeta alieno nascosto nelle immagini di James Webb",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "10/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una svolta nell'imaging al telescopio potrebbe rivelare innumerevoli mondi alieni che si sono nascosti in bella vista. Gli scienziati hanno sviluppato una nuova tecnica che utilizza ..."
+    },
+    {
+      "titolo": "Gli scienziati dello SLAC trovano la prova conclusiva di un misterioso terzo tipo di magnetismo",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "04/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Per quasi 90 anni, gli scienziati hanno creduto che il magnetismo rientrasse solo in due categorie, ma i ricercatori hanno ora confermato un terzo tipo notevole chiamato altermagn..."
+    },
+    {
+      "titolo": "Gli scienziati del MIT infrangono una regola di 20 anni e sbloccano strutture cristalline mai viste prima",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "04/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati del MIT hanno sfidato due decenni di pensiero convenzionale scoprendo che le connessioni molecolari flessibili, piuttosto che quelle rigide, possono sbloccare..."
+    },
     {
       "titolo": "In Burkina Faso la rinascita delle foreste passa dalle donne: quasi 10mila alberi per contrastare malnutrizione e povertà",
       "link": "https://www.greenme.it/ambiente/in-burkina-faso-la-rinascita-delle-foreste-passa-dalle-donne-quasi-10mila-alberi-per-contrastare-malnutrizione-e-poverta/",
@@ -253,60 +280,6 @@
       "data": "05/11/2026",
       "categoria": "Animali",
       "sommario": "Grazie a sforzi di conservazione dedicati, le sterne a sandwich hanno bonificato una colonia sulla costa meridionale dell'Inghilterra 3 anni dopo essere state spazzate via dall'influenza aviaria. Oggi,..."
-    },
-    {
-      "titolo": "Sta per tornare il mercatino di Natale più antico d’Italia, manca pochissimo alla sua apertura",
-      "link": "https://www.greenme.it/viaggi/italia/tra-1-300-luci-e-120-bancarelle-torna-il-mercatino-di-natale-di-bolzano-che-festeggia-35-anni/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/mercatino-di-natale-bolzano-1.jpg",
-      "data": "04/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Quest'anno il tradizionale Christkindlmarkt di Bolzano festeggia la sua 35ª edizione, trasformando la città in un racconto d'Avvento. L'evento si distingue n..."
-    },
-    {
-      "titolo": "Dalla riforestazione di Milano al recupero delle acque industriali, i progetti vincitori del Premio Sviluppo Sostenibile 2026",
-      "link": "https://www.greenme.it/ambiente/ecomondo-2022/dalla-riforestazione-di-milano-al-recupero-delle-acque-industriali-i-progetti-vincitori-del-premio-sviluppo-sostenibile-2026/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/premio-sviluppo-sostenibile-2026.jpg",
-      "data": "04/11/2026",
-      "categoria": "Società",
-      "sommario": "Quali sono i progetti più innovativi della green economy italiana? Dalla riforestazione urbana di Milano al Comune San Lazzaro di Savena, che ha fatto dell'e..."
-    },
-    {
-      "titolo": "Gli scienziati dello SLAC trovano la prova conclusiva di un misterioso terzo tipo di magnetismo",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "04/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Per quasi 90 anni, gli scienziati hanno creduto che il magnetismo rientrasse solo in due categorie, ma i ricercatori hanno ora confermato un terzo tipo notevole chiamato altermagn..."
-    },
-    {
-      "titolo": "Gli scienziati del MIT infrangono una regola di 20 anni e sbloccano strutture cristalline mai viste prima",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "04/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati del MIT hanno sfidato due decenni di pensiero convenzionale scoprendo che le connessioni molecolari flessibili, piuttosto che quelle rigide, possono sbloccare..."
-    },
-    {
-      "titolo": "Una piccola compressione cambia drasticamente il magnetismo dei materiali esotici",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "04/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno scoperto che una semplice compressione meccanica può alterare drasticamente le proprietà magnetiche e il comportamento elettrico di materiali esotici chiamati..."
-    },
-    {
-      "titolo": "Maya Higa ha costruito un santuario della fauna selvatica su Twitch, finanziato dalle persone che lo guardano",
-      "link": "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/",
-      "fonte": "Optimist Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "04/11/2026",
-      "categoria": "Animali",
-      "sommario": "Questo articolo fa parte della serie The Optimist Daily's Local Changemakers 2026, che mette in luce i changemaker sotto i 30 anni. Image alt text: Maya Higa all'Alveus Sanc..."
     }
   ]
 }
