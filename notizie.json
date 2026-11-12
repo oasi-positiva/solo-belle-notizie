@@ -1,7 +1,16 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Il toponimo più lungo ancora in uso è: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, una collina neozelandese.",
   "notizie": [
+    {
+      "titolo": "La Cina inaugura il più grande esempio al mondo di nuovo e conveniente sistema di accumulo di energia verde",
+      "link": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "12/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Il più grande sistema al mondo di stoccaggio di energia rinnovabile ad aria liquida entra in funzione in Cina Entra in funzione il più grande esempio al mondo di un nuovo e conveniente sistema di stoccaggio di energia verde (penso..."
+    },
     {
       "titolo": "Legge Aree Idonee della Puglia, ecco il testo finale",
       "link": "https://www.rinnovabili.it/energia/infrastrutture/legge-aree-idonee-puglia-testo/",
