@@ -1,7 +1,34 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Il Monte Olimpo su Marte è tre volte più grande del Monte Everest.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "Gli uccelli marini assistono a una ripresa miracolosa dopo essere stati decimati dall'influenza aviaria",
+      "link": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "05/11/2026",
+      "categoria": "Animali",
+      "sommario": "Grazie agli sforzi dedicati alla conservazione, le sterne comuni hanno riconquistato una colonia sulla costa meridionale dell'Inghilterra 3 anni dopo essere state spazzate via dall'influenza aviaria. Oggi,..."
+    },
+    {
+      "titolo": "La sonda solare Parker della NASA scopre uno schema nascosto nei campi magnetici caotici del Sole",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "12/11/2026",
+      "categoria": "Mondo",
+      "sommario": "La sonda solare Parker della NASA ha svelato un sorprendente segreto nascosto nel caos dello spazio: i campi magnetici turbolenti invertono la loro direzione di rotazione quando..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono che un filtro intasato potrebbe rivoluzionare la raffinazione del petrolio",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "05/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli sciotifici hanno sviluppato una nuova e straordinaria membrana che separa il petrolio greggio a temperatura ambiente, utilizzando lo stesso petrolio per creare canali di filtrazione microscopici..."
+    },
     {
       "titolo": "PFAS, e se bastasse la luce per individuarli nell’acqua? La scoperta dei ricercatori italiani",
       "link": "https://www.greenme.it/ambiente/acqua/pfas-e-se-bastasse-la-luce-per-individuarli-nellacqua-la-scoperta-dei-ricercatori-italiani/",
@@ -280,33 +307,6 @@
       "data": "06/11/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Il rosso dei Maya potrebbe aver contaminato due bacini per secoli: trovati livelli tossici di mercurio"
-    },
-    {
-      "titolo": "Stop ai fuochi d’artificio a Capodanno: nei Paesi Bassi scatta il divieto per tutelare gli animali (ma c’è chi vuole aggirarlo)",
-      "link": "https://www.greenme.it/lifestyle/costume-e-societa/paesi-bassi-addio-fuochi-dartificio-capodanno/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/08/fuochi-dartificio.jpg",
-      "data": "05/11/2026",
-      "categoria": "Animali",
-      "sommario": "Svolta nei Paesi Bassi: dal Capodanno 2026-2027 scatta il divieto di fuochi d'artificio per i privati. Una scelta a tutela degli animali che accende però rov..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono che un filtro intasato potrebbe rivoluzionare la raffinazione del petrolio",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "05/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno sviluppato una nuova straordinaria membrana che separa il petrolio greggio a temperatura ambiente, utilizzando l'olio stesso per creare un canale di filtrazione microscopico..."
-    },
-    {
-      "titolo": "Il recupero miracoloso vede gli uccelli marini reclamare l'ex colonia dopo che l'influenza aviaria li ha spazzati via",
-      "link": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "05/11/2026",
-      "categoria": "Animali",
-      "sommario": "Grazie a sforzi di conservazione dedicati, le sterne a sandwich hanno bonificato una colonia sulla costa meridionale dell'Inghilterra 3 anni dopo essere state spazzate via dall'influenza aviaria. Oggi,..."
     }
   ]
 }
