@@ -1,15 +1,15 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
     {
-      "titolo": "Gli uccelli marini assistono a una ripresa miracolosa dopo essere stati decimati dall'influenza aviaria",
-      "link": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "05/11/2026",
-      "categoria": "Animali",
-      "sommario": "Grazie agli sforzi dedicati alla conservazione, le sterne comuni hanno riconquistato una colonia sulla costa meridionale dell'Inghilterra 3 anni dopo essere state spazzate via dall'influenza aviaria. Oggi,..."
+      "titolo": "Legge Aree Idonee della Puglia, ecco il testo finale",
+      "link": "https://www.rinnovabili.it/energia/infrastrutture/legge-aree-idonee-puglia-testo/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "12/11/2026",
+      "categoria": "Mondo",
+      "sommario": "L’emendamento interamente sostitutivo approvato in Consiglio ha ridefinito il testo per renderlo “coerente con il quadro normativo nazionale e rafforzarne gl..."
     },
     {
       "titolo": "La sonda solare Parker della NASA scopre uno schema nascosto nei campi magnetici caotici del Sole",
@@ -19,15 +19,6 @@
       "data": "12/11/2026",
       "categoria": "Mondo",
       "sommario": "La sonda solare Parker della NASA ha svelato un sorprendente segreto nascosto nel caos dello spazio: i campi magnetici turbolenti invertono la loro direzione di rotazione quando..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono che un filtro intasato potrebbe rivoluzionare la raffinazione del petrolio",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "05/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli sciotifici hanno sviluppato una nuova e straordinaria membrana che separa il petrolio greggio a temperatura ambiente, utilizzando lo stesso petrolio per creare canali di filtrazione microscopici..."
     },
     {
       "titolo": "PFAS, e se bastasse la luce per individuarli nell’acqua? La scoperta dei ricercatori italiani",
