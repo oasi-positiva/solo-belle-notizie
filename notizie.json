@@ -1,15 +1,42 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Le formiche hanno comportamenti molto simili a quelli degli esseri umani: quando si svegliano, si stiracchiano e sembrano sbadigliare come gli esseri umani prima di dedicarsi alle attività della giornata.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Un cuoio capelluto umano medio ha 100.000 capelli.",
   "notizie": [
+    {
+      "titolo": "Dalla stretta sui circhi al traffico illecito di pet: a che punto è la tutela degli animali in Campania? Risponde l’assessora Fiorella Zabatta",
+      "link": "https://www.greenme.it/news/interviste/dalla-stretta-sui-circhi-al-traffico-illecito-di-pet-a-che-punto-e-la-tutela-degli-animali-in-campania-risponde-lassessora-fiorella-zabatta/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/circhi_Campania_Zabatta.jpg",
+      "data": "13/11/2026",
+      "categoria": "Animali",
+      "sommario": "La Campania rafforza i controlli sugli animali nei circhi, mentre il divieto nazionale continua a essere rinviato. L'assessora Fiorella Zabatta spiega a Gree..."
+    },
+    {
+      "titolo": "Scoperta la più antica prova del consumo di cannabis in una tomba in Siberia di 2800 anni fa",
+      "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/scoperta-la-piu-antica-prova-del-consumo-di-cannabis-in-una-tomba-in-siberia-di-2800-anni-fa/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/antichi-semi-di-cannabis.jpg",
+      "data": "13/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Cannabis nei capelli di 2.800 anni fa: la scoperta in una tomba scita in Siberia"
+    },
     {
       "titolo": "Persone di tutto il mondo contribuiscono all'acquisto di una tenuta reale per la conservazione della fauna selvatica",
       "link": "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "06/11/2026",
       "categoria": "Animali",
-      "sommario": "Il chiurlo, il bombo montano, la pavoncella e altri uccelli trampolieri sono solo alcuni degli animali che considerano questa tenuta nobiliare unica nel suo genere la loro casa. Ora, le persone in tutto il..."
+      "sommario": "Il chiurlo, il bombo alpino, la pavoncella e altri uccelli trampolieri sono solo alcuni degli animali che considerano questa tenuta nobiliare unica nel suo genere la loro casa. Ora, le persone in tutto il..."
+    },
+    {
+      "titolo": "Il National Trust riprende possesso dei terreni per il ripristino della natura",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "13/11/2026",
+      "categoria": "Animali",
+      "sommario": "La fondazione spera di restaurare il sito, creare nuovi habitat per la fauna selvatica e migliorare l'accesso agli spazi verdi."
     },
     {
       "titolo": "La svolta dell'occhio bionico basato sull'intelligenza artificiale potrebbe aiutare i non vedenti a riacquistare la vista",
