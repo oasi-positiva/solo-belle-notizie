@@ -1,7 +1,25 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Il toponimo più lungo ancora in uso è: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, una collina neozelandese.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Le formiche hanno comportamenti molto simili a quelli degli esseri umani: quando si svegliano, si stiracchiano e sembrano sbadigliare come gli esseri umani prima di dedicarsi alle attività della giornata.",
   "notizie": [
+    {
+      "titolo": "Persone di tutto il mondo contribuiscono all'acquisto di una tenuta reale per la conservazione della fauna selvatica",
+      "link": "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "06/11/2026",
+      "categoria": "Animali",
+      "sommario": "Il chiurlo, il bombo montano, la pavoncella e altri uccelli trampolieri sono solo alcuni degli animali che considerano questa tenuta nobiliare unica nel suo genere la loro casa. Ora, le persone in tutto il..."
+    },
+    {
+      "titolo": "La svolta dell'occhio bionico basato sull'intelligenza artificiale potrebbe aiutare i non vedenti a riacquistare la vista",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "12/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno sviluppato un approccio basato sull'intelligenza artificiale che rende più precisa la tecnologia sperimentale della visione bionica, contribuendo a prevedere i lampi e le forme della luce..."
+    },
     {
       "titolo": "La Cina inaugura il più grande esempio al mondo di nuovo e conveniente sistema di accumulo di energia verde",
       "link": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
@@ -271,42 +289,6 @@
       "data": "07/11/2026",
       "categoria": "Mondo",
       "sommario": "Iniziano i lavori per ripristinare la natura in una parte della Nuova Foresta distrutta da un incendio estivo."
-    },
-    {
-      "titolo": "Podcast Transcript 6 novembre 2026- 2 frammenti di corallo toccati in un laboratorio di Stanford: una storia di guarigione (più altre 9 soluzioni)",
-      "link": "https://www.optimistdaily.com/2026/11/podcast-transcript-november-6th-2026-2-coral-fragments-touched-in-a-stanford-lab-a-story-of-healing-plus-9-more-solutions/",
-      "fonte": "Optimist Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "06/11/2026",
-      "categoria": "Salute",
-      "sommario": "Descrizione dell'episodio: Due frammenti di corallo sono caduti in un serbatoio del laboratorio di Stanford e si sono toccati, e in pochi giorni quello sbiancato ha iniziato ad assorbire un..."
-    },
-    {
-      "titolo": "KFC porta il pollo fritto sulle piste da sci di Cortina e Madonna di Campiglio: stiamo trasformando le Alpi in un fast-food",
-      "link": "https://www.greenme.it/ambiente/kfc-porta-il-pollo-fritto-sulle-piste-da-sci-di-cortina-e-madonna-di-campiglio-stiamo-trasformando-le-alpi-in-un-fast-food/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/kfc_piste_sci.jpg",
-      "data": "06/11/2026",
-      "categoria": "Mondo",
-      "sommario": "KFC arriva dritto (anche) sulle piste da sci di Cortina e Madonna di Campiglio con due nuovi ristoranti ad alta quota. Tra ghiacciai che si sciolgono e turis..."
-    },
-    {
-      "titolo": "Persone in tutto il mondo aiutano ad acquistare la tenuta reale per la conservazione della fauna selvatica",
-      "link": "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "06/11/2026",
-      "categoria": "Animali",
-      "sommario": "Il ricciolo, il bombo di montagna, la pavoncella e altri uccelli trampolieri sono solo alcuni degli animali che definiscono una dimora nobiliare unica nel suo genere. Ora, le persone intorno a..."
-    },
-    {
-      "titolo": "I Maya inquinavano i laghi con il mercurio già duemila anni fa: la scoperta nei sedimenti",
-      "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/i-maya-inquinavano-i-laghi-con-il-mercurio-gia-duemila-anni-fa-la-scoperta-nei-sedimenti/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Mappa-Mesoamerica.jpg",
-      "data": "06/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Il rosso dei Maya potrebbe aver contaminato due bacini per secoli: trovati livelli tossici di mercurio"
     }
   ]
 }
