@@ -1,7 +1,34 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Un cuoio capelluto umano medio ha 100.000 capelli.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "Questo Paese è il primo in Europa per la tutela dei diritti LGBTQ+ (e l’Italia scivola al 36° posto nella classifica 2026)",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/questo-paese-e-il-primo-in-europa-per-la-tutela-dei-diritti-lgbtq-e-litalia-scivola-al-36-posto-nella-classifica-2026/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2023/08/BANDIERA-LGBT.jpg",
+      "data": "13/11/2026",
+      "categoria": "Mondo",
+      "sommario": "L'Italia è tra le mete turistiche più amate al mondo, ma sui diritti LGBTQ+ resta indietro: è solo 36ª su 49 Paesi europei. La Spagna conquista il primo post..."
+    },
+    {
+      "titolo": "Carlino affetto da una grave dermatite salvato dall’eutanasia: i veterinari si rifiutano di sopprimerlo e lo adattano",
+      "link": "https://www.greenme.it/pet/cani/carlino-dermatite-salvato-eutanasia/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Carlino-dermatite.jpg",
+      "data": "13/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Un carlino di 7 anni quasi senza peli per una grave dermatite viene salvato dall'eutanasia dai veterinari Babi Beira e Rafael che decidono di curarlo e adott..."
+    },
+    {
+      "titolo": "La bozza perduta del discorso \"I Have a Dream\" del Dr. King riemerge da un cassetto della scrivania",
+      "link": "https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "13/11/2026",
+      "categoria": "Mondo",
+      "sommario": "La bozza finale del discorso \"I have a dream\" del Dr. King viene alla luce dopo 60 anni (approccio totalmente alternativo) Incredibile scoperta della bozza originale del discorso \"I have a dream\" del Dr. King..."
+    },
     {
       "titolo": "Dalla stretta sui circhi al traffico illecito di pet: a che punto è la tutela degli animali in Campania? Risponde l’assessora Fiorella Zabatta",
       "link": "https://www.greenme.it/news/interviste/dalla-stretta-sui-circhi-al-traffico-illecito-di-pet-a-che-punto-e-la-tutela-degli-animali-in-campania-risponde-lassessora-fiorella-zabatta/",
@@ -19,15 +46,6 @@
       "data": "13/11/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Cannabis nei capelli di 2.800 anni fa: la scoperta in una tomba scita in Siberia"
-    },
-    {
-      "titolo": "Persone di tutto il mondo contribuiscono all'acquisto di una tenuta reale per la conservazione della fauna selvatica",
-      "link": "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "06/11/2026",
-      "categoria": "Animali",
-      "sommario": "Il chiurlo, il bombo alpino, la pavoncella e altri uccelli trampolieri sono solo alcuni degli animali che considerano questa tenuta nobiliare unica nel suo genere la loro casa. Ora, le persone in tutto il..."
     },
     {
       "titolo": "Il National Trust riprende possesso dei terreni per il ripristino della natura",
