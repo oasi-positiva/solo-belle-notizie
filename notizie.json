@@ -1,7 +1,34 @@
 {
   "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "curiosita": "Il papa più giovane di sempre aveva 11 anni.",
   "notizie": [
+    {
+      "titolo": "Gli scienziati osservano elettroni che compiono salti quantistici apparentemente impossibili",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "14/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno osservato elettroni che compiono salti apparentemente impossibili attraverso gap energetici proibiti nel grafene, con alcune transizioni che avvengono a una velocità notevole..."
+    },
+    {
+      "titolo": "Un limite nascosto di spazio e tempo potrebbe rendere l'elettronica 100.000 volte più veloce",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "07/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto un sorprendente limite quantistico che impedisce di tracciare gli elettroni con precisione illimitata sia nello spazio che nel tempo. La svolta..."
+    },
+    {
+      "titolo": "Gli scienziati scoprono che le antiche foreste d'Europa non erano affatto come le immaginavamo",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "07/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto prove del fatto che per oltre 20 milioni di anni l'Europa è stata dominata da boschi radi, prati colorati e grandi erbivori, ma..."
+    },
     {
       "titolo": "Questo Paese è il primo in Europa per la tutela dei diritti LGBTQ+ (e l’Italia scivola al 36° posto nella classifica 2026)",
       "link": "https://www.greenme.it/lifestyle/costume-e-societa/questo-paese-e-il-primo-in-europa-per-la-tutela-dei-diritti-lgbtq-e-litalia-scivola-al-36-posto-nella-classifica-2026/",
@@ -282,15 +309,6 @@
       "sommario": "Nel Golan, 28 grandi cerchi di pietra individuati dai satelliti cambiano la storia dell'antico e misterioso monumento soprannominato Stonehenge d'Oriente"
     },
     {
-      "titolo": "Un limite nascosto di spazio e tempo potrebbe sbloccare l'elettronica 100.000 volte più velocemente",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "07/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto un sorprendente limite quantico che impedisce agli elettroni di essere tracciati con precisione illimitata sia nello spazio che nel tempo. La rottura..."
-    },
-    {
       "titolo": "Gli scienziati spremono la potenza dei raggi X da record in un punto incredibilmente piccolo",
       "link": "https://www.sciencedaily.com/releases/2026/11/261104012329.htm",
       "fonte": "Science Daily",
@@ -298,42 +316,6 @@
       "data": "08/11/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Gli scienziati hanno creato lampi di raggi X da record che durano solo 300 attosecondi, concentrando un potere enorme in un punto incredibilmente piccolo. Il breakthrou..."
-    },
-    {
-      "titolo": "Cosa succede alla coppia quando il partner diventa un trofeo da esporre sui social? Lo studio tutto italiano",
-      "link": "https://www.greenme.it/salute-e-alimentazione/psicologia/cosa-succede-alla-coppia-quando-il-partner-diventa-un-trofeo-da-esporre-sui-social-lo-studio-tutto-italiano/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/coppia-e-perfezionismo.jpg",
-      "data": "07/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Le coppie perfette dei social e le aspettative in amore: cosa hanno osservato sei ricercatrici italiane"
-    },
-    {
-      "titolo": "Abbiamo visitato Mergozzo, il borgo affacciato sulle acque cristalline del lago più pulito d’Italia",
-      "link": "https://www.greenme.it/viaggi/italia/mergozzo-lago-piu-pulito-ditalia/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/Mergozzo-7-lago.jpg",
-      "data": "07/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Siamo stati al Lago di Mergozzo, il bacino più pulito d'Italia a due passi dal Maggiore: acque cristalline, natura incontaminata e zero motoscafi per una fug..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono che le antiche foreste europee non erano affatto come le immaginavamo",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "07/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto prove che l'Europa è stata dominata per più di 20 milioni di anni da boschi aperti, prati colorati e grandi animali da pascolo, n..."
-    },
-    {
-      "titolo": "Inizio dei lavori di ripristino del nuovo incendio boschivo della",
-      "link": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "07/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Iniziano i lavori per ripristinare la natura in una parte della Nuova Foresta distrutta da un incendio estivo."
     }
   ]
 }
