@@ -1,7 +1,43 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Il papa più giovane di sempre aveva 11 anni.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "La prima fidanzata di John Lennon si chiamava Thelma Pickles.",
   "notizie": [
+    {
+      "titolo": "Ti porto a Chiusdino, il borgo medievale toscano a due passi dalla leggendaria spada nella roccia",
+      "link": "https://www.greenme.it/viaggi/italia/ti-porto-a-chiusdino/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Abbazia-San-Galgano.jpg",
+      "data": "14/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Il nostro viaggio alla scoperta di Chiusdino: cosa vedere nel borgo medievale toscano da Palazzo Pretorio alla Chiesa di San Martino tra vicoli in pietra e p..."
+    },
+    {
+      "titolo": "Siamo stati a Castiglione del Lago alla scoperta del meraviglioso borgo umbro che affaccia sul Trasimeno (e che a Natale si illumina a festa)",
+      "link": "https://www.greenme.it/viaggi/italia/castiglione-del-lago-scoperta-borgo-umbro/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/08/Castiglione-del-Lago-COPERTINA.jpg",
+      "data": "14/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Cosa vedere a Castiglione del Lago: il nostro viaggio tra gli affreschi del Pomarancio, la maestosa Rocca del Leone e i tesori del Lago Trasimeno. Un borgo c..."
+    },
+    {
+      "titolo": "Un gigantesco mondo ghiacciato nascosto oltre Plutone potrebbe essere il nostro sesto pianeta nano",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "14/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli astronomi hanno scoperto un nuovo pianeta nano potenzialmente enorme oltre Plutone, nascosto per anni in una delle regioni più affollate del cielo notturno. Il..."
+    },
+    {
+      "titolo": "Un limite nascosto di spazio e tempo potrebbe rendere l'elettronica 100.000 volte più veloce",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "07/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto un sorprendente limite quantistico che impedisce di tracciare gli elettroni con precisione illimitata sia nello spazio che nel tempo. La svolta..."
+    },
     {
       "titolo": "Gli scienziati osservano elettroni che compiono salti quantistici apparentemente impossibili",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
@@ -10,24 +46,6 @@
       "data": "14/11/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Gli scienziati hanno osservato elettroni che compiono salti apparentemente impossibili attraverso gap energetici proibiti nel grafene, con alcune transizioni che avvengono a una velocità notevole..."
-    },
-    {
-      "titolo": "Un limite nascosto di spazio e tempo potrebbe rendere l'elettronica 100.000 volte più veloce",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "07/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto un sorprendente limite quantistico che impedisce di tracciare gli elettroni con precisione illimitata sia nello spazio che nel tempo. La svolta..."
-    },
-    {
-      "titolo": "Gli scienziati scoprono che le antiche foreste d'Europa non erano affatto come le immaginavamo",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "07/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto prove del fatto che per oltre 20 milioni di anni l'Europa è stata dominata da boschi radi, prati colorati e grandi erbivori, ma..."
     },
     {
       "titolo": "Questo Paese è il primo in Europa per la tutela dei diritti LGBTQ+ (e l’Italia scivola al 36° posto nella classifica 2026)",
