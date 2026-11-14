@@ -1,7 +1,34 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "La prima fidanzata di John Lennon si chiamava Thelma Pickles.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Mel Blanc (la voce di Bugs Bunny) era allergico alle carote.",
   "notizie": [
+    {
+      "titolo": "Gli antichi produttori di vino utilizzavano un ingrediente sorprendente (e non era l’uva appena raccolta)",
+      "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/gli-antichi-produttori-di-vino-utilizzavano-un-ingrediente-sorprendente-e-non-era-luva-appena-raccolta/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2025/11/vino-antico.jpg",
+      "data": "14/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una scoperta che ribalta la nostra idea di vino antico e mostra come la natura abbia guidato gli antichi produttori molto più di quanto immaginiamo"
+    },
+    {
+      "titolo": "La prima specie con cui saremo in grado di comunicare verbalmente saranno gli uccelli? Ricercatrice è riuscita a decodificare il canto con l’IA",
+      "link": "https://www.greenme.it/scienza-e-tecnologia/innovazioni-e-green-tech/la-prima-specie-con-cui-saremo-in-grado-di-comunicare-verbalmente-saranno-gli-uccelli-ricercatrice-e-riuscita-a-decodificare-il-canto-con-lia/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/diamante-mandarino.jpg",
+      "data": "14/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "L’IA ci aiuta a capire cosa si dicono gli uccelli: la scoperta nascosta negli errori di 12 diamanti mandarini"
+    },
+    {
+      "titolo": "Un limite nascosto di spazio e tempo potrebbe rendere l'elettronica 100.000 volte più veloce",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "07/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto un sorprendente limite quantistico che impedisce di tracciare gli elettroni con precisione illimitata sia nello spazio che nel tempo. La scoperta..."
+    },
     {
       "titolo": "Ti porto a Chiusdino, il borgo medievale toscano a due passi dalla leggendaria spada nella roccia",
       "link": "https://www.greenme.it/viaggi/italia/ti-porto-a-chiusdino/",
@@ -28,15 +55,6 @@
       "data": "14/11/2026",
       "categoria": "Mondo",
       "sommario": "Gli astronomi hanno scoperto un nuovo pianeta nano potenzialmente enorme oltre Plutone, nascosto per anni in una delle regioni più affollate del cielo notturno. Il..."
-    },
-    {
-      "titolo": "Un limite nascosto di spazio e tempo potrebbe rendere l'elettronica 100.000 volte più veloce",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "07/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto un sorprendente limite quantistico che impedisce di tracciare gli elettroni con precisione illimitata sia nello spazio che nel tempo. La svolta..."
     },
     {
       "titolo": "Gli scienziati osservano elettroni che compiono salti quantistici apparentemente impossibili",
