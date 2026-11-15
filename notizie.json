@@ -1,12 +1,21 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Duello è legale, in Paraguay, purché entrambe le parti sono registrati i donatori di sangue.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "L'americano medio visita otto case prima di acquistarne una.",
   "notizie": [
     {
-      "titolo": "Un antico oceano popolato da predatori giganti rivela una svolta sorprendente nell'evoluzione",
+      "titolo": "I fisici usano la luce laser per sbloccare i poteri elettrici nascosti di un cristallo",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "15/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno scoperto come utilizzare i lampi di luce laser per organizzare minuscole regioni elettriche all'interno di un cristallo, risolvendo un mistero vecchio di decenni su come..."
+    },
+    {
+      "titolo": "Un antico oceano pieno di predatori giganti rivela una sorprendente svolta nell'evoluzione",
       "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
       "data": "08/11/2026",
       "categoria": "Mondo",
       "sommario": "Una straordinaria scoperta di fossili in Colombia sta mettendo in discussione il modo in cui gli scienziati interpretano i principali cambiamenti evolutivi nella storia della Terra. I ricercatori hanno scoperto un..."
