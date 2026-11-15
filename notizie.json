@@ -1,7 +1,25 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "L'americano medio visita otto case prima di acquistarne una.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "Ci sono 1.575 gradini dal piano terra alla cima dell'Empire State Building.",
   "notizie": [
+    {
+      "titolo": "Plastic Odyssey, la nave-laboratorio che ha fatto il giro del mondo per trasformare in risorsa i rifiuti di plastica che finiscono in mare",
+      "link": "https://www.greenme.it/ambiente/rifiuti-e-riciclaggio/plastic-odyssey-la-nave-laboratorio-che-ha-fatto-il-giro-del-mondo-per-trasformare-in-risorsa-i-rifiuti-di-plastica-che-finiscono-in-mare/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/06/Plastic-Odyssey.jpg",
+      "data": "15/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Plastic Odyssey porta nei porti una nave-laboratorio: riciclo, filiere locali e limiti concreti della lotta ai rifiuti plastici in mare"
+    },
+    {
+      "titolo": "Un antico oceano popolato da predatori giganti rivela una svolta sorprendente nell'evoluzione",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "08/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una straordinaria scoperta di fossili in Colombia sta mettendo in discussione il modo in cui gli scienziati interpretano i principali cambiamenti evolutivi nella storia della Terra. I ricercatori hanno scoperto un..."
+    },
     {
       "titolo": "I fisici usano la luce laser per sbloccare i poteri elettrici nascosti di un cristallo",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
@@ -10,15 +28,6 @@
       "data": "15/11/2026",
       "categoria": "Mondo",
       "sommario": "Gli scienziati hanno scoperto come utilizzare i lampi di luce laser per organizzare minuscole regioni elettriche all'interno di un cristallo, risolvendo un mistero vecchio di decenni su come..."
-    },
-    {
-      "titolo": "Un antico oceano pieno di predatori giganti rivela una sorprendente svolta nell'evoluzione",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "08/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Una straordinaria scoperta di fossili in Colombia sta mettendo in discussione il modo in cui gli scienziati interpretano i principali cambiamenti evolutivi nella storia della Terra. I ricercatori hanno scoperto un..."
     },
     {
       "titolo": "Gli antichi produttori di vino utilizzavano un ingrediente sorprendente (e non era l’uva appena raccolta)",
