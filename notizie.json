@@ -1,7 +1,16 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Mel Blanc (la voce di Bugs Bunny) era allergico alle carote.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "Duello è legale, in Paraguay, purché entrambe le parti sono registrati i donatori di sangue.",
   "notizie": [
+    {
+      "titolo": "Un antico oceano popolato da predatori giganti rivela una svolta sorprendente nell'evoluzione",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "08/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una straordinaria scoperta di fossili in Colombia sta mettendo in discussione il modo in cui gli scienziati interpretano i principali cambiamenti evolutivi nella storia della Terra. I ricercatori hanno scoperto un..."
+    },
     {
       "titolo": "Gli antichi produttori di vino utilizzavano un ingrediente sorprendente (e non era l’uva appena raccolta)",
       "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/gli-antichi-produttori-di-vino-utilizzavano-un-ingrediente-sorprendente-e-non-era-luva-appena-raccolta/",
@@ -19,15 +28,6 @@
       "data": "14/11/2026",
       "categoria": "Scienza & Tech",
       "sommario": "L’IA ci aiuta a capire cosa si dicono gli uccelli: la scoperta nascosta negli errori di 12 diamanti mandarini"
-    },
-    {
-      "titolo": "Un limite nascosto di spazio e tempo potrebbe rendere l'elettronica 100.000 volte più veloce",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "07/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto un sorprendente limite quantistico che impedisce di tracciare gli elettroni con precisione illimitata sia nello spazio che nel tempo. La scoperta..."
     },
     {
       "titolo": "Ti porto a Chiusdino, il borgo medievale toscano a due passi dalla leggendaria spada nella roccia",
@@ -316,42 +316,6 @@
       "data": "09/11/2026",
       "categoria": "Animali",
       "sommario": "Berkshire, Buckinghamshire e Oxfordshire Wildlife Trust mira a raccogliere £70.000 per il progetto."
-    },
-    {
-      "titolo": "Un antico oceano pieno di predatori giganti rivela una svolta sorprendente nell'evoluzione",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "08/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Una notevole scoperta fossile in Colombia sta sfidando il modo in cui gli scienziati comprendono i principali cambiamenti evolutivi nella storia della Terra. I ricercatori hanno scoperto un in..."
-    },
-    {
-      "titolo": "Quando scegli un partner, quanto ti influenzano i consigli degli amici? Per gli scienziati dipende se sono o meno single",
-      "link": "https://www.greenme.it/salute-e-alimentazione/psicologia/quando-scegli-un-partner-quanto-ti-influenzano-i-consigli-degli-amici-cosa-ha-appena-scoperto-questo-studio/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/amici-e-consigli-su-partner.jpg",
-      "data": "08/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Amici single o fidanzati? Uno studio rivela come cambiano i consigli che ascoltiamo in amore"
-    },
-    {
-      "titolo": "Lo “Stonehenge d’Oriente” potrebbe essersi spostato nei millenni: la scoperta che riapre il mistero",
-      "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/lo-stonehenge-doriente-potrebbe-essersi-spostato-nei-millenni-la-scoperta-che-riapre-il-mistero/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Rujm-el-Hiri.jpg",
-      "data": "08/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Nel Golan, 28 grandi cerchi di pietra individuati dai satelliti cambiano la storia dell'antico e misterioso monumento soprannominato Stonehenge d'Oriente"
-    },
-    {
-      "titolo": "Gli scienziati spremono la potenza dei raggi X da record in un punto incredibilmente piccolo",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012329.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "08/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno creato lampi di raggi X da record che durano solo 300 attosecondi, concentrando un potere enorme in un punto incredibilmente piccolo. Il breakthrou..."
     }
   ]
 }
