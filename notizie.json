@@ -1,7 +1,43 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Le mandorle appartengono alla famiglia delle pesche.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "I femori umani sono più resistenti del cemento.",
   "notizie": [
+    {
+      "titolo": "Dall’ONU alla COP31: il grido di giustizia dei popoli indigeni contro miniere d’oro illegali, deforestazione e narcotraffico",
+      "link": "https://www.greenme.it/ambiente/dallonu-alla-cop31-il-grido-di-giustizia-dei-popoli-indigeni-contro-miniere-doro-illegali-deforestazione-e-narcotraffico/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/UNFCCC-COP31.jpg",
+      "data": "16/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Oro illegale, traffico di legname e narcotraffico minacciano l'Amazzonia e le comunità indigene. Una svolta all'ONU apre la strada a nuove regole internazion..."
+    },
+    {
+      "titolo": "Il Canada si schiera con il Brasile contro la deforestazione: stanzierà fino a 560 milioni di dollari per salvare le foreste tropicali",
+      "link": "https://www.greenme.it/ambiente/il-canada-si-schiera-con-il-brasile-contro-la-deforestazione-stanziera-fino-a-560-milioni-di-dollari-per-salvare-le-foreste-tropicali/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Carney_Lula.jpg",
+      "data": "16/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Il Canada ha annunciato un impegno finanziario per sostenere la tutela delle foreste tropicali. Si tratta di un prestito previsto nell'arco di quattro anni a..."
+    },
+    {
+      "titolo": "Daimler Truck Italia a Ecomondo 2026: i 3 pilastri verso la decarbonizzazione dei trasporti",
+      "link": "https://www.rinnovabili.it/mobilita/logistica/daimler-truck-elettrico-idrogeno-e-hvo-per-il-trasporto-sostenibile/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "16/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Domenico Andreoli, Head of marketing Daimler Truck Italia illustra la visione per la transizione energetica: motori diesel ad alta efficienza HVO-Ready, eAct..."
+    },
+    {
+      "titolo": "I fisici smentiscono le aspettative controllando il cuore magnetico di un singolo atomo",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "16/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno scoperto inaspettatamente come controllare lo spin magnetico all'interno del nucleo di un singolo atomo utilizzando le onde radio, confutando le precedenti ipotesi..."
+    },
     {
       "titolo": "Gli scienziati finalmente scoprono perché impariamo ad amare il caffè amaro",
       "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
@@ -9,16 +45,7 @@
       "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
       "data": "09/11/2026",
       "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto un percorso della dopamina nascosto che va dall'intestino al cervello e che aiuta a spiegare perché il caffè amaro e altri sapori inizialmente sgradevoli possono diventare piacevoli..."
-    },
-    {
-      "titolo": "Una scoperta rivoluzionaria nel campo della fisica quantistica fa sì che la luce si comporti sia come un solido che come un liquido",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "09/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno osservato uno strano stato quantistico della materia che combina la struttura di un cristallo con il flusso privo di attrito di un liquido, il tutto a temperatura ambiente..."
+      "sommario": "Gli scienziati hanno scoperto un percorso nascosto della dopamina che va dall'intestino al cervello e che aiuta a spiegare perché il caffè amaro e altri sapori inizialmente sgradevoli possono diventare piacevoli..."
     },
     {
       "titolo": "Plastic Odyssey, la nave-laboratorio che ha fatto il giro del mondo per trasformare in risorsa i rifiuti di plastica che finiscono in mare",
