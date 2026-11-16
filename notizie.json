@@ -1,7 +1,25 @@
 {
   "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "Ci sono 1.575 gradini dal piano terra alla cima dell'Empire State Building.",
+  "curiosita": "Le mandorle appartengono alla famiglia delle pesche.",
   "notizie": [
+    {
+      "titolo": "Gli scienziati finalmente scoprono perché impariamo ad amare il caffè amaro",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "09/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno scoperto un percorso della dopamina nascosto che va dall'intestino al cervello e che aiuta a spiegare perché il caffè amaro e altri sapori inizialmente sgradevoli possono diventare piacevoli..."
+    },
+    {
+      "titolo": "Una scoperta rivoluzionaria nel campo della fisica quantistica fa sì che la luce si comporti sia come un solido che come un liquido",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "09/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno osservato uno strano stato quantistico della materia che combina la struttura di un cristallo con il flusso privo di attrito di un liquido, il tutto a temperatura ambiente..."
+    },
     {
       "titolo": "Plastic Odyssey, la nave-laboratorio che ha fatto il giro del mondo per trasformare in risorsa i rifiuti di plastica che finiscono in mare",
       "link": "https://www.greenme.it/ambiente/rifiuti-e-riciclaggio/plastic-odyssey-la-nave-laboratorio-che-ha-fatto-il-giro-del-mondo-per-trasformare-in-risorsa-i-rifiuti-di-plastica-che-finiscono-in-mare/",
@@ -10,15 +28,6 @@
       "data": "15/11/2026",
       "categoria": "Mondo",
       "sommario": "Plastic Odyssey porta nei porti una nave-laboratorio: riciclo, filiere locali e limiti concreti della lotta ai rifiuti plastici in mare"
-    },
-    {
-      "titolo": "Un antico oceano popolato da predatori giganti rivela una svolta sorprendente nell'evoluzione",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "08/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Una straordinaria scoperta di fossili in Colombia sta mettendo in discussione il modo in cui gli scienziati interpretano i principali cambiamenti evolutivi nella storia della Terra. I ricercatori hanno scoperto un..."
     },
     {
       "titolo": "I fisici usano la luce laser per sbloccare i poteri elettrici nascosti di un cristallo",
@@ -282,15 +291,6 @@
       "sommario": "Ritrovato a 5 mesi tra le carcasse di due adulti nel gelo dell'Alaska, il cucciolo di tricheco Annautaq è stato salvato da due biologi e trasferito al SeaWor..."
     },
     {
-      "titolo": "Gli scienziati scoprono finalmente perché impariamo ad amare il caffè amaro",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "09/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto un percorso nascosto della dopamina da intestino a cervello che aiuta a spiegare perché il caffè amaro e altri sapori inizialmente sgradevoli possono diventare favoriti..."
-    },
-    {
       "titolo": "Dopo 40 anni, il CERN trova prove di un decadimento di particelle su 10 miliardi",
       "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
       "fonte": "Science Daily",
@@ -298,42 +298,6 @@
       "data": "10/11/2026",
       "categoria": "Mondo",
       "sommario": "Gli scienziati del CERN hanno finalmente trovato prove di un decadimento di particelle così raro che si verifica solo una volta su circa 10 miliardi di decadimenti, ponendo fine a una ricerca che copre più..."
-    },
-    {
-      "titolo": "Dove il muro e il filo spinato dividevano la Germania, oggi c’è un lungo corridoio verde che ospita oltre 5000 specie",
-      "link": "https://www.greenme.it/ambiente/natura/dove-il-muro-e-il-filo-spinato-dividevano-la-germania-oggi-ce-un-lungo-corridoio-verde-che-ospita-oltre-5000-specie/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/green-belt-germania.jpg",
-      "data": "09/11/2026",
-      "categoria": "Animali",
-      "sommario": "Dove un tempo correva la Cortina di ferro che divideva Germania Est e Germania Ovest, oggi si estende un corridoio verde lungo 1.400 chilometri, rifugio per ..."
-    },
-    {
-      "titolo": "\"I progressi digitali stanno rimodellando la conservazione della natura\", affermano gli esperti",
-      "link": "https://www.positive.news/environment/digital-advances-are-reshaping-nature-conservation-say-experts/",
-      "fonte": "Positive News",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "09/11/2026",
-      "categoria": "Animali",
-      "sommario": "La tecnologia e il rapido progresso dell'IA stanno aprendo nuove possibilità nella corsa per salvare la natura, secondo un rapporto\nIl post \"I progressi digitali sono..."
-    },
-    {
-      "titolo": "Una svolta quantistica fa sì che la luce si comporti sia come un solido che come un liquido",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "09/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno osservato un bizzarro stato quantistico della materia che combina la struttura di un cristallo con il flusso senza attrito di un liquido, il tutto a temperatura ambiente..."
-    },
-    {
-      "titolo": "La beneficenza vuole aumentare la popolazione di api, uccelli e farfalle",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "09/11/2026",
-      "categoria": "Animali",
-      "sommario": "Berkshire, Buckinghamshire e Oxfordshire Wildlife Trust mira a raccogliere £70.000 per il progetto."
     }
   ]
 }
