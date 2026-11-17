@@ -1,7 +1,25 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "La contea di Butte, nel South Dakota, è il centro geografico degli Stati Uniti.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "Money Awards 2026: a Roma si premiano le imprese più innovative e sostenibili d’Italia (e puoi partecipare anche tu sostenendo AIL)",
+      "link": "https://www.greenme.it/ambiente/eventi-e-iniziative/money-awards-2026-a-roma-si-premiano-le-imprese-piu-innovative-e-sostenibili-ditalia-e-puoi-partecipare-anche-tu-sostenendo-ail/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/money-awards.jpg",
+      "data": "17/11/2026",
+      "categoria": "Società",
+      "sommario": "Il 26 novembre, al Radisson Blu GHR Hotel di Roma, saranno annunciati i vincitori dei Money Awards 2026. Al centro dell'iniziativa crescita economica, innova..."
+    },
+    {
+      "titolo": "Gli astronomi scoprono un pianeta alieno nascosto nelle immagini del James Webb",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "10/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una svolta nell'imaging telescopico potrebbe rivelare innumerevoli mondi alieni che si sono nascosti in bella vista. Gli scienziati hanno sviluppato una nuova tecnica che utilizza..."
+    },
     {
       "titolo": "Dopo oltre 400 anni, a Cape Cod parte delle terre sottratte ai nativi americani torna ai popoli indigeni (e diventerà un’area protetta)",
       "link": "https://www.greenme.it/lifestyle/costume-e-societa/dopo-oltre-400-anni-una-parte-delle-terre-sottratte-ai-nativi-americani-torna-ai-popoli-indigeni-e-diventera-unarea-protetta/",
@@ -28,24 +46,6 @@
       "data": "16/11/2026",
       "categoria": "Mondo",
       "sommario": "In Cina ha volato per il primo aereo elettrico commerciale alimentato da batterie di CATL con propulsori sulle due ali\nL'articolo Primo aereo elettrico in un..."
-    },
-    {
-      "titolo": "La scoperta di vulcani su Marte potrebbe essere la \"prova schiacciante\" nella ricerca della vita",
-      "link": "https://www.goodnewsnetwork.org/martian-volcanic-discovery-could-be-smoking-gun-in-search-for-life/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "10/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "\"Era come cercare un ago in un pagliaio\". È così che il professor Daniel Mège ha descritto la scoperta di tracce di gas vulcanici su Marte che potrebbero essere fondamentali..."
-    },
-    {
-      "titolo": "Gli astronomi scoprono un pianeta alieno nascosto nelle immagini del James Webb",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "10/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Una svolta nell'imaging telescopico potrebbe rivelare innumerevoli mondi alieni che si sono nascosti in bella vista. Gli scienziati hanno sviluppato una nuova tecnica che utilizza..."
     },
     {
       "titolo": "Dall’ONU alla COP31: il grido di giustizia dei popoli indigeni contro miniere d’oro illegali, deforestazione e narcotraffico",
