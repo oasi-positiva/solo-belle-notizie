@@ -1,7 +1,52 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "I femori umani sono più resistenti del cemento.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "La contea di Butte, nel South Dakota, è il centro geografico degli Stati Uniti.",
   "notizie": [
+    {
+      "titolo": "Dopo oltre 400 anni, a Cape Cod parte delle terre sottratte ai nativi americani torna ai popoli indigeni (e diventerà un’area protetta)",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/dopo-oltre-400-anni-una-parte-delle-terre-sottratte-ai-nativi-americani-torna-ai-popoli-indigeni-e-diventera-unarea-protetta/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/cap_cod_nativi.jpg",
+      "data": "16/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Dopo oltre 400 anni, 51 ettari di terre ancestrali a Cape Cod, negli Stati Uniti, tornano sotto la gestione di un'organizzazione indigena. Un'importante rest..."
+    },
+    {
+      "titolo": "Il primo aereo passeggeri completamente elettrico ha completato con successo il suo primo volo con equipaggio",
+      "link": "https://www.greenme.it/mobilita/trasporti/il-primo-aereo-passeggeri-completamente-elettrico-ha-completato-con-successo-il-suo-primo-volo-con-equipaggio/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/aereo-elettrico.jpg",
+      "data": "16/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Il primo volo con piloti del CE-25A: l'aereo elettrico cinese progettato per trasportare 19 persone"
+    },
+    {
+      "titolo": "Primo aereo elettrico in un volo di linea: il test cinese è un successo",
+      "link": "https://www.rinnovabili.it/mobilita/aeronautica/aereo-elettrico-il-primo-velivolo-commerciale-e-della-cina/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "16/11/2026",
+      "categoria": "Mondo",
+      "sommario": "In Cina ha volato per il primo aereo elettrico commerciale alimentato da batterie di CATL con propulsori sulle due ali\nL'articolo Primo aereo elettrico in un..."
+    },
+    {
+      "titolo": "La scoperta di vulcani su Marte potrebbe essere la \"prova schiacciante\" nella ricerca della vita",
+      "link": "https://www.goodnewsnetwork.org/martian-volcanic-discovery-could-be-smoking-gun-in-search-for-life/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "10/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "\"Era come cercare un ago in un pagliaio\". È così che il professor Daniel Mège ha descritto la scoperta di tracce di gas vulcanici su Marte che potrebbero essere fondamentali..."
+    },
+    {
+      "titolo": "Gli astronomi scoprono un pianeta alieno nascosto nelle immagini del James Webb",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "10/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una svolta nell'imaging telescopico potrebbe rivelare innumerevoli mondi alieni che si sono nascosti in bella vista. Gli scienziati hanno sviluppato una nuova tecnica che utilizza..."
+    },
     {
       "titolo": "Dall’ONU alla COP31: il grido di giustizia dei popoli indigeni contro miniere d’oro illegali, deforestazione e narcotraffico",
       "link": "https://www.greenme.it/ambiente/dallonu-alla-cop31-il-grido-di-giustizia-dei-popoli-indigeni-contro-miniere-doro-illegali-deforestazione-e-narcotraffico/",
@@ -37,15 +82,6 @@
       "data": "16/11/2026",
       "categoria": "Mondo",
       "sommario": "Gli scienziati hanno scoperto inaspettatamente come controllare lo spin magnetico all'interno del nucleo di un singolo atomo utilizzando le onde radio, confutando le precedenti ipotesi..."
-    },
-    {
-      "titolo": "Gli scienziati finalmente scoprono perché impariamo ad amare il caffè amaro",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "09/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno scoperto un percorso nascosto della dopamina che va dall'intestino al cervello e che aiuta a spiegare perché il caffè amaro e altri sapori inizialmente sgradevoli possono diventare piacevoli..."
     },
     {
       "titolo": "Plastic Odyssey, la nave-laboratorio che ha fatto il giro del mondo per trasformare in risorsa i rifiuti di plastica che finiscono in mare",
@@ -253,78 +289,6 @@
       "data": "11/11/2026",
       "categoria": "Mondo",
       "sommario": "A Torridon, Morvern e a metà Argyll saranno istituiti degli hub che offrono formazione sul lavoro di conservazione."
-    },
-    {
-      "titolo": "Gli astronomi scoprono un pianeta alieno nascosto nelle immagini di James Webb",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "10/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Una svolta nell'imaging al telescopio potrebbe rivelare innumerevoli mondi alieni che si sono nascosti in bella vista. Gli scienziati hanno sviluppato una nuova tecnica che utilizza ..."
-    },
-    {
-      "titolo": "In Burkina Faso la rinascita delle foreste passa dalle donne: quasi 10mila alberi per contrastare malnutrizione e povertà",
-      "link": "https://www.greenme.it/ambiente/in-burkina-faso-la-rinascita-delle-foreste-passa-dalle-donne-quasi-10mila-alberi-per-contrastare-malnutrizione-e-poverta/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/donne-burkina-faso-riforestazione.jpg",
-      "data": "10/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli alberi possono cambiare il destino di un'intera comunità? Sì e il progetto di riforestazione sociale in Burkina Faso, sostenuto da WOWnature e guidato da..."
-    },
-    {
-      "titolo": "La scoperta del vulcano marziano potrebbe essere una \"pistola fumante\" in cerca di vita",
-      "link": "https://www.goodnewsnetwork.org/martian-volcanic-discovery-could-be-smoking-gun-in-search-for-life/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "10/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "“Era come cercare un ago in un pagliaio.\" È così che il professor Daniel Mège ha descritto la scoperta di tracce di gas vulcanici su Marte che potrebbero essere fondamentali ..."
-    },
-    {
-      "titolo": "Forestami, doppio riconoscimento per il progetto che sta ridisegnando il futuro verde di Milano",
-      "link": "https://www.greenme.it/ambiente/forestami-doppio-riconoscimento-per-il-progetto-che-sta-ridisegnando-il-futuro-verde-di-milano/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/forestami.jpg",
-      "data": "10/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Forestami ha ricevuto il Premio Sviluppo Sostenibile 2026 di Ecomondo, dopo il riconoscimento ONU come World Restoration Flagship. Al Forum di Palazzo Isimba..."
-    },
-    {
-      "titolo": "Perché a San Martino si accendono le lanterne? Scopri l’antica tradizione e come realizzarle (insieme ai bambini) con materiali di riciclo",
-      "link": "https://www.greenme.it/casa-e-giardino/diy-upcycling/come-realizzare-lanterna-san-martino-tradizione/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2023/11/lanterna-san-martino.jpg",
-      "data": "10/11/2026",
-      "categoria": "Società",
-      "sommario": "In occasione dell'11 novembre, i bambini di numerosi Paesi europei realizzano meravigliose lanterne dedicate al Santo. Ti racconto le origini di questa tradi..."
-    },
-    {
-      "titolo": "Maya, ex cane da soccorso, non riesce più a camminare: portata per l’ultima volta a rivedere il mare (dove per anni ha salvato vite)",
-      "link": "https://www.greenme.it/pet/cani/maya-ex-cane-da-soccorso-rivedere-il-mare/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Maya-rivede-il-mare.jpg",
-      "data": "10/11/2026",
-      "categoria": "Animali",
-      "sommario": "La storia commovente di Maya: l’ex cane soccorritore della Croce Rossa di 15 anni e mezzo non può più camminare, ma torna a rivedere il mare grazie all’ambul..."
-    },
-    {
-      "titolo": "La storia di Annautaq, l’adorabile cucciolo di tricheco trovato solo in Alaska e salvato dai biologi (ma che non potrà tornare in natura)",
-      "link": "https://www.greenme.it/animali/animali-selvatici/annautaq-cucciolo-tricheco-trovato-solo-in-alaska/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Tricheco-Alaska.jpg",
-      "data": "10/11/2026",
-      "categoria": "Animali",
-      "sommario": "Ritrovato a 5 mesi tra le carcasse di due adulti nel gelo dell'Alaska, il cucciolo di tricheco Annautaq è stato salvato da due biologi e trasferito al SeaWor..."
-    },
-    {
-      "titolo": "Dopo 40 anni, il CERN trova prove di un decadimento di particelle su 10 miliardi",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "10/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati del CERN hanno finalmente trovato prove di un decadimento di particelle così raro che si verifica solo una volta su circa 10 miliardi di decadimenti, ponendo fine a una ricerca che copre più..."
     }
   ]
 }
