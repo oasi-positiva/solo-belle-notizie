@@ -1,7 +1,34 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "La Città del Vaticano è il Paese più piccolo del mondo, con una popolazione di 1.000 abitanti e una superficie di soli 44 ettari.",
   "notizie": [
+    {
+      "titolo": "Buone notizie nella storia, 18 novembre",
+      "link": "https://www.goodnewsnetwork.org/events061118/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "18/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Oggi, 75 anni fa, andava in onda per la prima volta la pionieristica serie di telegiornali See It Now. In onda per sette anni su CBS, è stata creata dall'iconico giornalista Edw..."
+    },
+    {
+      "titolo": "La popolazione di orsi bruni in Spagna raddoppia grazie a un incredibile aumento dell'area di riproduzione",
+      "link": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "11/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Dall'orlo dell'estinzione al vagare per oltre 16.800 chilometri quadrati, le popolazioni di orsi bruni cantabrici in Spagna sono raddoppiate negli ultimi 20 anni, raggiungendo i 370 esemplari...."
+    },
+    {
+      "titolo": "Una nuova scoperta rivela cosa potrebbe ostacolare i superconduttori a temperatura ambiente",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "18/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un'importante svolta nella ricerca sulla superconduttività ha rivelato che uno degli elementi essenziali per il flusso di elettricità senza resistenza può esistere a..."
+    },
     {
       "titolo": "Aree idonee rinnovabili, la Consulta boccia parte del decreto",
       "link": "https://www.rinnovabili.it/energia/infrastrutture/aree-idonee-rinnovabili-corte-costituzionale-boccia-due-norme/",
@@ -10,24 +37,6 @@
       "data": "17/11/2026",
       "categoria": "Mondo",
       "sommario": "La Corte costituzionale, con la sentenza n. 197 depositata il 12 novembre 2026, ha accolto in parte il ricorso della Sardegna contro la nuova disciplina dell..."
-    },
-    {
-      "titolo": "La popolazione di orsi bruni in Spagna raddoppia con un incredibile aumento dell'area di riproduzione",
-      "link": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "11/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Dall'orlo dell'estinzione a una presenza su una superficie di 16.832 chilometri quadrati, le popolazioni di orsi bruni cantabrici in Spagna sono raddoppiate negli ultimi 20 anni, raggiungendo i 370 esemplari...."
-    },
-    {
-      "titolo": "Dove sono tutti i maschi? Antichi fossili umani rivelano un mistero sconcertante",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "11/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Una straordinaria scoperta in una grotta sudafricana suggerisce che un parente umano estinto potrebbe aver creato un luogo di sepoltura composto esclusivamente da donne più di 240.000 anni fa..."
     },
     {
       "titolo": "Money Awards 2026: a Roma si premiano le imprese più innovative e sostenibili d’Italia (e puoi partecipare anche tu sostenendo AIL)",
