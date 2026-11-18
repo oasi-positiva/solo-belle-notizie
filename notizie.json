@@ -1,7 +1,34 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "In Svezia esiste la 'Fika': prendersi una pausa caffè per godersi le cose belle della vita.",
   "notizie": [
+    {
+      "titolo": "Aree idonee rinnovabili, la Consulta boccia parte del decreto",
+      "link": "https://www.rinnovabili.it/energia/infrastrutture/aree-idonee-rinnovabili-corte-costituzionale-boccia-due-norme/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "17/11/2026",
+      "categoria": "Mondo",
+      "sommario": "La Corte costituzionale, con la sentenza n. 197 depositata il 12 novembre 2026, ha accolto in parte il ricorso della Sardegna contro la nuova disciplina dell..."
+    },
+    {
+      "titolo": "La popolazione di orsi bruni in Spagna raddoppia con un incredibile aumento dell'area di riproduzione",
+      "link": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "11/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Dall'orlo dell'estinzione a una presenza su una superficie di 16.832 chilometri quadrati, le popolazioni di orsi bruni cantabrici in Spagna sono raddoppiate negli ultimi 20 anni, raggiungendo i 370 esemplari...."
+    },
+    {
+      "titolo": "Dove sono tutti i maschi? Antichi fossili umani rivelano un mistero sconcertante",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "11/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una straordinaria scoperta in una grotta sudafricana suggerisce che un parente umano estinto potrebbe aver creato un luogo di sepoltura composto esclusivamente da donne più di 240.000 anni fa..."
+    },
     {
       "titolo": "Money Awards 2026: a Roma si premiano le imprese più innovative e sostenibili d’Italia (e puoi partecipare anche tu sostenendo AIL)",
       "link": "https://www.greenme.it/ambiente/eventi-e-iniziative/money-awards-2026-a-roma-si-premiano-le-imprese-piu-innovative-e-sostenibili-ditalia-e-puoi-partecipare-anche-tu-sostenendo-ail/",
@@ -10,15 +37,6 @@
       "data": "17/11/2026",
       "categoria": "Società",
       "sommario": "Il 26 novembre, al Radisson Blu GHR Hotel di Roma, saranno annunciati i vincitori dei Money Awards 2026. Al centro dell'iniziativa crescita economica, innova..."
-    },
-    {
-      "titolo": "Gli astronomi scoprono un pianeta alieno nascosto nelle immagini del James Webb",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "10/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Una svolta nell'imaging telescopico potrebbe rivelare innumerevoli mondi alieni che si sono nascosti in bella vista. Gli scienziati hanno sviluppato una nuova tecnica che utilizza..."
     },
     {
       "titolo": "Dopo oltre 400 anni, a Cape Cod parte delle terre sottratte ai nativi americani torna ai popoli indigeni (e diventerà un’area protetta)",
@@ -244,51 +262,6 @@
       "data": "12/11/2026",
       "categoria": "Mondo",
       "sommario": "La sonda solare Parker della NASA ha svelato un sorprendente segreto nascosto nel caos dello spazio: i campi magnetici turbolenti invertono la loro direzione di rotazione quando..."
-    },
-    {
-      "titolo": "PFAS, e se bastasse la luce per individuarli nell’acqua? La scoperta dei ricercatori italiani",
-      "link": "https://www.greenme.it/ambiente/acqua/pfas-e-se-bastasse-la-luce-per-individuarli-nellacqua-la-scoperta-dei-ricercatori-italiani/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2025/06/acqua-fontanelle-pfas.jpg",
-      "data": "11/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Individuare i PFAS nell'acqua potrebbe diventare più semplice e veloce grazie a una nuova tecnologia sviluppata in Italia. L'Università di Verona e Acque del..."
-    },
-    {
-      "titolo": "La popolazione di orsi bruni in Spagna raddoppia grazie a un incredibile aumento dell'area di riproduzione",
-      "link": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "11/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Dall'orlo dell'estinzione al vagare per 16.832 chilometri quadrati, le popolazioni di orsi bruni cantabrici in Spagna sono raddoppiate negli ultimi 20 anni, raggiungendo i 370 esemplari...."
-    },
-    {
-      "titolo": "Camion elettrici, MAN: il mercato raddoppia ogni anno. Entro il 2035 un veicolo su due sarà a zero emissioni",
-      "link": "https://www.rinnovabili.it/mobilita/logistica/camion-elettrici-man-mercato-in-raddoppio-ogni-anno/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "11/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Allo stand MAN di Ecomondo 2026, Francesco Turati racconta l’impennata di richieste favorita dal caro carburante, il ruolo dello stabilimento di Norimberga, ..."
-    },
-    {
-      "titolo": "Dove sono tutti i maschi? Antichi fossili umani rivelano un mistero sorprendente",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "11/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Una notevole scoperta in una grotta sudafricana suggerisce che un parente umano estinto potrebbe aver creato un luogo di sepoltura tutto al femminile più di 240.000 anni fa..."
-    },
-    {
-      "titolo": "L'offerta per ripristinare la rara foresta pluviale atlantica garantisce una sovvenzione di £6 milioni alla lotteria",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "11/11/2026",
-      "categoria": "Mondo",
-      "sommario": "A Torridon, Morvern e a metà Argyll saranno istituiti degli hub che offrono formazione sul lavoro di conservazione."
     }
   ]
 }
