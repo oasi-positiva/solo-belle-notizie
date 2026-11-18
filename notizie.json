@@ -1,7 +1,25 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "La Città del Vaticano è il Paese più piccolo del mondo, con una popolazione di 1.000 abitanti e una superficie di soli 44 ettari.",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Bruce Lee era così veloce che dovevano rallentare il filmato per poter vedere i suoi movimenti.",
   "notizie": [
+    {
+      "titolo": "Dall’app per gli escursionisti alla scuola di antichi mestieri: i 5 progetti finalisti del Premio Repower 2026 su turismo e innovazione",
+      "link": "https://www.greenme.it/viaggi/dallapp-per-gli-escursionisti-alla-scuola-di-antichi-mestieri-i-5-progetti-finalisti-del-premio-repower-2026-su-turismo-e-innovazione/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Premio-Speciale-Repower-Innovazione-Turismo-2026_Startup.jpg",
+      "data": "18/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "L'intelligenza artificiale entra negli hotel e organizza escursioni: le idee presentate al Premio Repower 2026"
+    },
+    {
+      "titolo": "Quali sono le acque più consigliate in abbinamento a una dieta detox post‑feste?",
+      "link": "https://www.greenme.it/ambiente/acqua/quali-sono-le-acque-piu-consigliate-in-abbinamento-a-una-dieta-detox-post-feste/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/bere-acqua.jpg",
+      "data": "18/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Quando il periodo natalizio vola via, ci sentiamo tutti un po' come dei palloncini dopo una festa riuscita: sgonfi nell'umore ma decisamente \"pieni\" nel corp..."
+    },
     {
       "titolo": "Buone notizie nella storia, 18 novembre",
       "link": "https://www.goodnewsnetwork.org/events061118/",
@@ -10,15 +28,6 @@
       "data": "18/11/2026",
       "categoria": "Mondo",
       "sommario": "Oggi, 75 anni fa, andava in onda per la prima volta la pionieristica serie di telegiornali See It Now. In onda per sette anni su CBS, è stata creata dall'iconico giornalista Edw..."
-    },
-    {
-      "titolo": "La popolazione di orsi bruni in Spagna raddoppia grazie a un incredibile aumento dell'area di riproduzione",
-      "link": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "11/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Dall'orlo dell'estinzione al vagare per oltre 16.800 chilometri quadrati, le popolazioni di orsi bruni cantabrici in Spagna sono raddoppiate negli ultimi 20 anni, raggiungendo i 370 esemplari...."
     },
     {
       "titolo": "Una nuova scoperta rivela cosa potrebbe ostacolare i superconduttori a temperatura ambiente",
