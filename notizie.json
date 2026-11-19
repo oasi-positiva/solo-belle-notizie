@@ -1,7 +1,25 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Bruce Lee era così veloce che dovevano rallentare il filmato per poter vedere i suoi movimenti.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "L'uva esplode quando la metti nel microonde. Dai, provalo allora",
   "notizie": [
+    {
+      "titolo": "La Cina inaugura il più grande esempio al mondo di nuovo e conveniente sistema di accumulo di energia verde",
+      "link": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "12/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Il più grande impianto dimostrativo al mondo per un nuovo tipo di stoccaggio di energia rinnovabile è operativo nella Cina occidentale. Chiamato accumulo di energia aria-liquido..."
+    },
+    {
+      "titolo": "La svolta dell'occhio bionico basato sull'intelligenza artificiale potrebbe aiutare i non vedenti a riacquistare la vista",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "12/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati hanno sviluppato un approccio basato sull'intelligenza artificiale che rende più precisa la tecnologia sperimentale della visione bionica, contribuendo a prevedere i lampi e le forme della luce..."
+    },
     {
       "titolo": "Dall’app per gli escursionisti alla scuola di antichi mestieri: i 5 progetti finalisti del Premio Repower 2026 su turismo e innovazione",
       "link": "https://www.greenme.it/viaggi/dallapp-per-gli-escursionisti-alla-scuola-di-antichi-mestieri-i-5-progetti-finalisti-del-premio-repower-2026-su-turismo-e-innovazione/",
@@ -244,42 +262,6 @@
       "data": "13/11/2026",
       "categoria": "Animali",
       "sommario": "La fondazione spera di restaurare il sito, creare nuovi habitat per la fauna selvatica e migliorare l'accesso agli spazi verdi."
-    },
-    {
-      "titolo": "La svolta dell'occhio bionico basato sull'intelligenza artificiale potrebbe aiutare i non vedenti a riacquistare la vista",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "12/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno sviluppato un approccio basato sull'intelligenza artificiale che rende più precisa la tecnologia sperimentale della visione bionica, contribuendo a prevedere i lampi e le forme della luce..."
-    },
-    {
-      "titolo": "La Cina inaugura il più grande esempio al mondo di nuovo e conveniente sistema di accumulo di energia verde",
-      "link": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "12/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Il più grande sistema al mondo di stoccaggio di energia rinnovabile ad aria liquida entra in funzione in Cina Entra in funzione il più grande esempio al mondo di un nuovo e conveniente sistema di stoccaggio di energia verde (penso..."
-    },
-    {
-      "titolo": "Legge Aree Idonee della Puglia, ecco il testo finale",
-      "link": "https://www.rinnovabili.it/energia/infrastrutture/legge-aree-idonee-puglia-testo/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "12/11/2026",
-      "categoria": "Mondo",
-      "sommario": "L’emendamento interamente sostitutivo approvato in Consiglio ha ridefinito il testo per renderlo “coerente con il quadro normativo nazionale e rafforzarne gl..."
-    },
-    {
-      "titolo": "La sonda solare Parker della NASA scopre uno schema nascosto nei campi magnetici caotici del Sole",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "12/11/2026",
-      "categoria": "Mondo",
-      "sommario": "La sonda solare Parker della NASA ha svelato un sorprendente segreto nascosto nel caos dello spazio: i campi magnetici turbolenti invertono la loro direzione di rotazione quando..."
     }
   ]
 }
