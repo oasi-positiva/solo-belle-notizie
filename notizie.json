@@ -1,7 +1,16 @@
 {
   "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Una giraffa può stare senza acqua più a lungo di un cammello.",
+  "curiosita": "La sede del KGB si trova in piazza Felix Dzerzhinsky n. 2, a Mosca",
   "notizie": [
+    {
+      "titolo": "Ricordate il procione che si era ubriacato in un negozio di liquori? Ha raccolto quasi 300mila dollari per aiutare gli animali nei rifugi",
+      "link": "https://www.greenme.it/animali/animali-selvatici/procione-ubriacato-raccolto-300mila-dollari-animali/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2025/12/Procione-ubriaco.jpg",
+      "data": "19/11/2026",
+      "categoria": "Animali",
+      "sommario": "Dallo svenimento nel bagno di un negozio di liquori perché ubriaco al successo virale: il procione star del web ha permesso di raccogliere oltre 290.000 doll..."
+    },
     {
       "titolo": "Furto di dati per Poste Italiane, a rischio oltre 1500 clienti: cos’è successo? Ecco cosa sappiamo sulla violazione",
       "link": "https://www.greenme.it/lifestyle/furto-di-dati-per-poste-italiane-a-rischio-oltre-1500-clienti-cose-successo-ecco-quali-utenti-sono-coinvolti/",
@@ -55,15 +64,6 @@
       "data": "19/11/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Le autorità locali hanno reso nota la \"sensazionale\" scoperta di una grotta contenente gli scheletri di oltre 100 orsi delle caverne estinti. Tenuta segreta per evitare..."
-    },
-    {
-      "titolo": "La Cina inaugura il più grande esempio al mondo di nuovo e conveniente sistema di accumulo di energia verde",
-      "link": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "12/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Nel ovest della Cina è operativo il più grande impianto dimostrativo al mondo per un nuovo tipo di accumulo di energia rinnovabile. Chiamato accumulo di energia aria-liquido..."
     },
     {
       "titolo": "Il libero arbitrio è un'illusione? Una nuova ricerca sul cervello rivela una svolta sorprendente",
@@ -280,60 +280,6 @@
       "data": "14/11/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Gli scienziati hanno osservato elettroni che compiono salti apparentemente impossibili attraverso gap energetici proibiti nel grafene, con alcune transizioni che avvengono a una velocità notevole..."
-    },
-    {
-      "titolo": "Questo Paese è il primo in Europa per la tutela dei diritti LGBTQ+ (e l’Italia scivola al 36° posto nella classifica 2026)",
-      "link": "https://www.greenme.it/lifestyle/costume-e-societa/questo-paese-e-il-primo-in-europa-per-la-tutela-dei-diritti-lgbtq-e-litalia-scivola-al-36-posto-nella-classifica-2026/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2023/08/BANDIERA-LGBT.jpg",
-      "data": "13/11/2026",
-      "categoria": "Mondo",
-      "sommario": "L'Italia è tra le mete turistiche più amate al mondo, ma sui diritti LGBTQ+ resta indietro: è solo 36ª su 49 Paesi europei. La Spagna conquista il primo post..."
-    },
-    {
-      "titolo": "Carlino affetto da una grave dermatite salvato dall’eutanasia: i veterinari si rifiutano di sopprimerlo e lo adattano",
-      "link": "https://www.greenme.it/pet/cani/carlino-dermatite-salvato-eutanasia/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Carlino-dermatite.jpg",
-      "data": "13/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Un carlino di 7 anni quasi senza peli per una grave dermatite viene salvato dall'eutanasia dai veterinari Babi Beira e Rafael che decidono di curarlo e adott..."
-    },
-    {
-      "titolo": "La bozza perduta del discorso \"I Have a Dream\" del Dr. King riemerge da un cassetto della scrivania",
-      "link": "https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "13/11/2026",
-      "categoria": "Mondo",
-      "sommario": "La bozza finale del discorso \"I have a dream\" del Dr. King viene alla luce dopo 60 anni (approccio totalmente alternativo) Incredibile scoperta della bozza originale del discorso \"I have a dream\" del Dr. King..."
-    },
-    {
-      "titolo": "Dalla stretta sui circhi al traffico illecito di pet: a che punto è la tutela degli animali in Campania? Risponde l’assessora Fiorella Zabatta",
-      "link": "https://www.greenme.it/news/interviste/dalla-stretta-sui-circhi-al-traffico-illecito-di-pet-a-che-punto-e-la-tutela-degli-animali-in-campania-risponde-lassessora-fiorella-zabatta/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/circhi_Campania_Zabatta.jpg",
-      "data": "13/11/2026",
-      "categoria": "Animali",
-      "sommario": "La Campania rafforza i controlli sugli animali nei circhi, mentre il divieto nazionale continua a essere rinviato. L'assessora Fiorella Zabatta spiega a Gree..."
-    },
-    {
-      "titolo": "Scoperta la più antica prova del consumo di cannabis in una tomba in Siberia di 2800 anni fa",
-      "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/scoperta-la-piu-antica-prova-del-consumo-di-cannabis-in-una-tomba-in-siberia-di-2800-anni-fa/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/antichi-semi-di-cannabis.jpg",
-      "data": "13/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Cannabis nei capelli di 2.800 anni fa: la scoperta in una tomba scita in Siberia"
-    },
-    {
-      "titolo": "Il National Trust riprende possesso dei terreni per il ripristino della natura",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "13/11/2026",
-      "categoria": "Animali",
-      "sommario": "La fondazione spera di restaurare il sito, creare nuovi habitat per la fauna selvatica e migliorare l'accesso agli spazi verdi."
     }
   ]
 }
