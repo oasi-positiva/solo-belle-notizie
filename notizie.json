@@ -1,7 +1,25 @@
 {
   "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "L'urina dei gatti brilla sotto la luce nera.",
+  "curiosita": "Una persona su 9000 è albina.",
   "notizie": [
+    {
+      "titolo": "Dalla tutela dei coralli al recupero delle torbiere: 5 buone notizie per il Pianeta dalla COP31",
+      "link": "https://www.greenme.it/ambiente/dalla-tutela-dei-coralli-al-recupero-delle-torbiere-5-buone-notizie-per-il-pianeta-dalla-cop31/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2024/11/Barrirera-corallina.jpg",
+      "data": "20/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Dalla protezione delle barriere coralline al recupero delle torbiere, fino alla riduzione delle emissioni di metano: mentre ad Antalya si fatica a trovare un..."
+    },
+    {
+      "titolo": "Aree idonee in Basilicata, Giunta pronta ad adottare il ddl",
+      "link": "https://www.rinnovabili.it/energia/fotovoltaico/aree-idonee-in-basilicata-giunta-adottare-ddl/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "20/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Mongiello: “La Direzione generale Ambiente, Energia e Tutela del Territorio ha predisposto un disegno di legge regionale che amplia il novero delle superfici..."
+    },
     {
       "titolo": "Gli scienziati del CERN finalmente trovano prove di un decadimento di particelle così raro che ci sono voluti 40 anni per rilevarlo",
       "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
