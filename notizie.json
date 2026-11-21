@@ -1,7 +1,25 @@
 {
   "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Una persona su 9000 è albina.",
+  "curiosita": "Quando l'Accademia di Francia stava preparando il suo primo dizionario, definì il \"granchio\" come \"un piccolo pesce rosso che cammina all'indietro\". Questa definizione fu inviata, insieme a molte altre, al naturalista Cuvier per la sua approvazione. Lo scienziato rispose: \"La vostra definizione, signori, sarebbe perfetta, se non fosse per tre eccezioni. Il granchio non è un pesce, non è rosso e non cammina all'indietro\".",
   "notizie": [
+    {
+      "titolo": "La sonda Voyager 1 della NASA è ora così lontana che la luce impiega 24 ore per raggiungerla",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "21/11/2026",
+      "categoria": "Mondo",
+      "sommario": "La sonda Voyager 1 della NASA ha raggiunto una pietra miliare straordinaria, percorrendo 25,9 miliardi di chilometri dalla Terra ed essendo così il primo veicolo spaziale a trovarsi a una distanza tale che i suoi segnali..."
+    },
+    {
+      "titolo": "Un gigantesco mondo ghiacciato nascosto oltre Plutone potrebbe essere il nostro sesto pianeta nano",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "14/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli astronomi hanno scoperto un nuovo pianeta nano potenzialmente enorme oltre Plutone, nascosto per anni in una delle regioni più affollate del cielo notturno. Il di..."
+    },
     {
       "titolo": "Dalla tutela dei coralli al recupero delle torbiere: 5 buone notizie per il Pianeta dalla COP31",
       "link": "https://www.greenme.it/ambiente/dalla-tutela-dei-coralli-al-recupero-delle-torbiere-5-buone-notizie-per-il-pianeta-dalla-cop31/",
@@ -271,60 +289,6 @@
       "data": "15/11/2026",
       "categoria": "Mondo",
       "sommario": "Gli scienziati hanno scoperto come utilizzare i lampi di luce laser per organizzare minuscole regioni elettriche all'interno di un cristallo, risolvendo un mistero vecchio di decenni su come..."
-    },
-    {
-      "titolo": "Gli antichi produttori di vino utilizzavano un ingrediente sorprendente (e non era l’uva appena raccolta)",
-      "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/gli-antichi-produttori-di-vino-utilizzavano-un-ingrediente-sorprendente-e-non-era-luva-appena-raccolta/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2025/11/vino-antico.jpg",
-      "data": "14/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Una scoperta che ribalta la nostra idea di vino antico e mostra come la natura abbia guidato gli antichi produttori molto più di quanto immaginiamo"
-    },
-    {
-      "titolo": "La prima specie con cui saremo in grado di comunicare verbalmente saranno gli uccelli? Ricercatrice è riuscita a decodificare il canto con l’IA",
-      "link": "https://www.greenme.it/scienza-e-tecnologia/innovazioni-e-green-tech/la-prima-specie-con-cui-saremo-in-grado-di-comunicare-verbalmente-saranno-gli-uccelli-ricercatrice-e-riuscita-a-decodificare-il-canto-con-lia/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/diamante-mandarino.jpg",
-      "data": "14/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "L’IA ci aiuta a capire cosa si dicono gli uccelli: la scoperta nascosta negli errori di 12 diamanti mandarini"
-    },
-    {
-      "titolo": "Ti porto a Chiusdino, il borgo medievale toscano a due passi dalla leggendaria spada nella roccia",
-      "link": "https://www.greenme.it/viaggi/italia/ti-porto-a-chiusdino/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Abbazia-San-Galgano.jpg",
-      "data": "14/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Il nostro viaggio alla scoperta di Chiusdino: cosa vedere nel borgo medievale toscano da Palazzo Pretorio alla Chiesa di San Martino tra vicoli in pietra e p..."
-    },
-    {
-      "titolo": "Siamo stati a Castiglione del Lago alla scoperta del meraviglioso borgo umbro che affaccia sul Trasimeno (e che a Natale si illumina a festa)",
-      "link": "https://www.greenme.it/viaggi/italia/castiglione-del-lago-scoperta-borgo-umbro/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/08/Castiglione-del-Lago-COPERTINA.jpg",
-      "data": "14/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Cosa vedere a Castiglione del Lago: il nostro viaggio tra gli affreschi del Pomarancio, la maestosa Rocca del Leone e i tesori del Lago Trasimeno. Un borgo c..."
-    },
-    {
-      "titolo": "Un gigantesco mondo ghiacciato nascosto oltre Plutone potrebbe essere il nostro sesto pianeta nano",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "14/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli astronomi hanno scoperto un nuovo pianeta nano potenzialmente enorme oltre Plutone, nascosto per anni in una delle regioni più affollate del cielo notturno. Il..."
-    },
-    {
-      "titolo": "Gli scienziati osservano elettroni che compiono salti quantistici apparentemente impossibili",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "14/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Gli scienziati hanno osservato elettroni che compiono salti apparentemente impossibili attraverso gap energetici proibiti nel grafene, con alcune transizioni che avvengono a una velocità notevole..."
     }
   ]
 }
