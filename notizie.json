@@ -1,7 +1,43 @@
 {
-  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
-  "curiosita": "Il 13% degli americani crede davvero che alcune parti della luna siano fatte di formaggio.",
+  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
+  "curiosita": "I camaleonti possono muovere gli occhi in due direzioni contemporaneamente.",
   "notizie": [
+    {
+      "titolo": "Vittoria per i popoli dell’Amazzonia: il Presidente Lula riconosce ufficialmente il Territorio Indigeno Kapôt Nhĩnore",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/vittoria-amazzonia-territori-indigeni/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/02/brasile-amazzonia-indigeni.jpg",
+      "data": "22/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Dopo decenni di lotte, arriva la vittoria per il popolo indigeno Mẽbêngôkre: il presidente del Brasile Luiz Inácio Lula da Silva ha firmato l’ordinanza con l..."
+    },
+    {
+      "titolo": "Dalle pale delle turbine eoliche al grafene: la scarica elettrica che potrebbe rivoluzionare il riciclo delle turbine eoliche",
+      "link": "https://www.greenme.it/esg/economia-circolare/dalle-pale-delle-turbine-eoliche-al-grafene-la-scarica-elettrica-che-potrebbe-rivoluzionare-il-riciclo-delle-turbine-eoliche/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/riciclo-delle-pale-eoliche.jpg",
+      "data": "22/11/2026",
+      "categoria": "Società",
+      "sommario": "Una tecnica sperimentale usa un impulso elettrico per trasformare vecchie pale eoliche in materiali riutilizzabili per produrre nuove turbine eoliche"
+    },
+    {
+      "titolo": "La relatività di Einstein ha appena sconvolto una regola fondamentale della chimica",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "20/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una sorprendente scoperta fatta alla Brown University sta mettendo in discussione una delle spiegazioni più fondamentali dei libri di testo di chimica. I ricercatori hanno trovato prove dirette che..."
+    },
+    {
+      "titolo": "La COP31 non riesce a raggiungere un importante accordo sul clima poiché i negoziati mettono in luce profonde divisioni",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "22/11/2026",
+      "categoria": "Mondo",
+      "sommario": "I negoziati non riescono a compiere progressi nella lotta ai cambiamenti climatici dopo una disputa sul riferimento ai combustibili fossili."
+    },
     {
       "titolo": "La foresta più antica del mondo ha 390 milioni di anni ed è stata appena scoperta in Inghilterra",
       "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/la-foresta-piu-antica-mai-scoperta-ha-390-milioni-di-anni-e-si-trova-in-inghilterra/",
