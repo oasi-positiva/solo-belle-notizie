@@ -1,6 +1,6 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Una donna consuma in media 2,7 kg di rossetto nel corso della sua vita.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
   "notizie": [
     {
       "titolo": "La sonda Voyager 1 della NASA è ora così lontana che la luce impiega 24 ore per raggiungerla",
@@ -262,24 +262,6 @@
       "data": "16/11/2026",
       "categoria": "Mondo",
       "sommario": "Gli scienziati hanno scoperto inaspettatamente come controllare lo spin magnetico all'interno del nucleo di un singolo atomo utilizzando le onde radio, confutando le precedenti ipotesi..."
-    },
-    {
-      "titolo": "Plastic Odyssey, la nave-laboratorio che ha fatto il giro del mondo per trasformare in risorsa i rifiuti di plastica che finiscono in mare",
-      "link": "https://www.greenme.it/ambiente/rifiuti-e-riciclaggio/plastic-odyssey-la-nave-laboratorio-che-ha-fatto-il-giro-del-mondo-per-trasformare-in-risorsa-i-rifiuti-di-plastica-che-finiscono-in-mare/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/06/Plastic-Odyssey.jpg",
-      "data": "15/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Plastic Odyssey porta nei porti una nave-laboratorio: riciclo, filiere locali e limiti concreti della lotta ai rifiuti plastici in mare"
-    },
-    {
-      "titolo": "I fisici usano la luce laser per sbloccare i poteri elettrici nascosti di un cristallo",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "15/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Gli scienziati hanno scoperto come utilizzare i lampi di luce laser per organizzare minuscole regioni elettriche all'interno di un cristallo, risolvendo un mistero vecchio di decenni su come..."
     }
   ]
 }
