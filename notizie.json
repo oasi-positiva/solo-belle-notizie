@@ -1,7 +1,25 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "I macachi giapponesi fanno le palle di neve solo per il gusto di giocarci.",
+  "citazione": "Sii gentile con te stesso oggi. Te lo meriti. ✨",
+  "curiosita": "Il 13% degli americani crede davvero che alcune parti della luna siano fatte di formaggio.",
   "notizie": [
+    {
+      "titolo": "La foresta più antica del mondo ha 390 milioni di anni ed è stata appena scoperta in Inghilterra",
+      "link": "https://www.greenme.it/scienza-e-tecnologia/archeologia/la-foresta-piu-antica-mai-scoperta-ha-390-milioni-di-anni-e-si-trova-in-inghilterra/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/foresta-piu-antica-mai-scoperta.jpg",
+      "data": "22/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Avevano tronchi cavi, chiome di rametti e nessuna vera foglia: gli alberi di 390 milioni di anni modificavano i fiumi"
+    },
+    {
+      "titolo": "Numero record di avvistamenti di una rara falena nell'Essex",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Science",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "22/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Secondo un'organizzazione benefica, ora esiste una popolazione autosufficiente di falene in una riserva naturale dell'Essex."
+    },
     {
       "titolo": "La sonda Voyager 1 della NASA è ora così lontana che la luce impiega 24 ore per raggiungerla",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
