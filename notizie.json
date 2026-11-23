@@ -1,7 +1,43 @@
 {
-  "citazione": "Ogni giorno è una nuova opportunità. 🌅",
-  "curiosita": "La Spagna è leader mondiale nella produzione di sughero",
+  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
+  "curiosita": "Ogni secondo, nel corpo umano vengono distrutti 15 milioni di globuli.",
   "notizie": [
+    {
+      "titolo": "Nonna Laurina compie 116 anni: Lucia Laura Sangenito è la donna più longeva d’Italia (e la terza al mondo)",
+      "link": "https://www.greenme.it/lifestyle/costume-e-societa/nonna-laurina-compie-116-anni/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Lucia-Laura-Sangenito.jpg",
+      "data": "23/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Festa grande a Sturno, in provincia di Avellino, per il traguardo di Lucia Laura Sangenito, per tutti Nonna Laurina, che compie 116 anni: è la donna più long..."
+    },
+    {
+      "titolo": "Come il manifesto di una startup di magliette ha spinto le persone di tutto il mondo a riconsiderare le proprie vite",
+      "link": "https://www.goodnewsnetwork.org/how-a-t-shirt-startups-manifesto-got-people-everywhere-rethinking-their-lives/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "23/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Proprio in tempo per le festività, Good News Network ha collaborato con Holstee per creare una collezione selezionata di regali che celebrano il vivere bene. Acquista la collezione..."
+    },
+    {
+      "titolo": "Gli archeologi rivelano che un potente re dell'età del ferro potrebbe essere stato una donna",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "23/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli archeologi hanno scoperto prove del fatto che Verica, il sovrano dell'età del ferro il cui esilio contribuì a scatenare l'invasione della Britannia da parte di Roma nel 43 d.C., era in realtà una donna. ..."
+    },
+    {
+      "titolo": "Un'onda d'urto galattica potrebbe riscrivere la mappa della Via Lattea",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "23/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una scoperta sorprendente suggerisce che la Via Lattea potrebbe formare stelle in luoghi in cui la maggior parte delle galassie non può farlo. Gli scienziati hanno trovato prove del fatto che una massiccia struttura rotante..."
+    },
     {
       "titolo": "Vittoria per i popoli dell’Amazzonia: il Presidente Lula riconosce ufficialmente il Territorio Indigeno Kapôt Nhĩnore",
       "link": "https://www.greenme.it/lifestyle/costume-e-societa/vittoria-amazzonia-territori-indigeni/",
