@@ -1,7 +1,52 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "I koala non bevono mai acqua. Assumono i liquidi dalle foglie di eucalipto che mangiano.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "I delfini dormono con un occhio aperto!",
   "notizie": [
+    {
+      "titolo": "Meno reality show e più programmi culturali: dopo la vittoria in Serbia, gli studenti rivoluzionano la tv",
+      "link": "https://www.greenme.it/lifestyle/intrattenimento/rivoluzione-tv-in-serbia-reality/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Serbia-reality.jpg",
+      "data": "24/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Rivoluzione nella tv in Serbia dopo la vittoria della Studentska Lista: reality ridotti a 45 minuti e solo dopo le 23 e il 30% dei palinsesti dedicati alla c..."
+    },
+    {
+      "titolo": "Orrore in un allevamento nel milanese: cani denutriti, farmaci senza prescrizione e una macabra scoperta in una cella frigorifera",
+      "link": "https://www.greenme.it/animali/allevamenti/orrore-allevamento-milanese-corpo-cella-frigorifera/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Cani-allevamento-Milano.jpg",
+      "data": "24/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Blitz di Carabinieri NAS, Guardie Zoofile OIPA Milano e Veterinari ATS in un allevamento nel milanese: trovati 10 cani denutriti, medicinali senza ricetta e ..."
+    },
+    {
+      "titolo": "Smascherava la fast fashion, ora il suo brand è nella bufera: Mattia Berveglieri e il caso delle certificazioni tessili di Numb",
+      "link": "https://www.greenme.it/lifestyle/moda/criticava-le-etichette-dei-vestiti-ora-il-suo-brand-e-nella-bufera-mattia-berveglieri-e-il-caso-delle-certificazioni-tessili-di-numb/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Mattia-Berveglieri-numb.jpg",
+      "data": "24/11/2026",
+      "categoria": "Mondo",
+      "sommario": "È diventato famoso per smascherare le etichette dei vestiti e criticare la fast fashion, ma ora Mattia Berveglieri deve rispondere alle accuse sulle certific..."
+    },
+    {
+      "titolo": "Un'organizzazione benefica sostituisce le tasse scolastiche con le noci di cocco, così ogni isolano può permettersi di andare a scuola",
+      "link": "https://www.goodnewsnetwork.org/charity-swaps-tuition-fees-for-coconuts-so-every-islander-can-afford-school/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "24/11/2026",
+      "categoria": "Mondo",
+      "sommario": "La palma da cocco viene spesso chiamata l'albero dei 1.000 usi, anche se il \"buono per le tasse scolastiche\" non è di solito uno di questi 1.000. Eppure la Faith Christian Academy..."
+    },
+    {
+      "titolo": "Il nucleo terrestre potrebbe rivelare un segreto risalente a 4,5 miliardi di anni fa",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "23/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Gli scienziati hanno scoperto una traccia di carbonio insolita nelle rocce vulcaniche delle Hawaii, che suggerisce che parte del carbonio terrestre provenga da antichi meteoriti e..."
+    },
     {
       "titolo": "Nonna Laurina compie 116 anni: Lucia Laura Sangenito è la donna più longeva d’Italia (e la terza al mondo)",
       "link": "https://www.greenme.it/lifestyle/costume-e-societa/nonna-laurina-compie-116-anni/",
