@@ -1,6 +1,6 @@
 {
-  "citazione": "Fai un respiro profondo. Tutto andrà bene. 🌿",
-  "curiosita": "Ogni secondo, nel corpo umano vengono distrutti 15 milioni di globuli.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "I koala non bevono mai acqua. Assumono i liquidi dalle foglie di eucalipto che mangiano.",
   "notizie": [
     {
       "titolo": "Nonna Laurina compie 116 anni: Lucia Laura Sangenito è la donna più longeva d’Italia (e la terza al mondo)",
@@ -271,24 +271,6 @@
       "data": "18/11/2026",
       "categoria": "Scienza & Tech",
       "sommario": "Un'importante svolta nella ricerca sulla superconduttività ha rivelato che uno degli elementi essenziali per il flusso di elettricità senza resistenza può esistere a..."
-    },
-    {
-      "titolo": "Aree idonee rinnovabili, la Consulta boccia parte del decreto",
-      "link": "https://www.rinnovabili.it/energia/infrastrutture/aree-idonee-rinnovabili-corte-costituzionale-boccia-due-norme/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "17/11/2026",
-      "categoria": "Mondo",
-      "sommario": "La Corte costituzionale, con la sentenza n. 197 depositata il 12 novembre 2026, ha accolto in parte il ricorso della Sardegna contro la nuova disciplina dell..."
-    },
-    {
-      "titolo": "Money Awards 2026: a Roma si premiano le imprese più innovative e sostenibili d’Italia (e puoi partecipare anche tu sostenendo AIL)",
-      "link": "https://www.greenme.it/ambiente/eventi-e-iniziative/money-awards-2026-a-roma-si-premiano-le-imprese-piu-innovative-e-sostenibili-ditalia-e-puoi-partecipare-anche-tu-sostenendo-ail/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/money-awards.jpg",
-      "data": "17/11/2026",
-      "categoria": "Società",
-      "sommario": "Il 26 novembre, al Radisson Blu GHR Hotel di Roma, saranno annunciati i vincitori dei Money Awards 2026. Al centro dell'iniziativa crescita economica, innova..."
     }
   ]
 }
