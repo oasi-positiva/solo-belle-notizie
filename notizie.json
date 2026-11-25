@@ -1,33 +1,42 @@
 {
   "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "Duello è legale, in Paraguay, purché entrambe le parti sono registrati i donatori di sangue.",
+  "curiosita": "I pipistrelli girano sempre a sinistra quando escono da una grotta.",
   "notizie": [
     {
-      "titolo": "Buone notizie nella storia, 18 novembre",
-      "link": "https://www.goodnewsnetwork.org/events061118/",
+      "titolo": "Giacca sportiva sostenibile da donna: come sceglierla e quali materiali cercare",
+      "link": "https://www.greenme.it/salute-e-alimentazione/sport-e-fitness/guida-green-giacca-sportiva-donna-da-acquistare-e-capi-sostenibili-per-un-guardaroba-etico/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/giacca-sportiva-donna.jpg",
+      "data": "25/11/2026",
+      "categoria": "Società",
+      "sommario": "Come scegliere una giacca sportiva sostenibile da donna? Dai materiali riciclati alle certificazioni, ecco cosa valutare per riconoscere un capo davvero eco-..."
+    },
+    {
+      "titolo": "I proprietari di \"Autos for Love\" sono felici di regalare auto ai vicini bisognosi",
+      "link": "https://www.goodnewsnetwork.org/texas-auto-shop-couple-is-hungry-to-keep-giving-cars-away-to-neighbors-in-need/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "18/11/2026",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "25/11/2026",
       "categoria": "Mondo",
-      "sommario": "Oggi, 75 anni fa, andò in onda per la prima volta la pionieristica serie di telegiornali See It Now. In onda per sette anni su CBS, fu creata dall'iconico giornalista Edw..."
+      "sommario": "Una volta all'anno, i proprietari di un'autofficina in Texas rimettono a nuovo un'auto donata e poi consegnano le chiavi a un membro della loro comunità in difficoltà. Ma grazie a..."
+    },
+    {
+      "titolo": "I fisici intrappolano l'antimateria in una scoperta rivoluzionaria che potrebbe spiegare perché l'universo esiste",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "25/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "I positroni sono le controparti di antimateria degli elettroni. I fisici hanno intrappolato un positrone e lo hanno raffreddato a temperature prossime allo zero assoluto. Il positrone è sospeso..."
     },
     {
       "titolo": "Un eccesso di esercizio fisico potrebbe lasciare il cervello in sovraccarico",
       "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
       "data": "18/11/2026",
       "categoria": "Mondo",
-      "sommario": "Fare troppo esercizio fisico senza un adeguato recupero può sconvolgere la chimica del cervello in modi sorprendenti. Gli scienziati hanno scoperto che i topi sottoposti ad allenamenti prolungati e intensi..."
-    },
-    {
-      "titolo": "Una nuova scoperta rivela cosa potrebbe ostacolare i superconduttori a temperatura ambiente",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "18/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Un importante passo avanti nella ricerca sulla superconduttività ha rivelato che uno degli elementi essenziali per il flusso di elettricità senza resistenza può esistere a..."
+      "sommario": "Fare troppo esercizio fisico senza un adeguato recupero può alterare la chimica del cervello in modi sorprendenti. Gli scienziati hanno scoperto che i topi sottoposti ad allenamenti prolungati e intensi..."
     },
     {
       "titolo": "Meno reality show e più programmi culturali: dopo la vittoria in Serbia, gli studenti rivoluzionano la tv",
