@@ -1,7 +1,34 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "I delfini dormono con un occhio aperto!",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Duello è legale, in Paraguay, purché entrambe le parti sono registrati i donatori di sangue.",
   "notizie": [
+    {
+      "titolo": "Buone notizie nella storia, 18 novembre",
+      "link": "https://www.goodnewsnetwork.org/events061118/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "18/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Oggi, 75 anni fa, andò in onda per la prima volta la pionieristica serie di telegiornali See It Now. In onda per sette anni su CBS, fu creata dall'iconico giornalista Edw..."
+    },
+    {
+      "titolo": "Un eccesso di esercizio fisico potrebbe lasciare il cervello in sovraccarico",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "18/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Fare troppo esercizio fisico senza un adeguato recupero può sconvolgere la chimica del cervello in modi sorprendenti. Gli scienziati hanno scoperto che i topi sottoposti ad allenamenti prolungati e intensi..."
+    },
+    {
+      "titolo": "Una nuova scoperta rivela cosa potrebbe ostacolare i superconduttori a temperatura ambiente",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "18/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un importante passo avanti nella ricerca sulla superconduttività ha rivelato che uno degli elementi essenziali per il flusso di elettricità senza resistenza può esistere a..."
+    },
     {
       "titolo": "Meno reality show e più programmi culturali: dopo la vittoria in Serbia, gli studenti rivoluzionano la tv",
       "link": "https://www.greenme.it/lifestyle/intrattenimento/rivoluzione-tv-in-serbia-reality/",
@@ -271,51 +298,6 @@
       "data": "19/11/2026",
       "categoria": "Mondo",
       "sommario": "Le fiamme di idrogeno possono passare da un colore arancione brillante a quasi invisibili a causa di un fattore inaspettato: piccole quantità di sodio sospese nell'aria. Gli scienziati affermano..."
-    },
-    {
-      "titolo": "Un eccesso di esercizio fisico potrebbe lasciare il cervello in sovraccarico",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "18/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Fare troppo esercizio fisico senza un adeguato recupero può alterare la chimica del cervello in modi sorprendenti. Gli scienziati hanno scoperto che i topi sottoposti ad allenamenti prolungati e intensi..."
-    },
-    {
-      "titolo": "Dall’app per gli escursionisti alla scuola di antichi mestieri: i 5 progetti finalisti del Premio Repower 2026 su turismo e innovazione",
-      "link": "https://www.greenme.it/viaggi/dallapp-per-gli-escursionisti-alla-scuola-di-antichi-mestieri-i-5-progetti-finalisti-del-premio-repower-2026-su-turismo-e-innovazione/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/Premio-Speciale-Repower-Innovazione-Turismo-2026_Startup.jpg",
-      "data": "18/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "L'intelligenza artificiale entra negli hotel e organizza escursioni: le idee presentate al Premio Repower 2026"
-    },
-    {
-      "titolo": "Quali sono le acque più consigliate in abbinamento a una dieta detox post‑feste?",
-      "link": "https://www.greenme.it/ambiente/acqua/quali-sono-le-acque-piu-consigliate-in-abbinamento-a-una-dieta-detox-post-feste/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/bere-acqua.jpg",
-      "data": "18/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Quando il periodo natalizio vola via, ci sentiamo tutti un po' come dei palloncini dopo una festa riuscita: sgonfi nell'umore ma decisamente \"pieni\" nel corp..."
-    },
-    {
-      "titolo": "Buone notizie nella storia, 18 novembre",
-      "link": "https://www.goodnewsnetwork.org/events061118/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "18/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Oggi, 75 anni fa, andava in onda per la prima volta la pionieristica serie di telegiornali See It Now. In onda per sette anni su CBS, è stata creata dall'iconico giornalista Edw..."
-    },
-    {
-      "titolo": "Una nuova scoperta rivela cosa potrebbe ostacolare i superconduttori a temperatura ambiente",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "18/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Un'importante svolta nella ricerca sulla superconduttività ha rivelato che uno degli elementi essenziali per il flusso di elettricità senza resistenza può esistere a..."
     }
   ]
 }
