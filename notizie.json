@@ -1,7 +1,34 @@
 {
   "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "I pipistrelli girano sempre a sinistra quando escono da una grotta.",
+  "curiosita": "La cartilagine tiroidea è più comunemente nota come pomo d'Adamo.",
   "notizie": [
+    {
+      "titolo": "L'Empire State Building si illumina d'oro per celebrare l'importante traguardo storico del Voyager 1 della NASA questa settimana",
+      "link": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "19/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Questa settimana l'Empire State Building è stato illuminato di colore oro per celebrare il passaggio della sonda spaziale Voyager 1 della NASA a un giorno luce di distanza dalla Terra. Ora ci vogliono..."
+    },
+    {
+      "titolo": "Oltre 100 scheletri di orsi delle caverne scoperti in un ritrovamento \"sensazionale\" da una guida alpina",
+      "link": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/",
+      "fonte": "Good News Network",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "19/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Le autorità locali hanno reso nota la \"sensazionale\" scoperta di una grotta contenente gli scheletri di oltre 100 orsi delle caverne estinti. Tenuta segreta per evitare..."
+    },
+    {
+      "titolo": "Perché le fiamme di idrogeno possono brillare di colore arancione e poi diventare quasi invisibili",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "19/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Le fiamme di idrogeno possono passare da un colore arancione brillante a quasi invisibili a seconda di un fattore inaspettato: piccole quantità di sodio sospese nell'aria. Gli scienziati affermano..."
+    },
     {
       "titolo": "Giacca sportiva sostenibile da donna: come sceglierla e quali materiali cercare",
       "link": "https://www.greenme.it/salute-e-alimentazione/sport-e-fitness/guida-green-giacca-sportiva-donna-da-acquistare-e-capi-sostenibili-per-un-guardaroba-etico/",
@@ -28,15 +55,6 @@
       "data": "25/11/2026",
       "categoria": "Scienza & Tech",
       "sommario": "I positroni sono le controparti di antimateria degli elettroni. I fisici hanno intrappolato un positrone e lo hanno raffreddato a temperature prossime allo zero assoluto. Il positrone è sospeso..."
-    },
-    {
-      "titolo": "Un eccesso di esercizio fisico potrebbe lasciare il cervello in sovraccarico",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "18/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Fare troppo esercizio fisico senza un adeguato recupero può alterare la chimica del cervello in modi sorprendenti. Gli scienziati hanno scoperto che i topi sottoposti ad allenamenti prolungati e intensi..."
     },
     {
       "titolo": "Meno reality show e più programmi culturali: dopo la vittoria in Serbia, gli studenti rivoluzionano la tv",
@@ -226,87 +244,6 @@
       "data": "20/11/2026",
       "categoria": "Animali",
       "sommario": "Il progetto mira a creare e ripristinare gli habitat di anfibi e lucertole in alcuni siti dello Yorkshire."
-    },
-    {
-      "titolo": "Ricordate il procione che si era ubriacato in un negozio di liquori? Ha raccolto quasi 300mila dollari per aiutare gli animali nei rifugi",
-      "link": "https://www.greenme.it/animali/animali-selvatici/procione-ubriacato-raccolto-300mila-dollari-animali/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2025/12/Procione-ubriaco.jpg",
-      "data": "19/11/2026",
-      "categoria": "Animali",
-      "sommario": "Dallo svenimento nel bagno di un negozio di liquori perché ubriaco al successo virale: il procione star del web ha permesso di raccogliere oltre 290.000 doll..."
-    },
-    {
-      "titolo": "Furto di dati per Poste Italiane, a rischio oltre 1500 clienti: cos’è successo? Ecco cosa sappiamo sulla violazione",
-      "link": "https://www.greenme.it/lifestyle/furto-di-dati-per-poste-italiane-a-rischio-oltre-1500-clienti-cose-successo-ecco-quali-utenti-sono-coinvolti/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/poste.jpg",
-      "data": "19/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Poste Italiane conferma una violazione di dati: online contratti di firma digitale con nomi, indirizzi, email e cellulari. Nessuna password né dato di pagamento"
-    },
-    {
-      "titolo": "Negli allevamenti di salmoni in Norvegia 3.500 robot IA sparano laser contro i pidocchi, vogliamo davvero chiamarlo progresso?",
-      "link": "https://www.greenme.it/animali/allevamenti/allevamenti-di-salmoni-in-norvegia-3-500-robot-ia-sparano-laser-contro-i-pidocchi-ma-i-pesci-corrono-rischi/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/robot-laser-Ai-salmoni.jpg",
-      "data": "19/11/2026",
-      "categoria": "Mondo",
-      "sommario": "In Norvegia migliaia di dispositivi subacquei utilizzano telecamere, intelligenza artificiale e raggi laser per eliminare i pidocchi di mare dai salmoni alle..."
-    },
-    {
-      "titolo": "Formula E, intervista esclusiva a Julia Pallé: “La sostenibilità non è un compromesso, ma il futuro del motorsport”",
-      "link": "https://www.rinnovabili.it/mobilita/formula-e-le-strategie-per-un-motorsport-sostenibile/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "19/11/2026",
-      "categoria": "Società",
-      "sommario": "Intervista esclusiva per Rinnovabili alla Vice President of Sustainability della Formula E: dalla riduzione delle emissioni nella logistica alle batterie sen..."
-    },
-    {
-      "titolo": "NASCHA lancia il primo bando da 600.000 euro per l’innovazione nell’idrogeno rinnovabile",
-      "link": "https://www.rinnovabili.it/mercato/le-aziende-informano/primo-bando-nascha-innovazione-idrogeno-rinnovabile/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "19/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Contributi e un servizio di mentoring dedicato aiuteranno le PMI a validare le proprie soluzioni e a portarle sul mercato\nL'articolo NASCHA lancia il primo b..."
-    },
-    {
-      "titolo": "L'Empire State Building si illumina d'oro per celebrare l'importante traguardo del Voyager 1 della NASA questa settimana",
-      "link": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "19/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Questa settimana l'Empire State Building è stato illuminato di oro per celebrare il passaggio della sonda spaziale Voyager 1 della NASA a un giorno luce dalla Terra. Ora ci vogliono..."
-    },
-    {
-      "titolo": "Oltre 100 scheletri di orsi delle caverne scoperti in una \"sensazionale\" scoperta da una guida alpina",
-      "link": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "19/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Le autorità locali hanno reso nota la \"sensazionale\" scoperta di una grotta contenente gli scheletri di oltre 100 orsi delle caverne estinti. Tenuta segreta per evitare..."
-    },
-    {
-      "titolo": "Il libero arbitrio è un'illusione? Una nuova ricerca sul cervello rivela una svolta sorprendente",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
-      "data": "19/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Una nuova ricerca rivela che il cervello effettua scelte libere e decisioni forzate utilizzando processi neurali sorprendentemente simili, con un'attività che si intensifica verso una decisione..."
-    },
-    {
-      "titolo": "Perché le fiamme di idrogeno possono brillare di colore arancione e poi diventare quasi invisibili",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "19/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Le fiamme di idrogeno possono passare da un colore arancione brillante a quasi invisibili a causa di un fattore inaspettato: piccole quantità di sodio sospese nell'aria. Gli scienziati affermano..."
     }
   ]
 }
