@@ -1,33 +1,24 @@
 {
-  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
-  "curiosita": "La cartilagine tiroidea è più comunemente nota come pomo d'Adamo.",
+  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
+  "curiosita": "I gatti emettono oltre cento suoni vocali, mentre i cani ne emettono solo una decina.",
   "notizie": [
     {
-      "titolo": "L'Empire State Building si illumina d'oro per celebrare l'importante traguardo storico del Voyager 1 della NASA questa settimana",
-      "link": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/",
+      "titolo": "Quest'anno, il film perfetto per il Ringraziamento presenta due icone, un'amicizia e una gioia infinita",
+      "link": "https://www.goodnewsnetwork.org/mission-joy-perfect-friendship-film-key-to-happiness/",
       "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "19/11/2026",
+      "immagine": "https://images.unsplash.com/photo-1470071131384-001b85755536?w=800&q=80",
+      "data": "26/11/2026",
       "categoria": "Mondo",
-      "sommario": "Questa settimana l'Empire State Building è stato illuminato di colore oro per celebrare il passaggio della sonda spaziale Voyager 1 della NASA a un giorno luce di distanza dalla Terra. Ora ci vogliono..."
+      "sommario": "Il Ringraziamento è un momento per riunirsi, rendere grazie e ricordare che la gioia è possibile anche quando la vita è stata dura. Pochi film riescono a cogliere meglio questo spirito..."
     },
     {
-      "titolo": "Oltre 100 scheletri di orsi delle caverne scoperti in un ritrovamento \"sensazionale\" da una guida alpina",
-      "link": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/",
-      "fonte": "Good News Network",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "19/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Le autorità locali hanno reso nota la \"sensazionale\" scoperta di una grotta contenente gli scheletri di oltre 100 orsi delle caverne estinti. Tenuta segreta per evitare..."
-    },
-    {
-      "titolo": "Perché le fiamme di idrogeno possono brillare di colore arancione e poi diventare quasi invisibili",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+      "titolo": "Questo fossile di 345 milioni di anni ha ingannato gli scienziati per decenni",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
       "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "19/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Le fiamme di idrogeno possono passare da un colore arancione brillante a quasi invisibili a seconda di un fattore inaspettato: piccole quantità di sodio sospese nell'aria. Gli scienziati affermano..."
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "26/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Un famoso fossile di 345 milioni di anni si è rivelato essere qualcosa di completamente diverso da ciò che gli scienziati credevano per decenni. L'imaging avanzato a raggi X ha rivelato..."
     },
     {
       "titolo": "Giacca sportiva sostenibile da donna: come sceglierla e quali materiali cercare",
