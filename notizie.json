@@ -1,7 +1,34 @@
 {
   "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "I gatti emettono oltre cento suoni vocali, mentre i cani ne emettono solo una decina.",
+  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
   "notizie": [
+    {
+      "titolo": "La relatività di Einstein ha appena sconvolto una regola fondamentale della chimica",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "data": "20/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Una sorprendente scoperta della Brown University sta mettendo in discussione una delle spiegazioni più fondamentali dei libri di testo di chimica. I ricercatori hanno trovato prove dirette che..."
+    },
+    {
+      "titolo": "Gli scienziati del CERN finalmente trovano prove di un decadimento di particelle così raro che ci sono voluti 40 anni per rilevarlo",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
+      "data": "20/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Dopo oltre 40 anni di ricerche, gli scienziati del CERN hanno trovato la prima prova di un decadimento di particelle incredibilmente raro, rilevando un processo che si prevede..."
+    },
+    {
+      "titolo": "Un bambino di 3 milioni di anni fa ha appena reso l'evoluzione umana molto più complicata",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "20/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Uno studio rivoluzionario sul fossile del Bambino di Taung, risalente a 3 milioni di anni fa, suggerisce che diversi antichi antenati umani, un tempo ritenuti appartenenti alla stessa specie..."
+    },
     {
       "titolo": "Quest'anno, il film perfetto per il Ringraziamento presenta due icone, un'amicizia e una gioia infinita",
       "link": "https://www.goodnewsnetwork.org/mission-joy-perfect-friendship-film-key-to-happiness/",
@@ -147,15 +174,6 @@
       "sommario": "Una tecnica sperimentale usa un impulso elettrico per trasformare vecchie pale eoliche in materiali riutilizzabili per produrre nuove turbine eoliche"
     },
     {
-      "titolo": "La relatività di Einstein ha appena sconvolto una regola fondamentale della chimica",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "20/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Una sorprendente scoperta fatta alla Brown University sta mettendo in discussione una delle spiegazioni più fondamentali dei libri di testo di chimica. I ricercatori hanno trovato prove dirette che..."
-    },
-    {
       "titolo": "La COP31 non riesce a raggiungere un importante accordo sul clima poiché i negoziati mettono in luce profonde divisioni",
       "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC Science",
@@ -190,51 +208,6 @@
       "data": "21/11/2026",
       "categoria": "Mondo",
       "sommario": "La sonda Voyager 1 della NASA ha raggiunto una pietra miliare straordinaria, percorrendo 25,9 miliardi di chilometri dalla Terra ed essendo così il primo veicolo spaziale a trovarsi a una distanza tale che i suoi segnali..."
-    },
-    {
-      "titolo": "Dalla tutela dei coralli al recupero delle torbiere: 5 buone notizie per il Pianeta dalla COP31",
-      "link": "https://www.greenme.it/ambiente/dalla-tutela-dei-coralli-al-recupero-delle-torbiere-5-buone-notizie-per-il-pianeta-dalla-cop31/",
-      "fonte": "GreenMe",
-      "immagine": "https://www.greenme.it/wp-content/uploads/2024/11/Barrirera-corallina.jpg",
-      "data": "20/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Dalla protezione delle barriere coralline al recupero delle torbiere, fino alla riduzione delle emissioni di metano: mentre ad Antalya si fatica a trovare un..."
-    },
-    {
-      "titolo": "Aree idonee in Basilicata, Giunta pronta ad adottare il ddl",
-      "link": "https://www.rinnovabili.it/energia/fotovoltaico/aree-idonee-in-basilicata-giunta-adottare-ddl/",
-      "fonte": "Rinnovabili.it",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "20/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Mongiello: “La Direzione generale Ambiente, Energia e Tutela del Territorio ha predisposto un disegno di legge regionale che amplia il novero delle superfici..."
-    },
-    {
-      "titolo": "Gli scienziati del CERN finalmente trovano prove di un decadimento di particelle così raro che ci sono voluti 40 anni per rilevarlo",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "20/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Dopo oltre 40 anni di ricerche, gli scienziati del CERN hanno trovato la prima prova di un decadimento di particelle incredibilmente raro, rilevando un processo che si prevede..."
-    },
-    {
-      "titolo": "Un bambino di 3 milioni di anni fa ha appena reso l'evoluzione umana molto più complicata",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "20/11/2026",
-      "categoria": "Mondo",
-      "sommario": "Uno studio rivoluzionario sul fossile del Bambino di Taung, risalente a 3 milioni di anni fa, suggerisce che diversi antichi antenati umani, un tempo ritenuti appartenenti alla stessa specie..."
-    },
-    {
-      "titolo": "I fondi per la conservazione della fauna selvatica si concentrano sui siti delle ex miniere di carbone",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Science",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "20/11/2026",
-      "categoria": "Animali",
-      "sommario": "Il progetto mira a creare e ripristinare gli habitat di anfibi e lucertole in alcuni siti dello Yorkshire."
     }
   ]
 }
