@@ -1,33 +1,42 @@
 {
   "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "Il battito cardiaco di due persone che si amano si sincronizza se si guardano negli occhi.",
+  "curiosita": "La lingua di un camaleonte è lunga il doppio del suo corpo.",
   "notizie": [
     {
-      "titolo": "La relatività di Einstein ha appena sconvolto una regola fondamentale della chimica",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
-      "data": "20/11/2026",
+      "titolo": "Spagna segreta: il pittoresco borgo aragonese con più muretti a secco che abitanti",
+      "link": "https://www.greenme.it/viaggi/spagna-segreta-il-pittoresco-borgo-aragonese-con-piu-muretti-a-secco-che-abitanti/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/11/borgo_aragonese_cover.jpg",
+      "data": "27/11/2026",
       "categoria": "Mondo",
-      "sommario": "Una sorprendente scoperta della Brown University sta mettendo in discussione una delle spiegazioni più fondamentali dei libri di testo di chimica. I ricercatori hanno trovato prove dirette che..."
+      "sommario": "Alla scoperta di La Iglesuela del Cid e della comarca del Maestrazgo, una delle zone più affascinanti e meno battute dell'Aragona"
     },
     {
-      "titolo": "Gli scienziati del CERN finalmente trovano prove di un decadimento di particelle così raro che ci sono voluti 40 anni per rilevarlo",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80",
-      "data": "20/11/2026",
-      "categoria": "Scienza & Tech",
-      "sommario": "Dopo oltre 40 anni di ricerche, gli scienziati del CERN hanno trovato la prima prova di un decadimento di particelle incredibilmente raro, rilevando un processo che si prevede..."
+      "titolo": "Dai rischi per i lupi e i nostri boschi ai cacciatori nei terreni privati: perché il Ddl Sparatutto ci riguarda da vicino",
+      "link": "https://www.greenme.it/animali/dai-rischi-per-i-lupi-e-i-nostri-boschi-ai-cacciatori-nei-terreni-privati-perche-il-ddl-sparatutto-ci-riguarda-tutti/",
+      "fonte": "GreenMe",
+      "immagine": "https://www.greenme.it/wp-content/uploads/2026/10/stop-ue-piombo-caccia-c.jpg",
+      "data": "27/11/2026",
+      "categoria": "Mondo",
+      "sommario": "Dai rischi per i lupi e la biodiversità all'utilizzo degli uccelli come richiami vivi, fino alla sicurezza di chi frequenta i boschi: ecco perché il Ddl Spar..."
     },
     {
-      "titolo": "Un bambino di 3 milioni di anni fa ha appena reso l'evoluzione umana molto più complicata",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+      "titolo": "Gli scienziati trasformano una delle plastiche più difficili da riciclare al mondo in olio lubrificante ad alte prestazioni",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
       "fonte": "Science Daily",
       "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "20/11/2026",
+      "data": "27/11/2026",
+      "categoria": "Scienza & Tech",
+      "sommario": "Gli scienziati della Virginia Tech hanno scoperto come trasformare una delle plastiche più difficili da riciclare al mondo in un prezioso componente per materiali ingegneristici ad alte prestazioni..."
+    },
+    {
+      "titolo": "Questi bizzarri mammiferi preistorici potrebbero essere stati fraintesi per 150 anni",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm",
+      "fonte": "Science Daily",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "27/11/2026",
       "categoria": "Mondo",
-      "sommario": "Uno studio rivoluzionario sul fossile del Bambino di Taung, risalente a 3 milioni di anni fa, suggerisce che diversi antichi antenati umani, un tempo ritenuti appartenenti alla stessa specie..."
+      "sommario": "I mammiferi giganti con le corna comparsi poco dopo l'estinzione dei dinosauri potrebbero aver avuto molte meno differenze fisiche tra maschi e femmine rispetto..."
     },
     {
       "titolo": "Quest'anno, il film perfetto per il Ringraziamento presenta due icone, un'amicizia e una gioia infinita",
