@@ -1,7 +1,16 @@
 {
-  "citazione": "Il sorriso è la curva che raddrizza ogni cosa. 😊",
-  "curiosita": "La lingua di un camaleonte è lunga il doppio del suo corpo.",
+  "citazione": "Prenditi una pausa. Il mondo può aspettare. ☕",
+  "curiosita": "Le lontre di mare si tengono per mano mentre dormono per non separarsi.",
   "notizie": [
+    {
+      "titolo": "ANCI e GSE rinnovano accordo per la transizione energetica dei Comuni",
+      "link": "https://www.rinnovabili.it/mercato/aziende/transizione-energetica-comuni-rinnovato-accordo-anci-gse/",
+      "fonte": "Rinnovabili.it",
+      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "data": "27/11/2026",
+      "categoria": "Mondo",
+      "sommario": "ANCI e GSE firmano un nuovo protocollo triennale per accompagnare Comuni e Città metropolitane nella transizione energetica, puntando su riqualificazione deg..."
+    },
     {
       "titolo": "Spagna segreta: il pittoresco borgo aragonese con più muretti a secco che abitanti",
       "link": "https://www.greenme.it/viaggi/spagna-segreta-il-pittoresco-borgo-aragonese-con-piu-muretti-a-secco-che-abitanti/",
@@ -208,15 +217,6 @@
       "data": "22/11/2026",
       "categoria": "Mondo",
       "sommario": "Secondo un'organizzazione benefica, ora esiste una popolazione autosufficiente di falene in una riserva naturale dell'Essex."
-    },
-    {
-      "titolo": "La sonda Voyager 1 della NASA è ora così lontana che la luce impiega 24 ore per raggiungerla",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-      "fonte": "Science Daily",
-      "immagine": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
-      "data": "21/11/2026",
-      "categoria": "Mondo",
-      "sommario": "La sonda Voyager 1 della NASA ha raggiunto una pietra miliare straordinaria, percorrendo 25,9 miliardi di chilometri dalla Terra ed essendo così il primo veicolo spaziale a trovarsi a una distanza tale che i suoi segnali..."
     }
   ]
 }
